@@ -4,7 +4,7 @@ My name is Robin Ingelbrecht and I'm an open source (web) developer at heart and
 Obviously, I'm also into gaming 🎮.
 
 
-## 🔧 Technologies & Tools
+## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
@@ -23,4 +23,9 @@ Obviously, I'm also into gaming 🎮.
 
 ## :pencil2: Recent Medium posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"> 
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"> 
+
