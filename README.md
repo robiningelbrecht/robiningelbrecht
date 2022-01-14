@@ -21,7 +21,7 @@ Obviously, I'm also into gaming 🎮.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiningelbrecht&layout=compact)](https://github.com/robiningelbrecht)
 
-## :pencil2: Recent Medium posts
+## :pencil: Recent Medium posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"> 
  
