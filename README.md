@@ -15,10 +15,12 @@ Obviously, I'm also into gaming 🎮.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 [![Robin Ingelbrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiningelbrecht&count_private=true)](https://github.com/robiningelbrecht)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiningelbrecht&layout=compact)](https://github.com/robiningelbrecht)
+
+## :pencil2: Recent Medium posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0" alt="Recent Article 0"> 
