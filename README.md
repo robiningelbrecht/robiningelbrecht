@@ -26,8 +26,8 @@ Obviously, I'm also into gaming 🎮.
 
 ## :pencil: Latest blog posts
 
-<!-- MEDIUM-POSTS-LIST:START -->
-<!-- MEDIUM-POSTS-LIST:END -->
+<!-- MEDIUM-POSTS:START -->
+<!-- MEDIUM-POSTS:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"> 
  
