@@ -27,6 +27,11 @@ Obviously, I'm also into gaming 🎮.
 ## :pencil: Latest blog posts
 
 <!-- MEDIUM-POSTS:START -->
+- [A flippable card built with a custom web component](https://ingelbrechtrobin.medium.com/a-flippable-card-built-with-a-custom-web-component-4ce5e83dffa9?source=rss-45b70a6f6d97------2)
+- [Why and how to improve your password management](https://ingelbrechtrobin.medium.com/why-and-how-to-improve-your-password-management-e32bf3f9b28e?source=rss-45b70a6f6d97------2)
+- [Cron jobs &amp; timezone conversions in PHP](https://ingelbrechtrobin.medium.com/cron-jobs-timezone-conversions-in-php-589f7c4e3445?source=rss-45b70a6f6d97------2)
+- [Drupal 8/9: Facets AJAX commands](https://ingelbrechtrobin.medium.com/drupal-8-facets-ajax-commands-7a825b8a359b?source=rss-45b70a6f6d97------2)
+- [Drupal 8 Commerce, under the hood](https://ingelbrechtrobin.medium.com/drupal-8-commerce-under-the-hood-e4354067540b?source=rss-45b70a6f6d97------2)
 <!-- MEDIUM-POSTS:END -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"> 
