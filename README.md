@@ -24,14 +24,6 @@ Obviously, I'm also into gaming 🎮.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"> 
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"> 
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
-2. 💪 Opened PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
-3. 💪 Opened PR [#8](https://github.com/optiosteam/payconiq-client-php/pull/8) in [optiosteam/payconiq-client-php](https://github.com/optiosteam/payconiq-client-php)
-<!--END_SECTION:activity-->
  
 ## :chart_with_upwards_trend: GitHub Stats
 
@@ -41,4 +33,13 @@ Obviously, I'm also into gaming 🎮.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiningelbrecht&layout=compact)](https://github.com/robiningelbrecht) 
 
  ## :sparkles: GitHub Trophies
+ 
 ![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+ 
+ ## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
+2. 💪 Opened PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
+3. 💪 Opened PR [#8](https://github.com/optiosteam/payconiq-client-php/pull/8) in [optiosteam/payconiq-client-php](https://github.com/optiosteam/payconiq-client-php)
+<!--END_SECTION:activity-->
