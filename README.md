@@ -28,6 +28,9 @@ Obviously, I'm also into gaming 🎮.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
+2. 💪 Opened PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
+3. 💪 Opened PR [#8](https://github.com/optiosteam/payconiq-client-php/pull/8) in [optiosteam/payconiq-client-php](https://github.com/optiosteam/payconiq-client-php)
 <!--END_SECTION:activity-->
  
 ## :chart_with_upwards_trend: GitHub Stats
