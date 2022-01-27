@@ -3,6 +3,8 @@
 My name is Robin Ingelbrecht and I'm an open source (web) developer at heart and always try to up my game by challenging myself and thosearound me.
 Obviously, I'm also into gaming 🎮.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0D61B8&style=flat)](https://linkedin.com/in/robin-ingelbrecht) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&color=2bbc8a&style=flat)](https://medium.com/@ingelbrechtrobin) 
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -14,10 +16,6 @@ Obviously, I'm also into gaming 🎮.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-## :globe_with_meridians: Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0D61B8&style=flat)](https://linkedin.com/in/robin-ingelbrecht) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&color=2bbc8a&style=flat)](https://medium.com/@ingelbrechtrobin) 
 
 ## :chart_with_upwards_trend: GitHub Stats
 
