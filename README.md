@@ -24,7 +24,7 @@ Obviously, I'm also into gaming 🎮.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiningelbrecht&layout=compact)](https://github.com/robiningelbrecht)
 
-## :pencil: Recent Medium posts
+## :pencil: Latest bog posts
 
 <!-- MEDIUM-POSTS-LIST:START -->
 <!-- MEDIUM-POSTS-LIST:END -->
