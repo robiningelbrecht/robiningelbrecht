@@ -15,9 +15,14 @@ Obviously, I'm also into gaming 🎮.
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+## :globe_with_meridians: Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=0D61B8&style=flat)](https://linkedin.com/in/robin-ingelbrecht) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&color=2bbc8a&style=flat)](https://medium.com/@ingelbrechtrobin) 
+
 ## :chart_with_upwards_trend: GitHub Stats
 
 [![Robin Ingelbrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiningelbrecht&count_private=true)](https://github.com/robiningelbrecht)
+[![Robin Ingelbrecht's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht)](https://github.com/robiningelbrecht)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiningelbrecht&layout=compact)](https://github.com/robiningelbrecht)
 
@@ -29,3 +34,5 @@ Obviously, I'm also into gaming 🎮.
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"> 
 
+ ## :sparkles: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
