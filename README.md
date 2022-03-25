@@ -48,7 +48,7 @@ Obviously, I'm also into gaming 🎮.
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
-2. 💪 Opened PR [#1](https://github.com/robiningelbrecht/pokemon-memory-game/pull/1) in [robiningelbrecht/pokemon-memory-game](https://github.com/robiningelbrecht/pokemon-memory-game)
-3. 💪 Opened PR [#8](https://github.com/optiosteam/payconiq-client-php/pull/8) in [optiosteam/payconiq-client-php](https://github.com/optiosteam/payconiq-client-php)
+1. 💪 Opened PR [#3](https://github.com/robiningelbrecht/continuous-integration-example/pull/3) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
+2. ❌ Closed PR [#1](https://github.com/robiningelbrecht/continuous-integration-example/pull/1) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
+3. 🎉 Merged PR [#2](https://github.com/robiningelbrecht/continuous-integration-example/pull/2) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
 <!--END_SECTION:activity-->
