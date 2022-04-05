@@ -49,7 +49,7 @@ Obviously, I'm also into gaming 🎮.
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/robiningelbrecht/continuous-integration-example/pull/7) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
-2. 💪 Opened PR [#6](https://github.com/robiningelbrecht/continuous-integration-example/pull/6) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
-3. 💪 Opened PR [#5](https://github.com/robiningelbrecht/continuous-integration-example/pull/5) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
+1. 💪 Opened PR [#8](https://github.com/robiningelbrecht/continuous-integration-example/pull/8) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
+2. 💪 Opened PR [#7](https://github.com/robiningelbrecht/continuous-integration-example/pull/7) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
+3. 💪 Opened PR [#6](https://github.com/robiningelbrecht/continuous-integration-example/pull/6) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
 <!--END_SECTION:activity-->
