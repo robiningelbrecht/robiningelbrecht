@@ -24,6 +24,7 @@ Obviously, I'm also into gaming 🎮.
 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
 
