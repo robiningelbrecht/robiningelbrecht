@@ -36,7 +36,9 @@ Obviously, I'm also into gaming 🎮.
 <a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/3/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/3/" /></a>
 <a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/5/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/4/" /></a>
 
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## :chart_with_upwards_trend: GitHub Stats
 
 [![Robin Ingelbrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiningelbrecht&count_private=true)](https://github.com/robiningelbrecht)
