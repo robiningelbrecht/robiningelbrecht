@@ -32,6 +32,8 @@ Obviously, I'm also into gaming 🎮.
 
 <a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/" /></a>
 
+<img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/1/" />
+
  
 ## :chart_with_upwards_trend: GitHub Stats
 
