@@ -6,6 +6,9 @@ Obviously, I'm also into gaming 🎮.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D61B8?style=flat&logo=linkedin&logoColor=white&color=0D61B8)](https://linkedin.com/in/robin-ingelbrecht) 
 [![Medium](https://img.shields.io/badge/Medium-2bbc8a?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://ingelbrechtrobin.medium.com/) 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
@@ -31,65 +34,6 @@ Obviously, I'm also into gaming 🎮.
 ## :pencil: Latest blog posts
 
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0,1,2,3,4/" /></a>
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 121 Contributions in the Year 2022
- > 
-> 📦 219.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-🌆 Daytime    67 commits     ███████████░░░░░░░░░░░░░░   46.21% 
-🌃 Evening    50 commits     ████████░░░░░░░░░░░░░░░░░   34.48% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       34 commits     █████░░░░░░░░░░░░░░░░░░░░   23.45% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   28.97% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      10 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 ## :chart_with_upwards_trend: GitHub Stats
 
