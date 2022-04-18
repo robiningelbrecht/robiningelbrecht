@@ -30,7 +30,7 @@ Obviously, I'm also into gaming 🎮.
 
 ## :pencil: Latest blog posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/0"> 
+<img src="https://medium-rss-github-robiningelbrecht.vercel.app/@ingelbrechtrobin/2" /> 
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"> 
   
