@@ -37,6 +37,82 @@ Obviously, I'm also into gaming 🎮.
 <a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/5/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/4/" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 117 Contributions in the Year 2022
+ > 
+> 📦 219.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+🌆 Daytime    67 commits     ████████████░░░░░░░░░░░░░   48.2% 
+🌃 Evening    44 commits     ████████░░░░░░░░░░░░░░░░░   31.65% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   30.22% 
+Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      10 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/robiningelbrecht/robiningelbrecht/main/charts/bar_graph.png) 
+
+
+ Last Updated on 18/04/2022 11:33:23 UTC
 <!--END_SECTION:waka-->
 
 ## :chart_with_upwards_trend: GitHub Stats
