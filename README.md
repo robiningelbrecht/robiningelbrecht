@@ -30,11 +30,7 @@ Obviously, I'm also into gaming 🎮.
 
 ## :pencil: Latest blog posts
 
-<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/" /></a>
-<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/1/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/1/" /></a>
-<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/2/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/2/" /></a>
-<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/3/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/3/" /></a>
-<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/5/link"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/4/" /></a>
+<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github-robiningelbrecht.vercel.app/@ingelbrechtrobin/0,1,2,3,4/" /></a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
