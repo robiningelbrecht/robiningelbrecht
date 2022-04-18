@@ -6,6 +6,28 @@ Obviously, I'm also into gaming 🎮.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D61B8?style=flat&logo=linkedin&logoColor=white&color=0D61B8)](https://linkedin.com/in/robin-ingelbrecht) 
 [![Medium](https://img.shields.io/badge/Medium-2bbc8a?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://ingelbrechtrobin.medium.com/) 
 
+## :wrench: Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-chart.js-informational?style=flat&logo=chartdotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -38,30 +60,7 @@ No Activity Tracked This Week
 
 ```
 
-
 <!--END_SECTION:waka-->
-
-## :wrench: Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-chart.js-informational?style=flat&logo=chartdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
 
 ## :pencil: Latest blog posts
 
