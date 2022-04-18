@@ -21,3 +21,4 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_OS: False
           SHOW_TOTAL_CODE_TIME: False
+          SHOW_SHORT_INFO: False
