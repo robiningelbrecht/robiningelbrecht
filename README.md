@@ -33,13 +33,13 @@ Obviously, I'm also into gaming 🎮.
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0,1,2,3,4/" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 117 Contributions in the Year 2022
+> 🏆 119 Contributions in the Year 2022
  > 
 > 📦 219.2 kB Used in GitHub's Storage 
  > 
@@ -52,22 +52,22 @@ Obviously, I'm also into gaming 🎮.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-🌆 Daytime    67 commits     ████████████░░░░░░░░░░░░░   48.2% 
-🌃 Evening    44 commits     ████████░░░░░░░░░░░░░░░░░   31.65% 
+🌞 Morning    28 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86% 
+🌆 Daytime    67 commits     ████████████░░░░░░░░░░░░░   47.52% 
+🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   32.62% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
-Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   30.22% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
+Monday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   29.79% 
+Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
 
 ```
 
@@ -108,7 +108,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/robiningelbrecht/robiningelbrecht/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/04/2022 11:33:23 UTC
+ Last Updated on 18/04/2022 18:42:39 UTC
 <!--END_SECTION:waka-->
 
 ## :chart_with_upwards_trend: GitHub Stats
