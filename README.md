@@ -35,11 +35,9 @@ Obviously, I'm also into gaming 🎮.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 119 Contributions in the Year 2022
+> 🏆 121 Contributions in the Year 2022
  > 
 > 📦 219.2 kB Used in GitHub's Storage 
  > 
@@ -52,22 +50,22 @@ Obviously, I'm also into gaming 🎮.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    28 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86% 
-🌆 Daytime    67 commits     ████████████░░░░░░░░░░░░░   47.52% 
-🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   32.62% 
+🌞 Morning    28 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
+🌆 Daytime    67 commits     ███████████░░░░░░░░░░░░░░   46.85% 
+🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   33.57% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   29.79% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
+Monday       32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.38% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
+Wednesday    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Thursday     42 commits     ███████░░░░░░░░░░░░░░░░░░   29.37% 
+Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.29%
 
 ```
 
@@ -75,18 +73,7 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Brussels
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -103,12 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/robiningelbrecht/robiningelbrecht/main/charts/bar_graph.png) 
-
-
- Last Updated on 18/04/2022 18:42:39 UTC
 <!--END_SECTION:waka-->
 
 ## :chart_with_upwards_trend: GitHub Stats
