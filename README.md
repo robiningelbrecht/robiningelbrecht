@@ -30,11 +30,8 @@ Obviously, I'm also into gaming 🎮.
 
 ## :pencil: Latest blog posts
 
-<img src="https://medium-rss-github-robiningelbrecht.vercel.app/@ingelbrechtrobin/2" /> 
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/1"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ingelbrechtrobin/2"> 
+<a target="_blank" href="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0/" /></a>
+
  
 ## :chart_with_upwards_trend: GitHub Stats
 
