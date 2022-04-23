@@ -69,7 +69,7 @@ HTML                     34 mins             ░░░░░░░░░░░�
 
 ## :pencil: Latest blog posts
 
-<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github.vercel.app/@ingelbrechtrobin/0,1,2,3/layout:two-col" /></a>
+<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github.robiningelbrecht.be/@ingelbrechtrobin/0,1,2,3/layout:two-col" /></a>
 
 ## :chart_with_upwards_trend: GitHub Stats
 
