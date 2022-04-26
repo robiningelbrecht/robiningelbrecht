@@ -81,11 +81,3 @@ HTML                     34 mins             ░░░░░░░░░░░�
  ## :sparkles: GitHub Trophies
  
 ![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
- 
- ## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/robiningelbrecht/continuous-integration-example/pull/8) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
-2. 💪 Opened PR [#7](https://github.com/robiningelbrecht/continuous-integration-example/pull/7) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
-3. 💪 Opened PR [#6](https://github.com/robiningelbrecht/continuous-integration-example/pull/6) in [robiningelbrecht/continuous-integration-example](https://github.com/robiningelbrecht/continuous-integration-example)
-<!--END_SECTION:activity-->
