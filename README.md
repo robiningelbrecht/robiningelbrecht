@@ -6,10 +6,6 @@ Obviously, I'm also into gaming 🎮.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D61B8?style=flat&logo=linkedin&logoColor=white&color=0D61B8)](https://linkedin.com/in/robin-ingelbrecht) 
 [![Medium](https://img.shields.io/badge/Medium-2bbc8a?style=flat&logo=medium&logoColor=white&color=2bbc8a)](https://ingelbrechtrobin.medium.com/) 
 
-<p align="center">
-  <img src="https://psn-profile-card.robiningelbrecht.be/minimal" height="250" alt="PSN Profile card">
-</p>
-
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
@@ -70,6 +66,10 @@ YAML                     7 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## :video_game: PlayStation profile
+
+<a href="https://psn-profile-card.robiningelbrecht.be/minimal"><img src="https://psn-profile-card.robiningelbrecht.be/minimal" alt="PSN Profile card"></a>
 
 ## :pencil: Latest blog posts
 
