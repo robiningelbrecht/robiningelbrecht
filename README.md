@@ -67,7 +67,7 @@ YAML                     35 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## :video_game: Let's solve this Rubuk's cube
+## :jigsaw: Let's solve this Rubuk's cube
 
 <table>
   <tr>
