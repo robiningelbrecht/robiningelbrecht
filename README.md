@@ -67,7 +67,7 @@ YAML                     35 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## :jigsaw: Let's solve this Rubuk's cube
+## :jigsaw: Let's solve this Rubik's cube
 
 <table>
   <tr>
