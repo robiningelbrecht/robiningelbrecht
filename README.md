@@ -67,9 +67,94 @@ YAML                     35 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## :video_game: PlayStation profile
+## :video_game: Let's solve this Rubuk's cube
 
-<a href="https://psn-profile-card.robiningelbrecht.be/minimal"><img src="https://psn-profile-card.robiningelbrecht.be/minimal" alt="PSN Profile card"></a>
+<table>
+  <tr>
+    <td colspan="6">
+      <img src="https://puzzle-generator.robiningelbrecht.be/github-game/cube" alt="Cube" />
+    </td>
+    <td colspan="6">
+      <img src="https://puzzle-generator.robiningelbrecht.be/github-game/cube?view=net" alt="Net view" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/R">R</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/U">U</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/F">F</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/L">L</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/D">D</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/B">B</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/x">x</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/y">y</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/z">z</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/M">M</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/E">E</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/S">S</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/R&#039;">R&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/U&#039;">U&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/F&#039;">F&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/L&#039;">L&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/D&#039;">D&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/B&#039;">B&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/x&#039;">x&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/y&#039;">y&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/z&#039;">z&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/M&#039;">M&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/E&#039;">E&#039;</a>
+    </td>
+    <td>
+      <a href="https://puzzle-generator.robiningelbrecht.be/github-game/turn/S&#039;">S&#039;</a>
+    </td>
+  </tr>
+</table>
 
 ## :pencil: Latest blog posts
 
