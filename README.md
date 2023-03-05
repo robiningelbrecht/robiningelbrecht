@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 879 commits      ███████░░░░░░░░░░░░░░░░░░   27.61 %
-🌆 Daytime                 1239 commits     ██████████░░░░░░░░░░░░░░░   38.91 %
-🌃 Evening                 748 commits      ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.99 %
+🌞 Morning                 886 commits      ███████░░░░░░░░░░░░░░░░░░   27.76 %
+🌆 Daytime                 1240 commits     ██████████░░░░░░░░░░░░░░░   38.85 %
+🌃 Evening                 748 commits      ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.96 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    528 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-Tuesday                   392 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Wednesday                 502 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Thursday                  407 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Friday                    463 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Saturday                  423 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Sunday                    469 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Monday                    528 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Tuesday                   392 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Wednesday                 502 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Thursday                  407 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Friday                    463 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Saturday                  423 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Sunday                    477 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.94 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    469 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+05-03-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Cryptofrill
+05-03-2023  robiningelbrecht            Use up to date PHP version
+05-03-2023  robiningelbrecht            Use own implementation to update GitHub profile
+05-03-2023  robiningelbrecht.be         Use central repo to fetch repos for website
+05-03-2023  robiningelbrecht.be         Update build-site.yml
+05-03-2023  gotta-generate-em-all       Leaner code to update readme
+05-03-2023  playstation-easy-platinums  Added 4 new games to list
+05-03-2023  gotta-generate-em-all       Better commit messages
 05-03-2023  gotta-generate-em-all       Generated an new normal-type Pokémon named Opalynx
 05-03-2023  gotta-generate-em-all       Better commit messages
-05-03-2023  gotta-generate-em-all       Unknown format specifier &quot;t&quot;
-05-03-2023  gotta-generate-em-all       Unknown format specifier &quot;t&quot;
-05-03-2023  gotta-generate-em-all       Better commit messages
-04-03-2023  robiningelbrecht            Delete charts directory
-04-03-2023  gotta-generate-em-all       Added new card
-04-03-2023  robiningelbrecht.be         New site build
-04-03-2023  playstation-easy-platinums  Added 7 new games to list
-03-03-2023  gotta-generate-em-all       Added new card
 ```
 <!--END_SECTION:most-recent-commits-->
 
