@@ -1,0 +1,27 @@
+name: Update GitHub profile
+
+on:
+  schedule:
+    - cron: '30 22 * * *'
+  workflow_dispatch:
+jobs:
+  update-github-profile:
+    name: Update GitHub profile
+    runs-on: ubuntu-latest
+    steps:
+      # https://github.com/marketplace/actions/checkout
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update github profile
+        run: |
+          php update-readme.php
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'robiningelbrecht'
+          git config --global user.email 'robiningelbrecht@users.noreply.github.com'
+          git add .
+          git status
+          git diff --staged --quiet || git commit -m"Updated GitHub profile"
+          git push
+

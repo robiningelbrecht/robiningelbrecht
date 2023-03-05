@@ -32,41 +32,47 @@ If you like what I'm doing, please consider supporting me 🙏
 ![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!--START_SECTION:commits-per-day-time-->
+**I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                482 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-🌆 Daytime                704 commits         █████████░░░░░░░░░░░░░░░░   35.16 % 
-🌃 Evening                543 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌙 Night                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌞 Morning                 879 commits      ███████░░░░░░░░░░░░░░░░░░   27.61 %
+🌆 Daytime                 1239 commits     ██████████░░░░░░░░░░░░░░░   38.91 %
+🌃 Evening                 748 commits      ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.99 %
 ```
-📅 **I'm Most Productive on Monday** 
+<!--END_SECTION:commits-per-day-time-->
+
+<!--START_SECTION:commits-per-weekday-->
+**📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Tuesday                  281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Monday                    528 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Tuesday                   392 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Wednesday                 502 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Thursday                  407 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Friday                    463 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Saturday                  423 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Sunday                    469 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
 ```
+<!--END_SECTION:commits-per-weekday-->
 
-
-📊 **This Week I Spent My Time On** 
-
+<!--START_SECTION:most-recent-commits-->
+**⏳ Most recent commits**
+                                        
 ```text
-💬 Programming Languages: 
-PHP                      15 hrs 26 mins      █████████████████████░░░░   82.69 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Twig                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Dockerfile               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+05-03-2023  gotta-generate-em-all       Generated an new normal-type Pokémon named Opalynx
+05-03-2023  gotta-generate-em-all       Better commit messages
+05-03-2023  gotta-generate-em-all       Unknown format specifier &quot;t&quot;
+05-03-2023  gotta-generate-em-all       Unknown format specifier &quot;t&quot;
+05-03-2023  gotta-generate-em-all       Better commit messages
+04-03-2023  robiningelbrecht            Delete charts directory
+04-03-2023  gotta-generate-em-all       Added new card
+04-03-2023  robiningelbrecht.be         New site build
+04-03-2023  playstation-easy-platinums  Added 7 new games to list
+03-03-2023  gotta-generate-em-all       Added new card
 ```
-
-
-<!--END_SECTION:waka-->
+<!--END_SECTION:most-recent-commits-->
 
 ## :jigsaw: Let's solve this Rubik's cube
 
