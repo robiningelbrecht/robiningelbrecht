@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 892 commits      ███████░░░░░░░░░░░░░░░░░░   27.86 %
-🌆 Daytime                 1242 commits     ██████████░░░░░░░░░░░░░░░   38.79 %
-🌃 Evening                 750 commits      ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.93 %
+🌞 Morning                 900 commits      ███████░░░░░░░░░░░░░░░░░░   28.02 %
+🌆 Daytime                 1243 commits     ██████████░░░░░░░░░░░░░░░   38.70 %
+🌃 Evening                 751 commits      ██████░░░░░░░░░░░░░░░░░░░   23.38 %
+🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.90 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    534 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.68 %
-Tuesday                   395 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Wednesday                 502 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Thursday                  407 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Friday                    463 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Saturday                  423 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Sunday                    478 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Monday                    534 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Tuesday                   396 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+Wednesday                 511 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Thursday                  407 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Friday                    463 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Saturday                  423 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Sunday                    478 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    478 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-07-03-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Nebulisk
-07-03-2023  notion-media-cdn            Added media to CDN
-07-03-2023  playstation-easy-platinums  Added 11 new games to list
-06-03-2023  robiningelbrecht            Updated GitHub profile
-06-03-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Tuskinder
-06-03-2023  robiningelbrecht            Update README.md
-06-03-2023  playstation-easy-platinums  Manual price update for Shinrai: Broken Beyond Despair (AS • PS5) to .99 via workflow
-06-03-2023  playstation-easy-platinums  Manual price update for Gunman Tales (EU • PS4) to €6.99 via workflow
-06-03-2023  playstation-easy-platinums  Added 5 new games to list
-05-03-2023  robiningelbrecht            Updated GitHub profile
+08-03-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Tealygo
+08-03-2023  playstation-easy-platinums  Manual price update for Cions of Vega (PS5) to .99 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Animal Lover (PS4) to .29 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Microarcade ShapeSwarm (PS5) to .99 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Pirated Code (PS5) to .99 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Gunman Tales (NA • PS4) to .99 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Gunman Tales (NA • PS5) to .99 via workflow
+08-03-2023  playstation-easy-platinums  Manual price update for Gunman Tales (EU • PS5) to €6.99 via workflow
+08-03-2023  playstation-easy-platinums  Added 3 new games to list
+07-03-2023  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
