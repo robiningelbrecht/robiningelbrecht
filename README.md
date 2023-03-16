@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 926 commits      ███████░░░░░░░░░░░░░░░░░░   28.27 %
-🌆 Daytime                 1265 commits     ██████████░░░░░░░░░░░░░░░   38.61 %
-🌃 Evening                 767 commits      ██████░░░░░░░░░░░░░░░░░░░   23.41 %
-🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.71 %
+🌞 Morning                 927 commits      ███████░░░░░░░░░░░░░░░░░░   28.26 %
+🌆 Daytime                 1266 commits     ██████████░░░░░░░░░░░░░░░   38.60 %
+🌃 Evening                 769 commits      ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.70 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    546 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
-Tuesday                   406 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Wednesday                 514 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-Thursday                  416 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Friday                    467 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Saturday                  429 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Sunday                    498 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Monday                    546 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Tuesday                   406 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Wednesday                 516 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Thursday                  418 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Friday                    467 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Saturday                  429 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.08 %
+Sunday                    498 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    498 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+16-03-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Crowneck
+16-03-2023  playstation-easy-platinums  Added 7 new games to list
+15-03-2023  robiningelbrecht            Updated GitHub profile
+15-03-2023  robiningelbrecht.be         New site build
 15-03-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Shieldillius
 15-03-2023  playstation-easy-platinums  Added 9 new games to list
 14-03-2023  robiningelbrecht            Updated GitHub profile
 14-03-2023  robiningelbrecht.be         New site build
 14-03-2023  puzzle-generator            Better css
 14-03-2023  puzzle-generator            Removed track record
-14-03-2023  puzzle-generator            Removed track record
-14-03-2023  pokemon-card-generator      Better convertedEnergyCost checking
-14-03-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Slithemask
-14-03-2023  playstation-easy-platinums  Manual price update for Microarcade ShapeSwarm (EU • PS5) to €1.99 via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
