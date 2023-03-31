@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 952 commits      ███████░░░░░░░░░░░░░░░░░░   28.27 %
-🌆 Daytime                 1301 commits     ██████████░░░░░░░░░░░░░░░   38.63 %
-🌃 Evening                 797 commits      ██████░░░░░░░░░░░░░░░░░░░   23.66 %
-🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.44 %
+🌞 Morning                 953 commits      ███████░░░░░░░░░░░░░░░░░░   28.15 %
+🌆 Daytime                 1315 commits     ██████████░░░░░░░░░░░░░░░   38.84 %
+🌃 Evening                 800 commits      ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.39 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    568 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
-Tuesday                   416 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Wednesday                 524 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-Thursday                  432 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Friday                    482 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Saturday                  440 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Sunday                    506 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Monday                    568 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.77 %
+Tuesday                   416 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Wednesday                 524 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Thursday                  435 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Friday                    497 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Saturday                  440 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Sunday                    506 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.94 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    506 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-30-03-2023  phpunit-pretty-print        Added PHPStan
-30-03-2023  phpunit-pretty-print        First attempt
-30-03-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Tuskwooden
-30-03-2023  phpunit-pretty-print        Update composer.json
-30-03-2023  phpunit-pretty-print        Create composer.json
-30-03-2023  phpunit-pretty-print        Initial commit
-30-03-2023  playstation-easy-platinums  Added 2 new games to list
-29-03-2023  robiningelbrecht            Updated GitHub profile
-29-03-2023  robiningelbrecht.be         New site build
-29-03-2023  playstation-easy-platinums  Added 2 new games to list
+31-03-2023  phpunit-pretty-print  Readme
+31-03-2023  phpunit-pretty-print  Addd compact mode
+31-03-2023  phpunit-pretty-print  Added example
+31-03-2023  phpunit-pretty-print  Readme
+31-03-2023  php-slim-skeleton     Added sexy PHPUnit output
+31-03-2023  phpunit-pretty-print  Remove variable path names from snapshots
+31-03-2023  phpunit-pretty-print  Indicate if testsuite has passed
+31-03-2023  phpunit-pretty-print  Better total test count
+31-03-2023  phpunit-pretty-print  Added throwables to output
+31-03-2023  phpunit-pretty-print  Added throwables to output
 ```
 <!--END_SECTION:most-recent-commits-->
 
