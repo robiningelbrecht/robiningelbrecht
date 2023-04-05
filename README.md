@@ -58,35 +58,7 @@ Sunday                    520 commits      ████░░░░░░░░�
 <!--END_SECTION:commits-per-weekday-->
 
 <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-04-04-2023  php-slim-skeleton           ci.yml
-04-04-2023  php-slim-skeleton           ci.yml
-04-04-2023  php-slim-skeleton           ci.yml
-04-04-2023  php-slim-skeleton           Added readonly properties
-04-04-2023  php-slim-skeleton           Removed composer.lock again
-04-04-2023  php-slim-skeleton           Bumped php version to 8.2
-04-04-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Cryptoko
-04-04-2023  playstation-easy-platinums  Manual price update for Elliot: Story Two - My First Date RPG (NA • PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-03-04-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Flamivisk
-03-04-2023  playstation-easy-platinums  Manual price update for Elliot: Story Two - My First Date RPG (EU • PS4) to €0.99 via workflow
-03-04-2023  playstation-easy-platinums  Manual price update for Cotton 2 (NA • PS4) to .99 via workflow
-03-04-2023  playstation-easy-platinums  Manual price update for Hermit&#039;s Tic-Tac-Toe (NA • PS4) to .99 via workflow
-03-04-2023  playstation-easy-platinums  Manual price update for Hermit&#039;s Tic-Tac-Toe (EU • PS4) to €4.99 via workflow
-03-04-2023  playstation-easy-platinums  Manual price update for Billy 101 (PS5) to .99 via workflow
-03-04-2023  playstation-easy-platinums  Manual price update for Billy 101 (PS4) to .99 via workflow
-03-04-2023  playstation-easy-platinums  Added 9 new games to list
-02-04-2023  robiningelbrecht.be         New site build
-02-04-2023  robiningelbrecht            Updated GitHub profile
-```
-<!--END_SECTION:most-recent-commits-->.99 via workflow
-04-04-2023  playstation-easy-platinums  Added 2 new games to list
-03-04-2023  robiningelbrecht            Updated GitHub profile
-```
+
 <!--END_SECTION:most-recent-commits-->
 
 ## :jigsaw: Let's solve this Rubik's cube
