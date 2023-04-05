@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 971 commits      ███████░░░░░░░░░░░░░░░░░░   28.35 %
-🌆 Daytime                 1328 commits     ██████████░░░░░░░░░░░░░░░   38.77 %
-🌃 Evening                 808 commits      ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+🌞 Morning                 972 commits      ███████░░░░░░░░░░░░░░░░░░   28.35 %
+🌆 Daytime                 1328 commits     ██████████░░░░░░░░░░░░░░░   38.74 %
+🌃 Evening                 810 commits      ██████░░░░░░░░░░░░░░░░░░░   23.63 %
 🌙 Night                   318 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.28 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,18 +47,31 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    578 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.88 %
-Tuesday                   425 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Wednesday                 524 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.30 %
-Thursday                  435 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Friday                    499 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Saturday                  444 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Sunday                    520 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Monday                    578 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+Tuesday                   427 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Wednesday                 525 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Thursday                  435 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Friday                    499 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Saturday                  444 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Sunday                    520 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.17 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
 <!--START_SECTION:most-recent-commits-->
-
+**⏳ Most recent commits**
+                                        
+```text
+05-04-2023  php-slim-skeleton      Removed dead code
+04-04-2023  robiningelbrecht       Updated GitHub profile
+04-04-2023  robiningelbrecht.be    New site build
+04-04-2023  php-slim-skeleton      ci.yml
+04-04-2023  php-slim-skeleton      ci.yml
+04-04-2023  php-slim-skeleton      ci.yml
+04-04-2023  php-slim-skeleton      Added readonly properties
+04-04-2023  php-slim-skeleton      Removed composer.lock again
+04-04-2023  php-slim-skeleton      Bumped php version to 8.2
+04-04-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cryptoko
+```
 <!--END_SECTION:most-recent-commits-->
 
 ## :jigsaw: Let's solve this Rubik's cube
