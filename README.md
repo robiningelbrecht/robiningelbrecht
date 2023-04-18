@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 990 commits      ███████░░░░░░░░░░░░░░░░░░   28.25 %
-🌆 Daytime                 1361 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
-🌃 Evening                 835 commits      ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.10 %
+🌞 Morning                 990 commits      ███████░░░░░░░░░░░░░░░░░░   28.22 %
+🌆 Daytime                 1362 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
+🌃 Evening                 837 commits      ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    599 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.09 %
-Tuesday                   431 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Wednesday                 536 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Thursday                  444 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Friday                    513 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Saturday                  454 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Sunday                    528 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Monday                    601 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.13 %
+Tuesday                   432 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Wednesday                 536 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Thursday                  444 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Friday                    513 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Saturday                  454 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Sunday                    528 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.05 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    528 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+18-04-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Canyrogue
+17-04-2023  robiningelbrecht            Updated GitHub profile
+17-04-2023  robiningelbrecht.be         New site build
 17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (EU • PS4) to €4.99 via workflow
 17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (EU • PS5) to €4.99 via workflow
 17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (NA • PS4) to .99 via workflow
@@ -68,9 +71,6 @@ Sunday                    528 commits      ████░░░░░░░░�
 17-04-2023  playstation-easy-platinums  Manual price update for Sable&#039;s Grimoire: A Dragon&#039;s Treasure (EU • PS4) to €5.99 via workflow
 17-04-2023  playstation-easy-platinums  Manually removed game Wo Long: Fallen Dynasty (PS4) via workflow
 17-04-2023  playstation-easy-platinums  Manually removed game Resident Evil 4 (PS5) via workflow
-17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (EU • PS4) to €3.99 via workflow
-17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (NA • PS4) to .99 via workflow
-17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (PS5) to .99 via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
