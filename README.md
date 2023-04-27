@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1022 commits     ███████░░░░░░░░░░░░░░░░░░   28.61 %
-🌆 Daytime                 1372 commits     ██████████░░░░░░░░░░░░░░░   38.41 %
-🌃 Evening                 859 commits      ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.93 %
+🌞 Morning                 1022 commits     ███████░░░░░░░░░░░░░░░░░░   28.59 %
+🌆 Daytime                 1373 commits     ██████████░░░░░░░░░░░░░░░   38.41 %
+🌃 Evening                 861 commits      ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.92 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.44 %
-Tuesday                   445 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Wednesday                 548 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Thursday                  448 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Friday                    518 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Saturday                  457 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Sunday                    533 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Monday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.43 %
+Tuesday                   445 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Wednesday                 550 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Thursday                  449 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Friday                    518 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Saturday                  457 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Sunday                    533 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.91 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    533 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+27-04-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Frillectro
+26-04-2023  robiningelbrecht.be         New site build
+26-04-2023  robiningelbrecht            Updated GitHub profile
 26-04-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Gemsurge
 26-04-2023  robiningelbrecht.be         New site build
 26-04-2023  playstation-easy-platinums  Manual price update for Light of Life (PS5) to .99 via workflow
@@ -68,9 +71,6 @@ Sunday                    533 commits      ████░░░░░░░░�
 26-04-2023  playstation-easy-platinums  Added 4 new games to list: Light of Life (PS4), Light of Life (PS5), Light of Life (PS4), Light of Life (PS5)
 26-04-2023  phpunit-coverage-tools      Fixed possible memory issues
 26-04-2023  phpunit-pretty-print        Fix tests
-26-04-2023  phpunit-pretty-print        Better tests
-26-04-2023  phpunit-pretty-print        Do not use subscriber when no need to
-25-04-2023  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
