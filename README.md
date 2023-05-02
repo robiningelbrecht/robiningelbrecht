@@ -74,6 +74,12 @@ Sunday                    541 commits      ████░░░░░░░░�
 ```
 <!--END_SECTION:most-recent-commits-->
 
+## :pencil: Latest blog posts
+
+<!--START_SECTION:medium-blog-posts-->
+<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
+<!--END_SECTION:medium-blog-posts-->
+
 ## :jigsaw: Let's solve this Rubik's cube
 
 <table>
@@ -150,10 +156,6 @@ Sunday                    541 commits      ████░░░░░░░░�
     </td>
   </tr>
 </table>
-
-## :pencil: Latest blog posts
-
-<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="https://medium-rss-github.robiningelbrecht.be/@ingelbrechtrobin/0,1,2,3/layout:two-col" /></a>
 
 ## :chart_with_upwards_trend: GitHub Stats
 
