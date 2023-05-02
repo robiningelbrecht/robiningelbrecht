@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/robiningelbrecht/robiningelbrecht/master/wave.gif" width="30">
  
-My name is Robin Ingelbrecht and I'm an open source (web) developer at heart and always try to up my game by challenging myself and thosearound me.
+My name is Robin Ingelbrecht and I'm an open source (web) developer at heart and always try to up my game by challenging myself and those around me.
 Obviously, I'm also into gaming 🎮.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D61B8?style=flat&logo=linkedin&logoColor=white&color=0D61B8)](https://linkedin.com/in/robin-ingelbrecht) 
