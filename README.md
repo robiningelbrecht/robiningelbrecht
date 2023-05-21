@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1065 commits     ███████░░░░░░░░░░░░░░░░░░   28.74 %
-🌆 Daytime                 1411 commits     ██████████░░░░░░░░░░░░░░░   38.08 %
-🌃 Evening                 910 commits      ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 %
+🌞 Morning                 1065 commits     ███████░░░░░░░░░░░░░░░░░░   28.72 %
+🌆 Daytime                 1412 commits     ██████████░░░░░░░░░░░░░░░   38.08 %
+🌃 Evening                 912 commits      ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.60 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.41 %
-Tuesday                   465 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Wednesday                 573 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Thursday                  463 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Saturday                  467 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Sunday                    548 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Monday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
+Tuesday                   465 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Wednesday                 573 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Thursday                  463 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Sunday                    549 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.81 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    548 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+21-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Feathlet
+20-05-2023  robiningelbrecht            Updated GitHub profile
+20-05-2023  robiningelbrecht.be         New site build
 20-05-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Battleroar
 19-05-2023  robiningelbrecht.be         New site build
 19-05-2023  robiningelbrecht            Updated GitHub profile
@@ -68,9 +71,6 @@ Sunday                    548 commits      ████░░░░░░░░�
 19-05-2023  playstation-easy-platinums  Added 13 new games to list: Beat the Clock: Hardcore (EU • PS4), Beat the Clock: Hardcore (NA • PS4), Descending (NA • PS4), Descending (NA • PS5), Descending (EU • PS4), Descending (EU • PS5), Cubic Figures (NA • PS5), Cubic Figures (EU • PS5), Cubic Figures (JP • PS5), Cubic Figures (AS • PS5), Under the Warehouse (PS5), Under the Warehouse (PS4), Under the Warehouse (PS4)
 18-05-2023  robiningelbrecht            Updated GitHub profile
 18-05-2023  robiningelbrecht.be         New site build
-18-05-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Starmbeak
-17-05-2023  robiningelbrecht            Updated GitHub profile
-17-05-2023  robiningelbrecht.be         New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
