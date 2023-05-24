@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1073 commits     ███████░░░░░░░░░░░░░░░░░░   28.83 %
-🌆 Daytime                 1414 commits     █████████░░░░░░░░░░░░░░░░   37.99 %
-🌃 Evening                 916 commits      ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.57 %
+🌞 Morning                 1073 commits     ███████░░░░░░░░░░░░░░░░░░   28.78 %
+🌆 Daytime                 1418 commits     ██████████░░░░░░░░░░░░░░░   38.04 %
+🌃 Evening                 918 commits      ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.56 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.60 %
-Tuesday                   467 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Wednesday                 573 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Thursday                  463 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.57 %
+Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Wednesday                 577 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Thursday                  463 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    551 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+24-05-2023  strava-activities           .env$
+24-05-2023  strava-activities           GitHub Workflow
+24-05-2023  strava-activities           first commit
+24-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Crystantler
+23-05-2023  robiningelbrecht            Updated GitHub profile
+23-05-2023  robiningelbrecht.be         New site build
 23-05-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Armorling
 23-05-2023  playstation-easy-platinums  Added 4 new games to list: Hidden Bunny (AS • PS5), Hidden Bunny (JP • PS5), Hidden Bunny (NA • PS5), Hidden Bunny (EU • PS5)
 22-05-2023  robiningelbrecht            Updated GitHub profile
 22-05-2023  robiningelbrecht.be         New site build
-22-05-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltstruze
-22-05-2023  playstation-easy-platinums  Manual price update for Blackjack: Waifu Tour (EU • PS4) to €4.49 via workflow
-22-05-2023  playstation-easy-platinums  Manual price update for Blackjack: Waifu Tour (NA • PS4) to .49 via workflow
-22-05-2023  playstation-easy-platinums  Manual price update for Cyber Citizen Shockman (PS5) to .99 via workflow
-22-05-2023  playstation-easy-platinums  Manual price update for Cyber Citizen Shockman (PS4) to .99 via workflow
-22-05-2023  playstation-easy-platinums  Manual price update for Infini (PS5) to .99 via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
