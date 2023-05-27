@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1079 commits     ███████░░░░░░░░░░░░░░░░░░   28.81 %
-🌆 Daytime                 1424 commits     ██████████░░░░░░░░░░░░░░░   38.02 %
-🌃 Evening                 923 commits      ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.52 %
+🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.81 %
+🌆 Daytime                 1425 commits     ██████████░░░░░░░░░░░░░░░   38.01 %
+🌃 Evening                 925 commits      ██████░░░░░░░░░░░░░░░░░░░   24.67 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.51 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 %
-Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Friday                    550 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.47 %
+Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Saturday                  471 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    551 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+27-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Jewelroara
+27-05-2023  strava-activities           Updated strava activities
+26-05-2023  robiningelbrecht            Updated GitHub profile
+26-05-2023  robiningelbrecht.be         New site build
 26-05-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Gembonara
 26-05-2023  strava-activities           Download media
 26-05-2023  playstation-easy-platinums  Manual price update for Waifu Space Conquest (PS5) to .99 via workflow
 26-05-2023  playstation-easy-platinums  Manual price update for Waifu Space Conquest (PS4) to .99 via workflow
 26-05-2023  playstation-easy-platinums  Manual price update for Sofiya and the Ancient Clan (EU • PS5) to €7.99 via workflow
 26-05-2023  playstation-easy-platinums  Added 6 new games to list: The Closing Walls (PS5), The Closing Walls (PS4), Waifu Space Conquest (PS5), Waifu Space Conquest (PS5), Waifu Space Conquest (PS4), Sofiya and the Ancient Clan (EU • PS5)
-25-05-2023  robiningelbrecht.be         New site build
-25-05-2023  robiningelbrecht            Updated GitHub profile
-25-05-2023  strava-activities           Updated strava activities
-25-05-2023  strava-activities           Removed debug code
 ```
 <!--END_SECTION:most-recent-commits-->
 
