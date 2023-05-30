@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.63 %
-🌆 Daytime                 1443 commits     ██████████░░░░░░░░░░░░░░░   38.26 %
-🌃 Evening                 930 commits      ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.46 %
+🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.59 %
+🌆 Daytime                 1444 commits     ██████████░░░░░░░░░░░░░░░   38.22 %
+🌃 Evening                 935 commits      ██████░░░░░░░░░░░░░░░░░░░   24.75 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    671 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.79 %
-Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
+Tuesday                   473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    556 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-29-05-2023  robiningelbrecht   Strava activities
-29-05-2023  strava-activities  Use absolute urls to images
-29-05-2023  strava-activities  Use absolute urls to images
-29-05-2023  strava-activities  Align text
-29-05-2023  strava-activities  Link to activities
-29-05-2023  strava-activities  Smaller images
-29-05-2023  strava-activities  Put images side by side
-29-05-2023  strava-activities  Updated CI
-29-05-2023  strava-activities  More info on readme
-29-05-2023  strava-activities  Update readme
+30-05-2023  strava-activities      Order on CreatedOn
+30-05-2023  strava-activities      Store created date on challenges
+30-05-2023  strava-activities      Renamed Trophy to Challenge
+30-05-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Crownbeak
+29-05-2023  robiningelbrecht       Updated GitHub profile
+29-05-2023  robiningelbrecht.be    New site build
+29-05-2023  robiningelbrecht       Strava activities
+29-05-2023  strava-activities      Use absolute urls to images
+29-05-2023  strava-activities      Use absolute urls to images
+29-05-2023  strava-activities      Align text
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -166,29 +166,25 @@ Sunday                    556 commits      ████░░░░░░░░�
         <th align="center">Distance</th>
         <th align="center">Elevation</th>
         <th align="center">Time</th>
-        <th></th>
     </tr>
             <tr>
             <td><a href="https://www.strava.com/activities/9162422046">Zwift - Race: 3R Racing (C) on Innsbruckring in Innsbruck</a></td>
-            <td align="center">28.2 km</td>
+            <td align="center">28 km</td>
             <td align="center">238 m</td>
             <td align="center">49:08</td>
-                            <td><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/files/activities/9162422046/103ab394-fe20-11ed-9942-9a34a3268d72.png" width="100" /></td>
-                    </tr>
+        </tr>
             <tr>
             <td><a href="https://www.strava.com/activities/9157342987">Afternoon Ride</a></td>
-            <td align="center">20.0 km</td>
+            <td align="center">20 km</td>
             <td align="center">23 m</td>
             <td align="center">1:07:38</td>
-                            <td><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/files/activities/9157342987/6eef28e6-fd73-11ed-b177-00224804aad3.png" width="100" /></td>
-                    </tr>
+        </tr>
             <tr>
             <td><a href="https://www.strava.com/activities/9155976770">Zwift - Red Unicorn in Watopia</a></td>
-            <td align="center">35.6 km</td>
+            <td align="center">36 km</td>
             <td align="center">768 m</td>
             <td align="center">1:30:13</td>
-                            <td><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/files/activities/9155976770/6cdaa4d6-fd73-11ed-9f5a-00224804aad3.png" width="100" /></td>
-                    </tr>
+        </tr>
     </table>
 <!--END_SECTION:strava-activities-->
 
