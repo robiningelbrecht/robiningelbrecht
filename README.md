@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.59 %
-🌆 Daytime                 1444 commits     ██████████░░░░░░░░░░░░░░░   38.22 %
-🌃 Evening                 935 commits      ██████░░░░░░░░░░░░░░░░░░░   24.75 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
+🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.34 %
+🌆 Daytime                 1470 commits     ██████████░░░░░░░░░░░░░░░   38.57 %
+🌃 Evening                 942 commits      ██████░░░░░░░░░░░░░░░░░░░   24.72 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.37 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
-Tuesday                   473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
-Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
+Tuesday                   477 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Wednesday                 608 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    556 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-30-05-2023  strava-activities      Order on CreatedOn
-30-05-2023  strava-activities      Store created date on challenges
-30-05-2023  strava-activities      Renamed Trophy to Challenge
-30-05-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Crownbeak
-29-05-2023  robiningelbrecht       Updated GitHub profile
-29-05-2023  robiningelbrecht.be    New site build
-29-05-2023  robiningelbrecht       Strava activities
-29-05-2023  strava-activities      Use absolute urls to images
-29-05-2023  strava-activities      Use absolute urls to images
-29-05-2023  strava-activities      Align text
+31-05-2023  strava-activities  Alts and titles
+31-05-2023  strava-activities  Removed tmp file
+31-05-2023  strava-activities  Added all challenges
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Font sizes
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -163,29 +163,60 @@ Sunday                    556 commits      ████░░░░░░░░�
 <table>
     <tr>
         <th></th>
-        <th align="center">Distance</th>
-        <th align="center">Elevation</th>
-        <th align="center">Time</th>
+        <th></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="35" alt="distance" title="distance"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="35" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="35" alt="time" title="time"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-watt.svg" width="35" alt="average watts" title="average watts"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="35" alt="average speed" title="average speed"/></th>
     </tr>
             <tr>
-            <td><a href="https://www.strava.com/activities/9162422046">Zwift - Race: 3R Racing (C) on Innsbruckring in Innsbruck</a></td>
-            <td align="center">28 km</td>
-            <td align="center">238 m</td>
+            <td>31-05-2023</td>
+            <td><a href="https://www.strava.com/activities/9176313509">Zwift - Devedeset in Watopia</a></td>
+            <td align="center">33 <sup><sub>km</sub></sup></td>
+            <td align="center">691 <sup><sub>m</sub></sup></td>
+            <td align="center">1:22:14</td>
+            <td align="center">167 <sup><sub>w</sub></sup></td>
+            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td>31-05-2023</td>
+            <td><a href="https://www.strava.com/activities/9174924354">Lunch Ride</a></td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">29 <sup><sub>m</sub></sup></td>
+            <td align="center">44:07</td>
+            <td align="center">n/a</td>
+            <td align="center">20 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td>29-05-2023</td>
+            <td><a href="https://www.strava.com/activities/9162422046">Zwift - Race: 3R Racing (C) on Innsbr...</a></td>
+            <td align="center">28 <sup><sub>km</sub></sup></td>
+            <td align="center">238 <sup><sub>m</sub></sup></td>
             <td align="center">49:08</td>
+            <td align="center">204 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
+            <td>28-05-2023</td>
             <td><a href="https://www.strava.com/activities/9157342987">Afternoon Ride</a></td>
-            <td align="center">20 km</td>
-            <td align="center">23 m</td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">23 <sup><sub>m</sub></sup></td>
             <td align="center">1:07:38</td>
+            <td align="center">n/a</td>
+            <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
+            <td>28-05-2023</td>
             <td><a href="https://www.strava.com/activities/9155976770">Zwift - Red Unicorn in Watopia</a></td>
-            <td align="center">36 km</td>
-            <td align="center">768 m</td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">768 <sup><sub>m</sub></sup></td>
             <td align="center">1:30:13</td>
+            <td align="center">169 <sup><sub>w</sub></sup></td>
+            <td align="center">23.7 <sup><sub>km/h</sub></sup></td>
         </tr>
     </table>
+
 <!--END_SECTION:strava-activities-->
 
 ## :chart_with_upwards_trend: GitHub Stats
