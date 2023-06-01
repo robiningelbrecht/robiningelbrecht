@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.34 %
-🌆 Daytime                 1470 commits     ██████████░░░░░░░░░░░░░░░   38.57 %
-🌃 Evening                 942 commits      ██████░░░░░░░░░░░░░░░░░░░   24.72 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.37 %
+🌞 Morning                 1083 commits     ███████░░░░░░░░░░░░░░░░░░   28.35 %
+🌆 Daytime                 1471 commits     ██████████░░░░░░░░░░░░░░░   38.51 %
+🌃 Evening                 947 commits      ██████░░░░░░░░░░░░░░░░░░░   24.79 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.35 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
-Tuesday                   477 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Wednesday                 608 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
+Tuesday                   477 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Wednesday                 612 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Thursday                  477 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    556 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-31-05-2023  strava-activities  Alts and titles
-31-05-2023  strava-activities  Removed tmp file
-31-05-2023  strava-activities  Added all challenges
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Added totals
-31-05-2023  strava-activities  Font sizes
+01-06-2023  strava-activities           Updated strava activities
+01-06-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Clubiora
+01-06-2023  strava-activities           do not use inline svg
+01-06-2023  strava-activities           Use inline svg
+01-06-2023  playstation-easy-platinums  Added 8 new games to list: Stroke The Dik-Dik (PS5), Stroke The Dik-Dik (PS4), Savannah Runnah (PS5), Stroke The Dik-Dik (PS5), Stroke The Dik-Dik (PS5), Stroke The Dik-Dik (PS4), Stroke The Dik-Dik (PS4), Stroke The Dik-Dik (PS4)
+31-05-2023  robiningelbrecht.be         New site build
+31-05-2023  robiningelbrecht            Updated GitHub profile
+31-05-2023  playstation-easy-platinums  Added 5 new games to list: Eperon Defend (PS4), Eperon Defend (PS5), Eperon defend (PS4), Eperon Defend (PS5), Teslagrad Remastered (PS5)
+31-05-2023  strava-activities           Better totals
+31-05-2023  strava-activities           Alts and titles
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -171,8 +171,23 @@ Sunday                    556 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="35" alt="average speed" title="average speed"/></th>
     </tr>
             <tr>
+            <td>01-06-2023</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9183393448">Zwift - Zone Benchmarking in New York</a>
+            </td>
+            <td align="center">23 <sup><sub>km</sub></sup></td>
+            <td align="center">377 <sup><sub>m</sub></sup></td>
+            <td align="center">47:49</td>
+            <td align="center">185 <sup><sub>w</sub></sup></td>
+            <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
             <td>31-05-2023</td>
-            <td><a href="https://www.strava.com/activities/9176313509">Zwift - Devedeset in Watopia</a></td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9176313509">Zwift - Devedeset in Watopia</a>
+            </td>
             <td align="center">33 <sup><sub>km</sub></sup></td>
             <td align="center">691 <sup><sub>m</sub></sup></td>
             <td align="center">1:22:14</td>
@@ -181,7 +196,10 @@ Sunday                    556 commits      ████░░░░░░░░�
         </tr>
             <tr>
             <td>31-05-2023</td>
-            <td><a href="https://www.strava.com/activities/9174924354">Lunch Ride</a></td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9174924354">Lunch Ride</a>
+            </td>
             <td align="center">15 <sup><sub>km</sub></sup></td>
             <td align="center">29 <sup><sub>m</sub></sup></td>
             <td align="center">44:07</td>
@@ -190,7 +208,10 @@ Sunday                    556 commits      ████░░░░░░░░�
         </tr>
             <tr>
             <td>29-05-2023</td>
-            <td><a href="https://www.strava.com/activities/9162422046">Zwift - Race: 3R Racing (C) on Innsbr...</a></td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9162422046">Zwift - Race: 3R Racing (C) on Inns...</a>
+            </td>
             <td align="center">28 <sup><sub>km</sub></sup></td>
             <td align="center">238 <sup><sub>m</sub></sup></td>
             <td align="center">49:08</td>
@@ -199,21 +220,15 @@ Sunday                    556 commits      ████░░░░░░░░�
         </tr>
             <tr>
             <td>28-05-2023</td>
-            <td><a href="https://www.strava.com/activities/9157342987">Afternoon Ride</a></td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9157342987">Afternoon Ride</a>
+            </td>
             <td align="center">20 <sup><sub>km</sub></sup></td>
             <td align="center">23 <sup><sub>m</sub></sup></td>
             <td align="center">1:07:38</td>
             <td align="center">n/a</td>
             <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td>28-05-2023</td>
-            <td><a href="https://www.strava.com/activities/9155976770">Zwift - Red Unicorn in Watopia</a></td>
-            <td align="center">36 <sup><sub>km</sub></sup></td>
-            <td align="center">768 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:13</td>
-            <td align="center">169 <sup><sub>w</sub></sup></td>
-            <td align="center">23.7 <sup><sub>km/h</sub></sup></td>
         </tr>
     </table>
 
