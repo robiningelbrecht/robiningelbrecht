@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1104 commits     ███████░░░░░░░░░░░░░░░░░░   28.26 %
-🌆 Daytime                 1497 commits     ██████████░░░░░░░░░░░░░░░   38.32 %
-🌃 Evening                 987 commits      ██████░░░░░░░░░░░░░░░░░░░   25.26 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.16 %
+🌞 Morning                 1114 commits     ███████░░░░░░░░░░░░░░░░░░   28.37 %
+🌆 Daytime                 1504 commits     ██████████░░░░░░░░░░░░░░░   38.30 %
+🌃 Evening                 990 commits      ██████░░░░░░░░░░░░░░░░░░░   25.21 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.12 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    696 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
-Tuesday                   499 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Wednesday                 612 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Thursday                  487 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Friday                    566 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Saturday                  478 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Sunday                    569 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Monday                    696 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.72 %
+Tuesday                   501 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Wednesday                 630 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Thursday                  487 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Friday                    566 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Saturday                  478 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Sunday                    569 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    569 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-06-06-2023  strava-activities        Updated strava activities
-06-06-2023  twisty-puzzle-scrambler  More abstractions
-06-06-2023  twisty-puzzle-scrambler  More abstractions
-06-06-2023  twisty-puzzle-scrambler  More abstractions
-06-06-2023  twisty-puzzle-scrambler  More abstractions
-06-06-2023  twisty-puzzle-scrambler  More pyraminx stuff
-06-06-2023  twisty-puzzle-scrambler  More pyraminx stuff
-06-06-2023  gotta-generate-em-all    Generated a new grass-type Pokémon named Tailope
-06-06-2023  gotta-generate-em-all    Output slack payload
-06-06-2023  gotta-generate-em-all    Generated a new electric-type Pokémon named Thundrilla
+07-06-2023  strava-activities        Updated strava activities
+07-06-2023  twisty-puzzle-scrambler  Code coverage
+07-06-2023  twisty-puzzle-scrambler  Code coverage
+07-06-2023  twisty-puzzle-scrambler  Megaminx
+07-06-2023  twisty-puzzle-scrambler  Megaminx
+07-06-2023  twisty-puzzle-scrambler  Megaminx
+07-06-2023  twisty-puzzle-scrambler  Megaminx
+07-06-2023  gotta-generate-em-all    Generated a new dark-type Pokémon named Auremoth
+07-06-2023  twisty-puzzle-scrambler  Improved forHumans
+07-06-2023  twisty-puzzle-scrambler  Improved forHumans
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -172,6 +172,32 @@ Sunday                    569 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9220883501">Mishmash in Watopia</a>
+            </td>
+            <td align="center">39 <sup><sub>km</sub></sup></td>
+            <td align="center">914 <sup><sub>m</sub></sup></td>
+            <td align="center">1:37:33</td>
+            <td align="center">167 <sup><sub>w</sub></sup></td>
+            <td align="center">24.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
+            <tr>
+            <td>07-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9218932318">Morning Ride</a>
+            </td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">36 <sup><sub>m</sub></sup></td>
+            <td align="center">41:51</td>
+            <td align="center">n/a</td>
+            <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>06-06-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -209,32 +235,6 @@ Sunday                    569 commits      ████░░░░░░░░�
             <td align="center">n/a</td>
             <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>01-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9183393448">Zone Benchmarking in New York</a>
-            </td>
-            <td align="center">23 <sup><sub>km</sub></sup></td>
-            <td align="center">377 <sup><sub>m</sub></sup></td>
-            <td align="center">47:49</td>
-            <td align="center">185 <sup><sub>w</sub></sup></td>
-            <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>31-05-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9176313509">Devedeset in Watopia</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">691 <sup><sub>m</sub></sup></td>
-            <td align="center">1:22:14</td>
-            <td align="center">167 <sup><sub>w</sub></sup></td>
-            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">159</td>
         </tr>
     </table>
 
