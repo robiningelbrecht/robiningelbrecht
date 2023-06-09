@@ -242,7 +242,6 @@ Sunday                    569 commits      ████░░░░░░░░�
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Robin Ingelbrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiningelbrecht&count_private=true)](https://github.com/robiningelbrecht)
 [![Robin Ingelbrecht's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht)](https://github.com/robiningelbrecht)
 
  ## :sparkles: GitHub Trophies
