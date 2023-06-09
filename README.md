@@ -240,10 +240,8 @@ Sunday                    569 commits      ████░░░░░░░░�
 
 <!--END_SECTION:strava-activities-->
 
-## :chart_with_upwards_trend: GitHub Stats
-
-[![Robin Ingelbrecht's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht)](https://github.com/robiningelbrecht)
-
  ## :sparkles: GitHub Trophies
+ 
+[![Robin Ingelbrecht's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht)](https://github.com/robiningelbrecht)
  
 ![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
