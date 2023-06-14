@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1128 commits     ███████░░░░░░░░░░░░░░░░░░   28.16 %
-🌆 Daytime                 1551 commits     ██████████░░░░░░░░░░░░░░░   38.73 %
-🌃 Evening                 1007 commits     ██████░░░░░░░░░░░░░░░░░░░   25.14 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.97 %
+🌞 Morning                 1130 commits     ███████░░░░░░░░░░░░░░░░░░   28.15 %
+🌆 Daytime                 1552 commits     ██████████░░░░░░░░░░░░░░░   38.66 %
+🌃 Evening                 1013 commits     ██████░░░░░░░░░░░░░░░░░░░   25.24 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.95 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    701 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.50 %
-Tuesday                   508 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Wednesday                 632 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Thursday                  509 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Friday                    586 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Saturday                  492 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Sunday                    577 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Monday                    701 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.46 %
+Tuesday                   513 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Wednesday                 636 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Thursday                  509 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Friday                    586 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Saturday                  492 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Sunday                    577 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,61 +61,16 @@ Sunday                    577 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+14-06-2023  strava-activities           Updated strava activities
+14-06-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Cavibex
+14-06-2023  playstation-easy-platinums  Added 3 new games to list: Brave Soldier: Invasion of Cyborgs (PS5), Brave Soldier: Invasion of Cyborgs (PS4), Brave Soldier: Invasion of Cyborgs (PS5)
+14-06-2023  strava-activities           Total calories
+13-06-2023  robiningelbrecht            Updated GitHub profile
+13-06-2023  robiningelbrecht.be         New site build
+13-06-2023  strava-activities           Typos
+13-06-2023  strava-activities           Merge conflict
+13-06-2023  strava-activities           Added averages
 13-06-2023  strava-activities           Updated strava activities
-13-06-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltavias
-13-06-2023  playstation-easy-platinums  Manual price update for Oriana: Story Three - My First Date RPG (EU • PS4) to €0.99 via workflow
-13-06-2023  playstation-easy-platinums  Manual price update for Cat Souls (PS5) to .99 via workflow
-13-06-2023  playstation-easy-platinums  Manual price update for The Scavenger Hunt: Switzerland (NA • PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-12-06-2023  strava-activities           Updated strava activities
-12-06-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Bunystal
-12-06-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Stonefoxin
-11-06-2023  robiningelbrecht            Updated GitHub profile
-11-06-2023  robiningelbrecht.be         New site build
-11-06-2023  strava-activities           Updated strava activities
-11-06-2023  playstation-easy-platinums  Manual price update for Oriana: Story Three - My First Date RPG (NA • PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-11-06-2023  strava-activities           Updated strava activities
-11-06-2023  playstation-easy-platinums  Manual price update for Oriana: Story Three - My First Date RPG (NA • PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-10-06-2023  strava-activities        Updated strava activities
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  readme
-10-06-2023  twisty-puzzle-scrambler  Readme
-```
-<!--END_SECTION:most-recent-commits-->.99 via workflow
-11-06-2023  playstation-easy-platinums  Manual price update for Cat Souls (PS4) to .99 via workflow
-11-06-2023  playstation-easy-platinums  Manual price update for Cat Souls (PS5) to .99 via workflow
-11-06-2023  playstation-easy-platinums  Added 8 new games to list: Cat Souls (PS4), Cat Souls (PS5), Learn Hiragana!! (JP • PS4), Learn Katakana!! (JP • PS4), Learn Katakana!! (NA • PS4), Oriana: Story Three - My First Date RPG (NA • PS4), The Scavenger Hunt: Switzerland (EU • PS4), Learn Katakana!! (EU • PS4)
-11-06-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Gladioguard
-10-06-2023  robiningelbrecht            Updated GitHub profile
-10-06-2023  robiningelbrecht.be         New site build
-10-06-2023  strava-activities           Updated strava activities
-10-06-2023  twisty-puzzle-scrambler     readme
-```
-<!--END_SECTION:most-recent-commits-->.99 via workflow
-11-06-2023  playstation-easy-platinums  Manual price update for Cat Souls (PS4) to .99 via workflow
-11-06-2023  playstation-easy-platinums  Manual price update for Cat Souls (PS5) to .99 via workflow
-11-06-2023  playstation-easy-platinums  Added 8 new games to list: Cat Souls (PS4), Cat Souls (PS5), Learn Hiragana!! (JP • PS4), Learn Katakana!! (JP • PS4), Learn Katakana!! (NA • PS4), Oriana: Story Three - My First Date RPG (NA • PS4), The Scavenger Hunt: Switzerland (EU • PS4), Learn Katakana!! (EU • PS4)
-```
-<!--END_SECTION:most-recent-commits-->.99 via workflow
-13-06-2023  playstation-easy-platinums  Manual price update for The Scavenger Hunt: Switzerland (EU • PS4) to €0.99 via workflow
-13-06-2023  playstation-easy-platinums  Added 5 new games to list: Oriana: Story Three - My First Date RPG (EU • PS4), Cat Souls (PS5), Cat Souls (PS4), The Scavenger Hunt: Switzerland (NA • PS4), Savannah Runnah (AS • PS4)
-12-06-2023  robiningelbrecht            Updated GitHub profile
-12-06-2023  robiningelbrecht.be         New site build
-12-06-2023  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -217,6 +172,32 @@ Sunday                    577 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>14-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9265285993">Ham Sandwich in Makuri Islands</a>
+            </td>
+            <td align="center">22 <sup><sub>km</sub></sup></td>
+            <td align="center">384 <sup><sub>m</sub></sup></td>
+            <td align="center">1:02:12</td>
+            <td align="center">170 <sup><sub>w</sub></sup></td>
+            <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
+            <td>14-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9264449997">Morning Ride</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">19 <sup><sub>m</sub></sup></td>
+            <td align="center">37:13</td>
+            <td align="center">n/a</td>
+            <td align="center">16.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>13-06-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -254,32 +235,6 @@ Sunday                    577 commits      ████░░░░░░░░�
             <td align="center">n/a</td>
             <td align="center">16.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>12-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9249508717">Morning Ride</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">12 <sup><sub>m</sub></sup></td>
-            <td align="center">20:11</td>
-            <td align="center">n/a</td>
-            <td align="center">15.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>11-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9246480572">Yellow Unicorn in Watopia</a>
-            </td>
-            <td align="center">56 <sup><sub>km</sub></sup></td>
-            <td align="center">379 <sup><sub>m</sub></sup></td>
-            <td align="center">1:45:17</td>
-            <td align="center">171 <sup><sub>w</sub></sup></td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">159</td>
         </tr>
     </table>
 
