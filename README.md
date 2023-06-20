@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1150 commits     ███████░░░░░░░░░░░░░░░░░░   28.21 %
-🌆 Daytime                 1570 commits     ██████████░░░░░░░░░░░░░░░   38.51 %
-🌃 Evening                 1037 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.85 %
+🌞 Morning                 1156 commits     ███████░░░░░░░░░░░░░░░░░░   28.26 %
+🌆 Daytime                 1574 commits     ██████████░░░░░░░░░░░░░░░   38.48 %
+🌃 Evening                 1040 commits     ██████░░░░░░░░░░░░░░░░░░░   25.43 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.82 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    705 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
-Tuesday                   513 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Wednesday                 641 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-Thursday                  526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
-Friday                    603 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Saturday                  502 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Sunday                    587 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Monday                    707 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+Tuesday                   524 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
+Wednesday                 641 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Thursday                  526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Friday                    603 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Saturday                  502 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Sunday                    587 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.35 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    587 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-19-06-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Ironusk
-19-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (NA • PS4) to .99 via workflow
-19-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (NA • PS5) to .99 via workflow
-19-06-2023  playstation-easy-platinums  Added 5 new games to list: S Lanes (EU • PS4), The Fairy&#039;s Song (NA • PS4), The Fairy&#039;s Song (NA • PS5), Learn Hiragana!! (AS • PS4), Learn Katakana!! (AS • PS4)
-18-06-2023  robiningelbrecht            Updated GitHub profile
-18-06-2023  robiningelbrecht.be         New site build
-18-06-2023  strava-activities           Updated strava activities
-18-06-2023  strava-activities           Update 59.json
-18-06-2023  strava-activities           Updated strava activities
-18-06-2023  strava-activities           Update 75.json
+20-06-2023  strava-activities           Updated strava activities
+20-06-2023  strava-activities           Updated strava activities
+20-06-2023  strava-activities           Added challenges to statistics
+20-06-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Grassbeakon
+20-06-2023  strava-activities           Some status
+20-06-2023  strava-activities           Added Gear repo and import
+20-06-2023  strava-activities           Added Gear repo and import
+20-06-2023  strava-activities           Imported gear
+20-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (EU • PS4) to €9.99 via workflow
+20-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (EU • PS5) to €9.99 via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -172,6 +172,19 @@ Sunday                    587 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>20-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9301725522">Novanta in London</a>
+            </td>
+            <td align="center">29 <sup><sub>km</sub></sup></td>
+            <td align="center">336 <sup><sub>m</sub></sup></td>
+            <td align="center">1:01:24</td>
+            <td align="center">171 <sup><sub>w</sub></sup></td>
+            <td align="center">28.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">158</td>
+        </tr>
+            <tr>
             <td>18-06-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -222,19 +235,6 @@ Sunday                    587 commits      ████░░░░░░░░�
             <td align="center">170 <sup><sub>w</sub></sup></td>
             <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">154</td>
-        </tr>
-            <tr>
-            <td>14-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9264449997">Morning Ride</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">19 <sup><sub>m</sub></sup></td>
-            <td align="center">37:13</td>
-            <td align="center">n/a</td>
-            <td align="center">16.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
         </tr>
     </table>
 
