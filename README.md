@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1166 commits     ███████░░░░░░░░░░░░░░░░░░   28.32 %
-🌆 Daytime                 1583 commits     ██████████░░░░░░░░░░░░░░░   38.45 %
-🌃 Evening                 1048 commits     ██████░░░░░░░░░░░░░░░░░░░   25.46 %
+🌞 Morning                 1166 commits     ███████░░░░░░░░░░░░░░░░░░   28.30 %
+🌆 Daytime                 1584 commits     ██████████░░░░░░░░░░░░░░░   38.45 %
+🌃 Evening                 1050 commits     ██████░░░░░░░░░░░░░░░░░░░   25.49 %
 🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.77 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    707 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.17 %
-Tuesday                   526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Friday                    605 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Saturday                  502 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Sunday                    587 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Monday                    707 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.16 %
+Tuesday                   526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Saturday                  503 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Sunday                    587 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    587 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+24-06-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Opalinx
+23-06-2023  robiningelbrecht       Updated GitHub profile
+23-06-2023  robiningelbrecht.be    New site build
 23-06-2023  strava-activities      Updated strava activities
 23-06-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Aqumeleon
 22-06-2023  robiningelbrecht       Updated GitHub profile
@@ -68,9 +71,6 @@ Sunday                    587 commits      ████░░░░░░░░�
 22-06-2023  strava-activities      Updated strava activities
 22-06-2023  gotta-generate-em-all  Generated a new psychic-type Pokémon named Luminimoth
 21-06-2023  robiningelbrecht       Updated GitHub profile
-21-06-2023  robiningelbrecht.be    New site build
-21-06-2023  strava-activities      Better icon
-21-06-2023  strava-activities      Icons
 ```
 <!--END_SECTION:most-recent-commits-->
 
