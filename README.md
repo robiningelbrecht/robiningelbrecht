@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1170 commits     ███████░░░░░░░░░░░░░░░░░░   28.21 %
-🌆 Daytime                 1594 commits     ██████████░░░░░░░░░░░░░░░   38.43 %
-🌃 Evening                 1064 commits     ██████░░░░░░░░░░░░░░░░░░░   25.65 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.71 %
+🌞 Morning                 1172 commits     ███████░░░░░░░░░░░░░░░░░░   28.18 %
+🌆 Daytime                 1597 commits     ██████████░░░░░░░░░░░░░░░   38.40 %
+🌃 Evening                 1070 commits     ██████░░░░░░░░░░░░░░░░░░░   25.73 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    713 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.19 %
-Tuesday                   526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+Tuesday                   531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,20 +61,16 @@ Sunday                    607 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-26-06-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Infernoxeon
-26-06-2023  wca-rest-api                Started with person API
-26-06-2023  wca-rest-api                Better API naming
-26-06-2023  playstation-easy-platinums  Manual price update for Elliot: Story Three - My First Date RPG (NA • PS4) to <!--START_SECTION:most-recent-commits-->
-25-06-2023  strava-activities           Updated strava activities
-25-06-2023  wca-rest-api                Fixed date ranges
-25-06-2023  wca-rest-api                Competition overview
-25-06-2023  wca-rest-api                Some testing
-25-06-2023  wca-rest-api                Script to import WCA export
-25-06-2023  playstation-easy-platinums  Added 17 new games to list: Cate P (JP • PS4), Cate P (AS • PS4), Tower Up (PS4), Donuts in Space (EU • PS5), Donuts in Space (NA • PS5), Elliot: Story Three - My First Date RPG (NA • PS4), Elliot: Story Three - My First Date RPG (EU • PS4), Cate P (NA • PS4), Cate P (EU • PS4), Donuts in Space (AS • PS4), Donuts in Space (AS • PS5), Match Master (JP • PS4), Match Master (JP • PS5), Match Master (JP • PS4), Match Master (AS • PS5), Tower Up (PS4), Galactic Lords (JP • PS4)
-25-06-2023  wca-rest-api                Initial commit
-25-06-2023  wca-rest-api                Initial commit
-25-06-2023  strava-activities           Incomplete activities
-25-06-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltapurr
+27-06-2023  strava-activities           Updated strava activities
+27-06-2023  wca-rest-api                openapi.json
+27-06-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Lavaguard
+27-06-2023  playstation-easy-platinums  Added 3 new games to list: Road Bustle 2 (AS • PS4), Neko Secret Homecoming Light (NA • PS4), Neko Secret Homecoming Light (NA • PS5)
+27-06-2023  robiningelbrecht            Update README.md
+26-06-2023  robiningelbrecht            Updated GitHub profile
+26-06-2023  robiningelbrecht.be         New site build
+26-06-2023  strava-activities           Updated strava activities
+26-06-2023  wca-rest-api                Readme
+26-06-2023  wca-rest-api                Readme
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -176,6 +172,19 @@ Sunday                    607 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>27-06-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9345252620">Brugge -> Gent -> Brugge</a>
+            </td>
+            <td align="center">88 <sup><sub>km</sub></sup></td>
+            <td align="center">102 <sup><sub>m</sub></sup></td>
+            <td align="center">3:12:58</td>
+            <td align="center">n/a</td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>26-06-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -226,19 +235,6 @@ Sunday                    607 commits      ████░░░░░░░░�
             <td align="center">178 <sup><sub>w</sub></sup></td>
             <td align="center">20.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">152</td>
-        </tr>
-            <tr>
-            <td>21-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9307618363">Afternoon Ride</a>
-            </td>
-            <td align="center">12 <sup><sub>km</sub></sup></td>
-            <td align="center">28 <sup><sub>m</sub></sup></td>
-            <td align="center">30:25</td>
-            <td align="center">n/a</td>
-            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
