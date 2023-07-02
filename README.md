@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1178 commits     ███████░░░░░░░░░░░░░░░░░░   28.10 %
-🌆 Daytime                 1609 commits     ██████████░░░░░░░░░░░░░░░   38.38 %
-🌃 Evening                 1085 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.63 %
+🌞 Morning                 1183 commits     ███████░░░░░░░░░░░░░░░░░░   28.15 %
+🌆 Daytime                 1610 commits     ██████████░░░░░░░░░░░░░░░   38.32 %
+🌃 Evening                 1089 commits     ██████░░░░░░░░░░░░░░░░░░░   25.92 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.62 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.15 %
-Tuesday                   535 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Wednesday                 670 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Thursday                  542 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Friday                    611 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Saturday                  508 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.11 %
+Tuesday                   535 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Wednesday                 670 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Thursday                  542 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Friday                    611 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Saturday                  511 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Sunday                    614 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    607 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-01-07-2023  strava-activities           Updated strava activities
-01-07-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Monarchrystaleon
-01-07-2023  playstation-easy-platinums  Added 29 new games to list: Tricks Magician (PS5), Tricks Magician (PS4), Rocket Lift (NA • PS4), Rocket Lift (NA • PS5), Rainbow Snake (JP • PS4), Casino Roulette Royal (NA • PS5), Rainbow Snake (NA • PS4), Rainbow Snake (EU • PS4), Rainbow Snake (AS • PS4), Archers Dream (PS5), Archers Dream (PS4), Archers Dream (PS5), I&#039;ll Kill Her (EU • PS4), I&#039;ll Kill Her (EU • PS5), I&#039;ll Kill Her (JP • PS4), I&#039;ll Kill Her (JP • PS5), Neko Secret Homecoming Light (EU • PS4), Rocket Lift (EU • PS4), Rocket Lift (EU • PS5), Archers Dream (PS5), Archers Dream (PS4), Archers Dream (PS4), Archers Dream (PS4), Aliens Attack (PS5), Aliens Attack (PS5), Casino Roulette Royal (EU • PS5), Tricks Magician (PS5), Tricks Magician (PS4), A Frog Game (EU • PS4)
-30-06-2023  robiningelbrecht            Updated GitHub profile
-30-06-2023  robiningelbrecht.be         New site build
-30-06-2023  strava-activities           Updated strava activities
-30-06-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Goldthundera
-29-06-2023  robiningelbrecht            Updated GitHub profile
-29-06-2023  robiningelbrecht.be         New site build
-29-06-2023  wca-rest-api                readme
+02-07-2023  wca-rest-api                Sort results
+02-07-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Maceroyale
+02-07-2023  strava-activities           Updated strava activities
+02-07-2023  playstation-easy-platinums  Manual price update for Aliens Attack (PS5) to .99 via workflow
+02-07-2023  playstation-easy-platinums  Manual price update for Tricks Magician (PS5) to .99 via workflow
+02-07-2023  playstation-easy-platinums  Manual price update for Tricks Magician (PS4) to .99 via workflow
+02-07-2023  playstation-easy-platinums  Added 4 new games to list: I&#039;ll Kill Her (AS • PS4), I&#039;ll Kill Her (AS • PS5), I&#039;ll Kill Her (NA • PS5), Carrion (NA • PS5)
+01-07-2023  robiningelbrecht            Updated GitHub profile
+01-07-2023  robiningelbrecht.be         New site build
+01-07-2023  wca-rest-api                Started with Results API
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -172,6 +172,19 @@ Sunday                    607 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-07-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9372557932">Tine in New York</a>
+            </td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">401 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:51</td>
+            <td align="center">150 <sup><sub>w</sub></sup></td>
+            <td align="center">24.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">143</td>
+        </tr>
+            <tr>
             <td>01-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -222,19 +235,6 @@ Sunday                    607 commits      ████░░░░░░░░�
             <td align="center">171 <sup><sub>w</sub></sup></td>
             <td align="center">13.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">153</td>
-        </tr>
-            <tr>
-            <td>27-06-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9345252620">Brugge -> Gent -> Brugge</a>
-            </td>
-            <td align="center">88 <sup><sub>km</sub></sup></td>
-            <td align="center">102 <sup><sub>m</sub></sup></td>
-            <td align="center">3:12:58</td>
-            <td align="center">n/a</td>
-            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
