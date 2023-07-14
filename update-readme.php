@@ -10,15 +10,17 @@ $readme = replaceReadMeSection('commits-per-day-time', $dayTimeSummary, $readme)
 $readme = replaceReadMeSection('commits-per-weekday', $weekDaySummary, $readme);
 $readme = replaceReadMeSection('most-recent-commits', $mostRecentCommitsSummary, $readme);
 $readme = replaceReadMeSection('strava-activities', $stravaActivities, $readme);
+file_put_contents('README.md', $readme);
 
 file_put_contents(
     __DIR__.'/assets/medium-blog-posts.svg',
     file_get_contents('https://medium-rss-github.robiningelbrecht.be/@ingelbrechtrobin/0,1,2,3/layout:two-col')
 );
-$readme = replaceReadMeSection('medium-blog-posts', '<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>', $readme);
 
-
-file_put_contents('README.md', $readme);
+file_put_contents(
+    __DIR__.'/assets/github-streak-stats.svg',
+    file_get_contents('https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht'),
+);
 
 function replaceReadMeSection(string $sectionName, string $replaceWith, string $subject)
 {

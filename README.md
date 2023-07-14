@@ -76,9 +76,7 @@ Sunday                    645 commits      ████░░░░░░░░�
 
 ## :pencil: Latest blog posts
 
-<!--START_SECTION:medium-blog-posts-->
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
-<!--END_SECTION:medium-blog-posts-->
 
 ## :jigsaw: Let's solve this Rubik's cube
 
@@ -244,7 +242,7 @@ Sunday                    645 commits      ████░░░░░░░░�
 <!--END_SECTION:strava-activities-->
 
  ## :sparkles: GitHub Trophies
- 
-[![Robin Ingelbrecht's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht)](https://github.com/robiningelbrecht)
- 
+
+<img src="assets/github-streak-stats.svg"  alt="Robin Ingelbrecht's streak stats"/>
+
 ![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
