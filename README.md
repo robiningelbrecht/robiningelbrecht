@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1217 commits     ███████░░░░░░░░░░░░░░░░░░   28.00 %
-🌆 Daytime                 1672 commits     ██████████░░░░░░░░░░░░░░░   38.46 %
-🌃 Evening                 1135 commits     ███████░░░░░░░░░░░░░░░░░░   26.11 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.43 %
+🌞 Morning                 1217 commits     ███████░░░░░░░░░░░░░░░░░░   27.97 %
+🌆 Daytime                 1674 commits     ██████████░░░░░░░░░░░░░░░   38.47 %
+🌃 Evening                 1137 commits     ███████░░░░░░░░░░░░░░░░░░   26.13 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.42 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    736 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.93 %
-Tuesday                   556 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Wednesday                 684 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Thursday                  579 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Friday                    632 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Monday                    736 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
+Tuesday                   556 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Wednesday                 684 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+Thursday                  579 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Saturday                  517 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.82 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    645 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-14-07-2023  strava-activities           Updated strava activities
-14-07-2023  wca-rest-api                Schedule API build
-14-07-2023  wca-rest-api                README changes
-14-07-2023  wca-rest-api                New API build
-14-07-2023  robiningelbrecht            Cache github streak stats
-14-07-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Maskursa
-14-07-2023  playstation-easy-platinums  Added 5 new games to list: Boat Trip (PS5), Hit the Color (PS5), Hit the Color (PS5), Hit the Color (PS4), Hit the Color (PS4)
-14-07-2023  wca-rest-api                Fixed logo
-14-07-2023  wca-rest-api                Removed WCA logo
-13-07-2023  robiningelbrecht.be         New site build
+15-07-2023  wca-rest-api           New API build
+15-07-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Glitswanee
+14-07-2023  robiningelbrecht       Updated GitHub profile
+14-07-2023  robiningelbrecht.be    New site build
+14-07-2023  strava-activities      Updated strava activities
+14-07-2023  wca-rest-api           Schedule API build
+14-07-2023  wca-rest-api           README changes
+14-07-2023  wca-rest-api           New API build
+14-07-2023  robiningelbrecht       Cache github streak stats
+14-07-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Maskursa
 ```
 <!--END_SECTION:most-recent-commits-->
 
