@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1220 commits     ███████░░░░░░░░░░░░░░░░░░   27.75 %
-🌆 Daytime                 1704 commits     ██████████░░░░░░░░░░░░░░░   38.75 %
-🌃 Evening                 1150 commits     ███████░░░░░░░░░░░░░░░░░░   26.15 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.35 %
+🌞 Morning                 1221 commits     ███████░░░░░░░░░░░░░░░░░░   27.73 %
+🌆 Daytime                 1706 commits     ██████████░░░░░░░░░░░░░░░   38.75 %
+🌃 Evening                 1153 commits     ███████░░░░░░░░░░░░░░░░░░   26.19 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.34 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.56 %
-Tuesday                   560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Wednesday                 684 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-Thursday                  579 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.17 %
-Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.53 %
+Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Wednesday                 688 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Thursday                  579 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    649 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+19-07-2023  strava-activities           Updated strava activities
+19-07-2023  wca-rest-api                New API build
+19-07-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltornyx
+19-07-2023  wca-rest-api                Docs
+18-07-2023  robiningelbrecht            Updated GitHub profile
+18-07-2023  robiningelbrecht.be         New site build
 18-07-2023  strava-activities           Updated strava activities
 18-07-2023  wca-rest-api                New API build
 18-07-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Pongoraxe
 18-07-2023  playstation-easy-platinums  Added 5 new games to list: UltraGoodness (PS4), UltraGoodness (PS5), UltraGoodness (PS4), UltraGoodness (PS5), Frightence (PS5)
-17-07-2023  robiningelbrecht            Updated GitHub profile
-17-07-2023  robiningelbrecht.be         New site build
-17-07-2023  robiningelbrecht.be         Update build-site.yml
-17-07-2023  robiningelbrecht            Update update-github-profile.yml
-17-07-2023  gotta-generate-em-all       Update generate-card.yml
-17-07-2023  wca-rest-api                Update build-api.yml
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    649 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-07-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9483741727">BikerBoys 🏍️</a>
+            </td>
+            <td align="center">69 <sup><sub>km</sub></sup></td>
+            <td align="center">149 <sup><sub>m</sub></sup></td>
+            <td align="center">2:36:49</td>
+            <td align="center">n/a</td>
+            <td align="center">26.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>19-07-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9481993011">Afternoon Ride</a>
+            </td>
+            <td align="center">13 <sup><sub>km</sub></sup></td>
+            <td align="center">32 <sup><sub>m</sub></sup></td>
+            <td align="center">32:16</td>
+            <td align="center">n/a</td>
+            <td align="center">24.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
+        </tr>
+            <tr>
             <td>18-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -207,32 +233,6 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td align="center">178 <sup><sub>w</sub></sup></td>
             <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>14-07-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9451148657">Morning Ride</a>
-            </td>
-            <td align="center">13 <sup><sub>km</sub></sup></td>
-            <td align="center">31 <sup><sub>m</sub></sup></td>
-            <td align="center">35:55</td>
-            <td align="center">n/a</td>
-            <td align="center">22.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>12-07-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9439311948">Avec le Bikerboys</a>
-            </td>
-            <td align="center">60 <sup><sub>km</sub></sup></td>
-            <td align="center">92 <sup><sub>m</sub></sup></td>
-            <td align="center">2:12:40</td>
-            <td align="center">n/a</td>
-            <td align="center">27.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
