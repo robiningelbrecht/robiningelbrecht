@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1221 commits     ███████░░░░░░░░░░░░░░░░░░   27.73 %
-🌆 Daytime                 1706 commits     ██████████░░░░░░░░░░░░░░░   38.75 %
-🌃 Evening                 1153 commits     ███████░░░░░░░░░░░░░░░░░░   26.19 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.34 %
+🌞 Morning                 1221 commits     ███████░░░░░░░░░░░░░░░░░░   27.67 %
+🌆 Daytime                 1708 commits     ██████████░░░░░░░░░░░░░░░   38.71 %
+🌃 Evening                 1160 commits     ███████░░░░░░░░░░░░░░░░░░   26.29 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.32 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.53 %
-Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Wednesday                 688 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Thursday                  579 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.50 %
+Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Thursday                  585 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    649 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+20-07-2023  strava-activities           Updated strava activities
+20-07-2023  strava-activities           Show kcals and gear
+20-07-2023  strava-activities           Show kcals and gear
+20-07-2023  playstation-easy-platinums  Added 16 new games to list: MetaDude (PS5), MetaDude (EU • PS4), MetaDude (EU • PS5), Hungry Monster (PS4), Hungry Monster (PS5), Hungry Monster (PS4), Hungry Monster (PS5), Pocket Soccer (PS4), Pure Mini Golf (PS4), Pure Mini Golf (PS5), Plumber Puzzles (PS5), Pocket Soccer (PS4), Pure Mini Golf (PS4), Pure Mini Golf (PS5), Plumber Puzzles (PS5), Carrion (EU • PS5)
+20-07-2023  wca-rest-api                New API build
+20-07-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Gemleon
+19-07-2023  robiningelbrecht            Updated GitHub profile
+19-07-2023  robiningelbrecht.be         New site build
 19-07-2023  strava-activities           Updated strava activities
-19-07-2023  wca-rest-api                New API build
-19-07-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltornyx
-19-07-2023  wca-rest-api                Docs
-18-07-2023  robiningelbrecht            Updated GitHub profile
-18-07-2023  robiningelbrecht.be         New site build
-18-07-2023  strava-activities           Updated strava activities
-18-07-2023  wca-rest-api                New API build
-18-07-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Pongoraxe
-18-07-2023  playstation-easy-platinums  Added 5 new games to list: UltraGoodness (PS4), UltraGoodness (PS5), UltraGoodness (PS4), UltraGoodness (PS5), Frightence (PS5)
+19-07-2023  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -173,7 +173,7 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td>19-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9483741727">BikerBoys 🏍️</a>
+                <a href="https://www.strava.com/activities/9483741727" title="Kcal: 1769 | Gear: None ">BikerBoys 🏍️</a>
             </td>
             <td align="center">69 <sup><sub>km</sub></sup></td>
             <td align="center">149 <sup><sub>m</sub></sup></td>
@@ -186,7 +186,7 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td>19-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9481993011">Afternoon Ride</a>
+                <a href="https://www.strava.com/activities/9481993011" title="Kcal: 313 | Gear: None ">Afternoon Ride</a>
             </td>
             <td align="center">13 <sup><sub>km</sub></sup></td>
             <td align="center">32 <sup><sub>m</sub></sup></td>
@@ -199,7 +199,7 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td>18-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9475869554">Spaded Sweetie in Richmond</a>
+                <a href="https://www.strava.com/activities/9475869554" title="Kcal: 588 | Gear: None ">Spaded Sweetie in Richmond</a>
             </td>
             <td align="center">27 <sup><sub>km</sub></sup></td>
             <td align="center">344 <sup><sub>m</sub></sup></td>
@@ -212,7 +212,7 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td>17-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9468607450">LOX in Makuri Islands</a>
+                <a href="https://www.strava.com/activities/9468607450" title="Kcal: 585 | Gear: None ">LOX in Makuri Islands</a>
             </td>
             <td align="center">25 <sup><sub>km</sub></sup></td>
             <td align="center">310 <sup><sub>m</sub></sup></td>
@@ -225,7 +225,7 @@ Sunday                    649 commits      ████░░░░░░░░�
             <td>14-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9450997559">Cucumber in New York</a>
+                <a href="https://www.strava.com/activities/9450997559" title="Kcal: 919 | Gear: None ">Cucumber in New York</a>
             </td>
             <td align="center">41 <sup><sub>km</sub></sup></td>
             <td align="center">695 <sup><sub>m</sub></sup></td>
