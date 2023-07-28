@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1255 commits     ███████░░░░░░░░░░░░░░░░░░   27.58 %
-🌆 Daytime                 1775 commits     ██████████░░░░░░░░░░░░░░░   39.00 %
-🌃 Evening                 1198 commits     ███████░░░░░░░░░░░░░░░░░░   26.32 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.10 %
+🌞 Morning                 1255 commits     ███████░░░░░░░░░░░░░░░░░░   27.53 %
+🌆 Daytime                 1779 commits     ██████████░░░░░░░░░░░░░░░   39.03 %
+🌃 Evening                 1201 commits     ███████░░░░░░░░░░░░░░░░░░   26.35 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.09 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
-Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Thursday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.60 %
+Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+Thursday                  606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Friday                    657 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    669 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+28-07-2023  strava-activities           Updated strava activities
+28-07-2023  wca-rest-api                New API build
+28-07-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Bracerattle
+28-07-2023  wca-rest-api                Undo testing
+28-07-2023  wca-rest-api                Testing
+27-07-2023  robiningelbrecht            Updated GitHub profile
+27-07-2023  robiningelbrecht.be         New site build
 27-07-2023  strava-activities           Readme
 27-07-2023  playstation-easy-platinums  Manual price update for Garlic (NA • PS5) to .99 via workflow
 27-07-2023  playstation-easy-platinums  Added 5 new games to list: Garlic (NA • PS5), Meteor Crusher (NA • PS4), Meteor Crusher (NA • PS5), Meteor Crusher (EU • PS4), Meteor Crusher (EU • PS5)
-27-07-2023  strava-activities           Import athlete weight
-27-07-2023  strava-activities           Import athlete weight
-27-07-2023  strava-activities           Show power outputs over time
-27-07-2023  strava-activities           Show power outputs over time
-27-07-2023  strava-activities           Show power outputs over time
-27-07-2023  strava-activities           Show power outputs over time
-27-07-2023  strava-activities           Show power outputs over time
 ```
 <!--END_SECTION:most-recent-commits-->
 
