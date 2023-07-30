@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1257 commits     ███████░░░░░░░░░░░░░░░░░░   27.54 %
-🌆 Daytime                 1782 commits     ██████████░░░░░░░░░░░░░░░   39.04 %
-🌃 Evening                 1203 commits     ███████░░░░░░░░░░░░░░░░░░   26.35 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.08 %
+🌞 Morning                 1259 commits     ███████░░░░░░░░░░░░░░░░░░   27.48 %
+🌆 Daytime                 1790 commits     ██████████░░░░░░░░░░░░░░░   39.07 %
+🌃 Evening                 1209 commits     ███████░░░░░░░░░░░░░░░░░░   26.39 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.05 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,29 +47,30 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.57 %
-Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Thursday                  606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Friday                    659 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Saturday                  536 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.51 %
+Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Thursday                  606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Friday                    659 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Saturday                  538 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Sunday                    683 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.91 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
-        
+                                        
 ```text
-28-07-2023  strava-activities           Updated strava activities
-28-07-2023  wca-rest-api                New API build
-28-07-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Bracerattle
-28-07-2023  wca-rest-api                Undo testing
-28-07-2023  wca-rest-api                Testing
-27-07-2023  robiningelbrecht            Updated GitHub profile
-27-07-2023  robiningelbrecht.be         New site build
-27-07-2023  strava-activities           Readme
-27-07-2023  playstation-easy-platinums  Manual price update for Garlic (NA • PS5) to .99 via workflow
+30-07-2023  strava-activities  Updated strava activities
+30-07-2023  robiningelbrecht   Update README.md
+30-07-2023  robiningelbrecht   Update README.md
+30-07-2023  strava-activities  Little changes to starts
+30-07-2023  strava-activities  Shorter titles
+30-07-2023  strava-activities  Shorter titles
+30-07-2023  strava-activities  Shorter titles
+30-07-2023  wca-rest-api       Docs
+30-07-2023  wca-rest-api       Fixed tests
+30-07-2023  wca-rest-api       Added endpoint for GET championships by type
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -211,7 +212,7 @@ Sunday                    669 commits      ████░░░░░░░░�
             <td>26-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9527434111" title="Kcal: 1622 | Gear: None ">Toertje van de vaart met de...</a>
+                <a href="https://www.strava.com/activities/9527434111" title="Kcal: 1622 | Gear: None ">Toertje van de vaart met d...</a>
             </td>
             <td align="center">73 <sup><sub>km</sub></sup></td>
             <td align="center">50 <sup><sub>m</sub></sup></td>
