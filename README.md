@@ -59,14 +59,7 @@ Sunday                    669 commits      ████░░░░░░░░�
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
-                                        
-```text
-29-07-2023  strava-activities           Updated strava activities
-29-07-2023  wca-rest-api                New API build
-29-07-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Cryptawke
-29-07-2023  playstation-easy-platinums  Manual price update for The Scavenger Hunt: Italy (PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
+        
 ```text
 28-07-2023  strava-activities           Updated strava activities
 28-07-2023  wca-rest-api                New API build
