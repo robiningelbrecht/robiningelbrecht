@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1259 commits     ███████░░░░░░░░░░░░░░░░░░   27.45 %
-🌆 Daytime                 1793 commits     ██████████░░░░░░░░░░░░░░░   39.09 %
-🌃 Evening                 1212 commits     ███████░░░░░░░░░░░░░░░░░░   26.42 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.04 %
+🌞 Morning                 1259 commits     ███████░░░░░░░░░░░░░░░░░░   27.34 %
+🌆 Daytime                 1805 commits     ██████████░░░░░░░░░░░░░░░   39.20 %
+🌃 Evening                 1218 commits     ███████░░░░░░░░░░░░░░░░░░   26.45 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.01 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    806 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.57 %
-Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Thursday                  606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Friday                    659 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Saturday                  538 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Sunday                    685 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Monday                    808 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.55 %
+Tuesday                   606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Thursday                  606 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Friday                    659 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Saturday                  538 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Sunday                    685 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    685 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-31-07-2023  strava-activities      Updated strava activities
-31-07-2023  gotta-generate-em-all  Generated a new grass-type Pokémon named Bracerython
-31-07-2023  wca-rest-api           New API build
-31-07-2023  gotta-generate-em-all  Generated a new grass-type Pokémon named Leaflynx
-30-07-2023  robiningelbrecht       Updated GitHub profile
-30-07-2023  robiningelbrecht.be    New site build
-30-07-2023  strava-activities      Updated strava activities
-30-07-2023  robiningelbrecht       Update README.md
-30-07-2023  robiningelbrecht       Update README.md
-30-07-2023  strava-activities      Little changes to starts
+01-08-2023  strava-activities           Updated strava activities
+01-08-2023  strava-activities           Weekday stats
+01-08-2023  strava-activities           Weekday stats
+01-08-2023  strava-activities           Weekday stats
+01-08-2023  strava-activities           Fixed import of challenges
+01-08-2023  strava-activities           Fix Monthly statistics
+01-08-2023  wca-rest-api                New API build
+01-08-2023  strava-activities           Fixed possible bug in monthly statistics
+01-08-2023  playstation-easy-platinums  Manual price update for Working Hard Collection (EU • PS5) to €4.99 via workflow
+01-08-2023  playstation-easy-platinums  Manual price update for Working Hard Collection (EU • PS4) to €4.99 via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    685 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-08-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9563517795" title="Kcal: 687 | Gear: None ">Race: EVO CC Race Series (...</a>
+            </td>
+            <td align="center">29 <sup><sub>km</sub></sup></td>
+            <td align="center">102 <sup><sub>m</sub></sup></td>
+            <td align="center">43:46</td>
+            <td align="center">241 <sup><sub>w</sub></sup></td>
+            <td align="center">39.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">181</td>
+        </tr>
+            <tr>
             <td>31-07-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    685 commits      ████░░░░░░░░�
             <td align="center">165 <sup><sub>w</sub></sup></td>
             <td align="center">33 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>26-07-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9527434111" title="Kcal: 1622 | Gear: None ">Toertje van de vaart met d...</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">50 <sup><sub>m</sub></sup></td>
-            <td align="center">2:30:46</td>
-            <td align="center">n/a</td>
-            <td align="center">29 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
