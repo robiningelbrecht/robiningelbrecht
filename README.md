@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1262 commits     ███████░░░░░░░░░░░░░░░░░░   27.31 %
-🌆 Daytime                 1809 commits     ██████████░░░░░░░░░░░░░░░   39.15 %
-🌃 Evening                 1227 commits     ███████░░░░░░░░░░░░░░░░░░   26.55 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.99 %
+🌞 Morning                 1268 commits     ███████░░░░░░░░░░░░░░░░░░   27.37 %
+🌆 Daytime                 1811 commits     ██████████░░░░░░░░░░░░░░░   39.10 %
+🌃 Evening                 1230 commits     ███████░░░░░░░░░░░░░░░░░░   26.55 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.97 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    808 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 %
-Tuesday                   611 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Wednesday                 709 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Thursday                  611 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Friday                    659 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Saturday                  538 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Sunday                    685 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Monday                    808 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.44 %
+Tuesday                   611 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Wednesday                 709 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Thursday                  613 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Friday                    668 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Saturday                  538 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Sunday                    685 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    685 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-03-08-2023  strava-activities           Updated strava activities
-03-08-2023  wca-rest-api                New API build
-03-08-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrocrown
-03-08-2023  playstation-easy-platinums  Manual price update for Replikator (EU • PS5) to €6.99 via workflow
-03-08-2023  playstation-easy-platinums  Added 4 new games to list: Item Tower (PS4), Item Tower (JP • PS4), Item Tower (EU • PS4), Replikator (EU • PS5)
-02-08-2023  robiningelbrecht            Updated GitHub profile
-02-08-2023  robiningelbrecht.be         New site build
-02-08-2023  strava-activities           Updated strava activities
-02-08-2023  wca-rest-api                New API build
-02-08-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltaguar
+04-08-2023  strava-activities           Updated strava activities
+04-08-2023  wca-rest-api                New API build
+04-08-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Desertron
+04-08-2023  playstation-easy-platinums  Manual price update for Senses: Midnight (NA • PS4) to .99 via workflow
+04-08-2023  playstation-easy-platinums  Manual price update for The Red Exile (PS4) to .99 via workflow
+04-08-2023  playstation-easy-platinums  Manual price update for The Red Exile (PS5) to .99 via workflow
+04-08-2023  playstation-easy-platinums  Added 12 new games to list: Super Box Delivery: Beyond the Horizon (PS5), EchoBlade (NA • PS4), EchoBlade (EU • PS4), Senses: Midnight (NA • PS4), The Red Exile (PS5), The Voices Stories (EU • PS4), Try to Fit (AS • PS4), Try to Fit (AS • PS5), Try to Fit (JP • PS4), Try to Fit (JP • PS5), Item Tower (NA • PS4), The Red Exile (PS4)
+04-08-2023  strava-activities           Deleted obsolete templates
+04-08-2023  strava-activities           Less templates
+03-08-2023  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    685 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>04-08-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9582002750" title="Kcal: 665 | Gear: None ">Malevolent in New York</a>
+            </td>
+            <td align="center">28 <sup><sub>km</sub></sup></td>
+            <td align="center">495 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:27</td>
+            <td align="center">192 <sup><sub>w</sub></sup></td>
+            <td align="center">28.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">154</td>
+        </tr>
+            <tr>
             <td>02-08-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    685 commits      ████░░░░░░░░�
             <td align="center">180 <sup><sub>w</sub></sup></td>
             <td align="center">26.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">154</td>
-        </tr>
-            <tr>
-            <td>29-07-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9542782814" title="Kcal: 293 | Gear: None ">Morning Ride</a>
-            </td>
-            <td align="center">12 <sup><sub>km</sub></sup></td>
-            <td align="center">15 <sup><sub>m</sub></sup></td>
-            <td align="center">31:56</td>
-            <td align="center">92 <sup><sub>w</sub></sup></td>
-            <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">129</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
