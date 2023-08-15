@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1268 commits     ███████░░░░░░░░░░░░░░░░░░   27.07 %
-🌆 Daytime                 1833 commits     ██████████░░░░░░░░░░░░░░░   39.13 %
-🌃 Evening                 1260 commits     ███████░░░░░░░░░░░░░░░░░░   26.90 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.90 %
+🌞 Morning                 1268 commits     ███████░░░░░░░░░░░░░░░░░░   27.04 %
+🌆 Daytime                 1835 commits     ██████████░░░░░░░░░░░░░░░   39.13 %
+🌃 Evening                 1263 commits     ███████░░░░░░░░░░░░░░░░░░   26.94 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.89 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    817 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.44 %
-Tuesday                   616 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Wednesday                 714 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Thursday                  619 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Friday                    676 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Saturday                  548 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Sunday                    694 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Monday                    819 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.47 %
+Tuesday                   619 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Wednesday                 714 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Thursday                  619 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Friday                    676 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Saturday                  548 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Sunday                    694 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    694 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+15-08-2023  strava-activities           Updated strava activities
+15-08-2023  wca-rest-api                New API build
+15-08-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrocaper
+14-08-2023  robiningelbrecht            Updated GitHub profile
+14-08-2023  robiningelbrecht.be         New site build
 14-08-2023  strava-activities           Updated strava activities
 14-08-2023  playstation-easy-platinums  Added 6 new games to list: Fluffy Milo (AS • PS4), Would You Like to Run an Idol Café? 3 (PS4), Would You Like to Run an Idol Café? 3 (PS5), Sky Races (PS4), Acceptance (PS5), Fluffy Milo (JP • PS4)
 14-08-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Riverserpentium
 13-08-2023  robiningelbrecht            Updated GitHub profile
 13-08-2023  robiningelbrecht.be         New site build
-13-08-2023  strava-activities           Updated strava activities
-13-08-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Rubrumbo
-12-08-2023  robiningelbrecht            Updated GitHub profile
-12-08-2023  robiningelbrecht.be         New site build
-12-08-2023  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    694 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>15-08-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9653331316" title="Kcal: 823 | Gear: None ">🇫🇷 Ride #1, avec la copine</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">433 <sup><sub>m</sub></sup></td>
+            <td align="center">1:43:49</td>
+            <td align="center">83 <sup><sub>w</sub></sup></td>
+            <td align="center">17.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">118</td>
+        </tr>
+            <tr>
             <td>13-08-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    694 commits      ████░░░░░░░░�
             <td align="center">83 <sup><sub>w</sub></sup></td>
             <td align="center">15 <sup><sub>km/h</sub></sup></td>
             <td align="center">114</td>
-        </tr>
-            <tr>
-            <td>09-08-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9612009708" title="Kcal: 1374 | Gear: None ">🇮🇹 Ride #2</a>
-            </td>
-            <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td align="center">561 <sup><sub>m</sub></sup></td>
-            <td align="center">2:02:22</td>
-            <td align="center">134 <sup><sub>w</sub></sup></td>
-            <td align="center">24.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
