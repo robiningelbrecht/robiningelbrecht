@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1276 commits     ███████░░░░░░░░░░░░░░░░░░   27.09 %
-🌆 Daytime                 1841 commits     ██████████░░░░░░░░░░░░░░░   39.09 %
-🌃 Evening                 1270 commits     ███████░░░░░░░░░░░░░░░░░░   26.96 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.86 %
+🌞 Morning                 1276 commits     ███████░░░░░░░░░░░░░░░░░░   27.06 %
+🌆 Daytime                 1844 commits     ██████████░░░░░░░░░░░░░░░   39.10 %
+🌃 Evening                 1273 commits     ███████░░░░░░░░░░░░░░░░░░   26.99 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.85 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    819 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
-Tuesday                   621 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Wednesday                 725 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Thursday                  624 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
-Friday                    679 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Saturday                  548 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Sunday                    694 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Monday                    819 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.37 %
+Tuesday                   621 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Wednesday                 725 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Thursday                  624 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Friday                    681 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Saturday                  552 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Sunday                    694 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    694 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-18-08-2023  strava-activities      Updated strava activities
-18-08-2023  wca-rest-api           New API build
-18-08-2023  gotta-generate-em-all  Generated a new fighting-type Pokémon named Armursus
-17-08-2023  robiningelbrecht       Updated GitHub profile
-17-08-2023  robiningelbrecht.be    New site build
-17-08-2023  wca-rest-api           New API build
-17-08-2023  gotta-generate-em-all  Generated a new grass-type Pokémon named Emeraldion
-17-08-2023  strava-activities      Updated strava activities
-16-08-2023  robiningelbrecht       Updated GitHub profile
-16-08-2023  robiningelbrecht.be    New site build
+19-08-2023  strava-activities           Updated strava activities
+19-08-2023  playstation-easy-platinums  Added 34 new games to list: Repentless (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Embattled (JP • PS4), Kitty Krawler (NA • PS5), Kitty Krawler (EU • PS5), Acceptance (EU • PS4), Embattled (AS • PS4), Sushi Blast (PS5), Sushi Blast (PS4), On Sunday (AS • PS5), Repentless 2 (AS • PS4), Black Death: A Tragic Dirge (PS5), Acceptance (NA • PS4), Acceptance (NA • PS5), Laserpitium (NA • PS4), Kitty Krawler (EU • PS4), Pandaty (PS4), Kitty Krawler (NA • PS4), Detective Inspector: Mysterious Clues (EU • PS4), Space Defend (JP • PS5), Space Defend (AS • PS4), Space Defend (AS • PS5), Space Defend (JP • PS4), I&#039;m in Love With Your Dead Grandmother (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Embattled (NA • PS4), Aery: The Lost Hero (EU • PS4), Fluffy Milo (AS • PS5), Fluffy Milo (NA • PS5)
+19-08-2023  wca-rest-api                New API build
+19-08-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Leafirex
+18-08-2023  robiningelbrecht            Updated GitHub profile
+18-08-2023  robiningelbrecht.be         New site build
+18-08-2023  strava-activities           Updated strava activities
+18-08-2023  wca-rest-api                New API build
+18-08-2023  gotta-generate-em-all       Generated a new fighting-type Pokémon named Armursus
+17-08-2023  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    694 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-08-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9680047475" title="Kcal: 258 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">12 <sup><sub>km</sub></sup></td>
+            <td align="center">4 <sup><sub>m</sub></sup></td>
+            <td align="center">29:19</td>
+            <td align="center">96 <sup><sub>w</sub></sup></td>
+            <td align="center">24.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">127</td>
+        </tr>
+            <tr>
             <td>17-08-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    694 commits      ████░░░░░░░░�
             <td align="center">139 <sup><sub>w</sub></sup></td>
             <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">162</td>
-        </tr>
-            <tr>
-            <td>12-08-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9634781812" title="Kcal: 228 | Gear: None ">🇮🇹 Afternoon Ride</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">48 <sup><sub>m</sub></sup></td>
-            <td align="center">27:09</td>
-            <td align="center">71 <sup><sub>w</sub></sup></td>
-            <td align="center">17 <sup><sub>km/h</sub></sup></td>
-            <td align="center">123</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
