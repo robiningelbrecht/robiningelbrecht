@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1284 commits     ███████░░░░░░░░░░░░░░░░░░   27.18 %
-🌆 Daytime                 1844 commits     ██████████░░░░░░░░░░░░░░░   39.03 %
-🌃 Evening                 1273 commits     ███████░░░░░░░░░░░░░░░░░░   26.95 %
+🌞 Morning                 1284 commits     ███████░░░░░░░░░░░░░░░░░░   27.17 %
+🌆 Daytime                 1845 commits     ██████████░░░░░░░░░░░░░░░   39.05 %
+🌃 Evening                 1273 commits     ███████░░░░░░░░░░░░░░░░░░   26.94 %
 🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.84 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,11 +48,11 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ```text
 Monday                    821 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.38 %
-Tuesday                   626 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Tuesday                   627 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
 Wednesday                 726 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
 Thursday                  624 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Friday                    681 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Saturday                  552 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Friday                    681 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Saturday                  552 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
 Sunday                    694 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
 ```
 <!--END_SECTION:commits-per-weekday-->
@@ -61,16 +61,16 @@ Sunday                    694 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-23-08-2023  phpunit-pretty-print        Update README.md
-22-08-2023  phpunit-pretty-print        Update FUNDING.yml
-22-08-2023  phpunit-pretty-print        Update FUNDING.yml
-22-08-2023  phpunit-pretty-print        Create FUNDING.yml
-22-08-2023  phpunit-pretty-print        Merge pull request #4 from robiningelbrecht/robiningelbrecht-patch-1  Update README.md
-22-08-2023  phpunit-pretty-print        Update README.md
-21-08-2023  phpunit-pretty-print        Merge pull request #3 from GrahamCampbell/fix-php-version  Fixed incorrect php version constraint
-21-08-2023  phpunit-pretty-print        Merge pull request #2 from robiningelbrecht/enable-disable-at-runtime  Enable/disable at runtime
-19-08-2023  strava-activities           Updated strava activities
-19-08-2023  playstation-easy-platinums  Added 34 new games to list: Repentless (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Embattled (JP • PS4), Kitty Krawler (NA • PS5), Kitty Krawler (EU • PS5), Acceptance (EU • PS4), Embattled (AS • PS4), Sushi Blast (PS5), Sushi Blast (PS4), On Sunday (AS • PS5), Repentless 2 (AS • PS4), Black Death: A Tragic Dirge (PS5), Acceptance (NA • PS4), Acceptance (NA • PS5), Laserpitium (NA • PS4), Kitty Krawler (EU • PS4), Pandaty (PS4), Kitty Krawler (NA • PS4), Detective Inspector: Mysterious Clues (EU • PS4), Space Defend (JP • PS5), Space Defend (AS • PS4), Space Defend (AS • PS5), Space Defend (JP • PS4), I&#039;m in Love With Your Dead Grandmother (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Embattled (NA • PS4), Aery: The Lost Hero (EU • PS4), Fluffy Milo (AS • PS5), Fluffy Milo (NA • PS5)
+29-08-2023  php-slim-skeleton     Update README.md
+23-08-2023  phpunit-pretty-print  Update README.md
+22-08-2023  phpunit-pretty-print  Update FUNDING.yml
+22-08-2023  phpunit-pretty-print  Update FUNDING.yml
+22-08-2023  phpunit-pretty-print  Create FUNDING.yml
+22-08-2023  phpunit-pretty-print  Merge pull request #4 from robiningelbrecht/robiningelbrecht-patch-1  Update README.md
+22-08-2023  phpunit-pretty-print  Update README.md
+21-08-2023  phpunit-pretty-print  Merge pull request #3 from GrahamCampbell/fix-php-version  Fixed incorrect php version constraint
+21-08-2023  phpunit-pretty-print  Merge pull request #2 from robiningelbrecht/enable-disable-at-runtime  Enable/disable at runtime
+19-08-2023  strava-activities     Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    694 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>29-08-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9743524526" title="Kcal: 622 | Gear: None ">Breakfast Returns🤢 in New ...</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">392 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:13</td>
+            <td align="center">180 <sup><sub>w</sub></sup></td>
+            <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>28-08-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -221,23 +234,10 @@ Sunday                    694 commits      ████░░░░░░░░�
             <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">137</td>
         </tr>
-            <tr>
-            <td>22-08-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9699783067" title="Kcal: 663 | Gear: None ">Exemplar in New York</a>
-            </td>
-            <td align="center">28 <sup><sub>km</sub></sup></td>
-            <td align="center">491 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:07</td>
-            <td align="center">193 <sup><sub>w</sub></sup></td>
-            <td align="center">28.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
-        </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
         </tr>
-    </table>
+        </table>
 
 <!--END_SECTION:strava-activities-->
 
