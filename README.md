@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1304 commits     ███████░░░░░░░░░░░░░░░░░░   26.96 %
-🌆 Daytime                 1896 commits     ██████████░░░░░░░░░░░░░░░   39.21 %
-🌃 Evening                 1313 commits     ███████░░░░░░░░░░░░░░░░░░   27.15 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.68 %
+🌞 Morning                 1304 commits     ███████░░░░░░░░░░░░░░░░░░   26.93 %
+🌆 Daytime                 1900 commits     ██████████░░░░░░░░░░░░░░░   39.23 %
+🌃 Evening                 1316 commits     ███████░░░░░░░░░░░░░░░░░░   27.17 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.67 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    838 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.33 %
-Tuesday                   651 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Wednesday                 738 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Thursday                  636 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Friday                    693 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Saturday                  563 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.34 %
+Tuesday                   656 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Wednesday                 738 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Thursday                  636 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Friday                    693 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Saturday                  563 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    717 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+05-09-2023  strava-activities           Updated strava activities
+05-09-2023  wca-rest-api                New API build
+05-09-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrobendix
+05-09-2023  playstation-easy-platinums  Manual price update for Otoko Cross: Pretty Boys Dropout! (PS5) to .99 via workflow
+05-09-2023  playstation-easy-platinums  Manual price update for Otoko Cross: Pretty Boys Dropout! (PS4) to .99 via workflow
+04-09-2023  robiningelbrecht            Updated GitHub profile
+04-09-2023  robiningelbrecht.be         New site build
 04-09-2023  strava-activities           Updated strava activities
 04-09-2023  wca-rest-api                New API build
 04-09-2023  phpunit-coverage-tools      Bumped phpunit version
-04-09-2023  phpunit-coverage-tools      Merge pull request #3 from robiningelbrecht/fix-divide-by-zero  Fix divide by zero
-04-09-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Thronhop
-04-09-2023  phpunit-coverage-tools      Merge pull request #2 from robiningelbrecht/symfony-5-support  Support Symfony 5
-04-09-2023  playstation-easy-platinums  Added 1 new games to list: Colorful Boi (EU • PS5)
-03-09-2023  robiningelbrecht            Updated GitHub profile
-03-09-2023  strava-activities           Updated strava activities
-03-09-2023  wca-rest-api                New API build
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    717 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-09-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9790085499" title="Kcal: 841 | Gear: None ">Zone 2 in New York</a>
+            </td>
+            <td align="center">50 <sup><sub>km</sub></sup></td>
+            <td align="center">516 <sup><sub>m</sub></sup></td>
+            <td align="center">1:40:49</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">136</td>
+        </tr>
+            <tr>
             <td>04-09-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    717 commits      ████░░░░░░░░�
             <td align="center">223 <sup><sub>w</sub></sup></td>
             <td align="center">37.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">174</td>
-        </tr>
-            <tr>
-            <td>01-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9762712387" title="Kcal: 154 | Gear: None ">WarmUp in Makuri Islands</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">108 <sup><sub>m</sub></sup></td>
-            <td align="center">16:14</td>
-            <td align="center">166 <sup><sub>w</sub></sup></td>
-            <td align="center">27 <sup><sub>km/h</sub></sup></td>
-            <td align="center">150</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
