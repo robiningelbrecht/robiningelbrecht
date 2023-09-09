@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1308 commits     ███████░░░░░░░░░░░░░░░░░░   26.84 %
-🌆 Daytime                 1912 commits     ██████████░░░░░░░░░░░░░░░   39.24 %
-🌃 Evening                 1330 commits     ███████░░░░░░░░░░░░░░░░░░   27.29 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.63 %
+🌞 Morning                 1308 commits     ███████░░░░░░░░░░░░░░░░░░   26.80 %
+🌆 Daytime                 1914 commits     ██████████░░░░░░░░░░░░░░░   39.21 %
+🌃 Evening                 1336 commits     ███████░░░░░░░░░░░░░░░░░░   27.37 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.62 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
-Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Friday                    706 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Saturday                  563 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.21 %
+Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Friday                    711 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Saturday                  566 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    717 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-08-09-2023  strava-activities     Cleaned up code
-08-09-2023  strava-activities     Updated strava activities
-08-09-2023  strava-activities     Cleaned up code
-08-09-2023  strava-activities     New chart
-08-09-2023  strava-activities     Updated strava activities
-08-09-2023  strava-activities     New chart
-08-09-2023  wca-rest-api          New API build
-08-09-2023  phpunit-pretty-print  Merge pull request #6 from robiningelbrecht/add-runtime-info  Add runtime info to output
-08-09-2023  phpunit-pretty-print  Added extra unit test
-08-09-2023  phpunit-pretty-print  Add runtime info
+09-09-2023  strava-activities      Updated strava activities
+09-09-2023  wca-rest-api           New API build
+09-09-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Crystacougar
+08-09-2023  robiningelbrecht       Updated GitHub profile
+08-09-2023  robiningelbrecht.be    New site build
+08-09-2023  strava-activities      Updated strava activities
+08-09-2023  strava-activities      Fix charts
+08-09-2023  strava-activities      Updated strava activities
+08-09-2023  strava-activities      Cleaned up code
+08-09-2023  strava-activities      Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
