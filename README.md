@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1308 commits     ███████░░░░░░░░░░░░░░░░░░   26.80 %
-🌆 Daytime                 1914 commits     ██████████░░░░░░░░░░░░░░░   39.21 %
-🌃 Evening                 1336 commits     ███████░░░░░░░░░░░░░░░░░░   27.37 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.62 %
+🌞 Morning                 1308 commits     ███████░░░░░░░░░░░░░░░░░░   26.76 %
+🌆 Daytime                 1916 commits     ██████████░░░░░░░░░░░░░░░   39.20 %
+🌃 Evening                 1341 commits     ███████░░░░░░░░░░░░░░░░░░   27.43 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.61 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.21 %
-Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Friday                    711 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Saturday                  566 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.18 %
+Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Friday                    711 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Saturday                  568 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Sunday                    722 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    717 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-09-09-2023  strava-activities      Updated strava activities
-09-09-2023  wca-rest-api           New API build
-09-09-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Crystacougar
-08-09-2023  robiningelbrecht       Updated GitHub profile
-08-09-2023  robiningelbrecht.be    New site build
-08-09-2023  strava-activities      Updated strava activities
-08-09-2023  strava-activities      Fix charts
-08-09-2023  strava-activities      Updated strava activities
-08-09-2023  strava-activities      Cleaned up code
-08-09-2023  strava-activities      Updated strava activities
+10-09-2023  strava-activities           Updated strava activities
+10-09-2023  playstation-easy-platinums  Updated to php82
+10-09-2023  playstation-easy-platinums  Added 23 new games to list: Escape from Terror City (PS5), Kalinur (NA • PS5), Kalinur (NA • PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (EU • PS5), Mr. Hibbl: The Lost Levels (EU • PS4), Speed or Death (EU • PS4), Puzzle Journey (EU • PS4), Wild Seas (PS4), Puzzle Journey (NA • PS4), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS4), Wild Seas (PS4), Colorful Boi (JP • PS4), Colorful Boi (AS • PS4)
+10-09-2023  wca-rest-api                New API build
+10-09-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltleth
+09-09-2023  robiningelbrecht            Updated GitHub profile
+09-09-2023  robiningelbrecht.be         New site build
+09-09-2023  strava-activities           Updated strava activities
+09-09-2023  wca-rest-api                New API build
+09-09-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Crystacougar
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    717 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-09-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9822700346" title="Kcal: 508 | Gear: None ">Toeristen ritje</a>
+            </td>
+            <td align="center">17 <sup><sub>km</sub></sup></td>
+            <td align="center">23 <sup><sub>m</sub></sup></td>
+            <td align="center">53:18</td>
+            <td align="center">60 <sup><sub>w</sub></sup></td>
+            <td align="center">18.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">131</td>
+        </tr>
+            <tr>
+            <td>10-09-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9819926260" title="Kcal: 1684 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">64 <sup><sub>km</sub></sup></td>
+            <td align="center">127 <sup><sub>m</sub></sup></td>
+            <td align="center">2:13:29</td>
+            <td align="center">142 <sup><sub>w</sub></sup></td>
+            <td align="center">28.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">157</td>
+        </tr>
+            <tr>
             <td>07-09-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -207,32 +233,6 @@ Sunday                    717 commits      ████░░░░░░░░�
             <td align="center">146 <sup><sub>w</sub></sup></td>
             <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">136</td>
-        </tr>
-            <tr>
-            <td>04-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9782131381" title="Kcal: 635 | Gear: None ">Watopia Volcano Circuit in...</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">161 <sup><sub>m</sub></sup></td>
-            <td align="center">53:12</td>
-            <td align="center">208 <sup><sub>w</sub></sup></td>
-            <td align="center">36 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>03-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9773726264" title="Kcal: 1493 | Gear: None ">Broederlijk ritje</a>
-            </td>
-            <td align="center">60 <sup><sub>km</sub></sup></td>
-            <td align="center">46 <sup><sub>m</sub></sup></td>
-            <td align="center">2:04:38</td>
-            <td align="center">143 <sup><sub>w</sub></sup></td>
-            <td align="center">29.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
