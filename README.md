@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1364 commits     ███████░░░░░░░░░░░░░░░░░░   26.77 %
-🌆 Daytime                 1995 commits     ██████████░░░░░░░░░░░░░░░   39.16 %
-🌃 Evening                 1406 commits     ███████░░░░░░░░░░░░░░░░░░   27.60 %
-🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.48 %
+🌞 Morning                 1373 commits     ███████░░░░░░░░░░░░░░░░░░   26.85 %
+🌆 Daytime                 2001 commits     ██████████░░░░░░░░░░░░░░░   39.14 %
+🌃 Evening                 1409 commits     ███████░░░░░░░░░░░░░░░░░░   27.56 %
+🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.45 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    885 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.37 %
-Tuesday                   700 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Wednesday                 761 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Thursday                  662 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Friday                    740 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Saturday                  599 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    748 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Monday                    887 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.35 %
+Tuesday                   716 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Wednesday                 761 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Thursday                  662 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Friday                    740 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Saturday                  599 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Sunday                    748 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    748 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-25-09-2023  strava-activities           Updated strava activities
-25-09-2023  playstation-easy-platinums  Added 35 new games to list: The Jumping Food Memory (PS5), The Jumping Food Memory (PS4), The Jumping Food Memory (PS5), The Jumping Food Memory (PS4), Earthshine (PS5), Earthshine (PS4), Earthshine (PS5), Earthshine (PS4), The Jumping Food Memory (PS5), The Jumping Food Memory (PS4), Zombiezz (PS5), Zombiezz (PS5), Zombiezz (PS4), SoulFrost (KR • PS4), Word Web by POWGI (PS5), Earthshine (PS5), Earthshine (PS4), Circle Dodge (PS5), Circle Dodge (PS4), Rayland 2 (PS5), Rayland 2 (PS4), Circle Dodge (PS5), Circle Dodge (PS4), Rayland 2 (PS4), The Jumping Food Memory (PS5), The Jumping Food Memory (PS4), Earthshine (PS4), Mimi the Cat: Mimi&#039;s Scratcher (PS5), Escape from Terror City (EU • PS4), Escape from Terror City (NA • PS4), Blind Postman (JP • PS5), Blind Postman (NA • PS5), Blind Postman (AS • PS5), Blind Postman (EU • PS5), Kalinur (EU • PS4)
-25-09-2023  strava-activities           Render power outputs
-25-09-2023  strava-activities           Render bike status
-25-09-2023  wca-rest-api                New API build
-25-09-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Armorweed
-25-09-2023  strava-activities           Splitup images into types
-25-09-2023  strava-activities           Challenges tooltips
-25-09-2023  strava-activities           Group challenges by month
-25-09-2023  strava-activities           Placeholder image
+26-09-2023  strava-activities      Updated strava activities
+26-09-2023  wca-rest-api           New API build
+26-09-2023  strava-activities      Added todo
+26-09-2023  strava-activities      Render weekday stats
+26-09-2023  strava-activities      WeekdayStatsChartsBuilder
+26-09-2023  strava-activities      Render power outputs for activities
+26-09-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Caprionyx
+26-09-2023  strava-activities      Static cache in StravaActivityRepository
+26-09-2023  strava-activities      Render activity heatmap
+26-09-2023  strava-activities      Simplified chart builders
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    748 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-09-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9924646621" title="Kcal: 876 | Gear: None ">Zone 2 in Makuri Islands</a>
+            </td>
+            <td align="center">47 <sup><sub>km</sub></sup></td>
+            <td align="center">426 <sup><sub>m</sub></sup></td>
+            <td align="center">1:40:28</td>
+            <td align="center">152 <sup><sub>w</sub></sup></td>
+            <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">132</td>
+        </tr>
+            <tr>
             <td>25-09-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -221,23 +234,10 @@ Sunday                    748 commits      ████░░░░░░░░�
             <td align="center">19.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">89</td>
         </tr>
-            <tr>
-            <td>23-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9905504818" title="Kcal: 842 | Gear: None ">Zone 2 in London</a>
-            </td>
-            <td align="center">43 <sup><sub>km</sub></sup></td>
-            <td align="center">587 <sup><sub>m</sub></sup></td>
-            <td align="center">1:40:52</td>
-            <td align="center">146 <sup><sub>w</sub></sup></td>
-            <td align="center">25.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
-        </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
         </tr>
-        </table>
+    </table>
 
 <!--END_SECTION:strava-activities-->
 
