@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1382 commits     ███████░░░░░░░░░░░░░░░░░░   26.80 %
-🌆 Daytime                 2014 commits     ██████████░░░░░░░░░░░░░░░   39.06 %
-🌃 Evening                 1430 commits     ███████░░░░░░░░░░░░░░░░░░   27.73 %
-🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.40 %
+🌞 Morning                 1386 commits     ███████░░░░░░░░░░░░░░░░░░   26.82 %
+🌆 Daytime                 2018 commits     ██████████░░░░░░░░░░░░░░░   39.06 %
+🌃 Evening                 1433 commits     ███████░░░░░░░░░░░░░░░░░░   27.73 %
+🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.39 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    887 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.20 %
-Tuesday                   721 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Wednesday                 772 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Thursday                  677 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Friday                    745 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Sunday                    750 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Monday                    895 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.32 %
+Tuesday                   721 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Wednesday                 772 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Thursday                  677 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Friday                    745 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Saturday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Sunday                    753 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    750 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-01-10-2023  wca-rest-api           New API build
-01-10-2023  gotta-generate-em-all  Generated a new electric-type Pokémon named Voltwisp
-30-09-2023  robiningelbrecht       Updated GitHub profile
-30-09-2023  robiningelbrecht.be    New site build
-30-09-2023  strava-activities      Updated strava activities
-30-09-2023  wca-rest-api           New API build
-30-09-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Castiquill
-29-09-2023  robiningelbrecht       Updated GitHub profile
-29-09-2023  robiningelbrecht.be    New site build
-29-09-2023  strava-activities      Updated strava activities
+02-10-2023  strava-activities           Removed Koln walk
+02-10-2023  playstation-easy-platinums  Manual price update for Adventure Pinball (PS4) to .99 via workflow
+02-10-2023  playstation-easy-platinums  Manual price update for Cyber Citizen Shockman 2: A New Menace (PS5) to .99 via workflow
+02-10-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Gemdraqua
+02-10-2023  playstation-easy-platinums  Manual price update for Seduce Me: The Complete Story (NA • PS5) to .99 via workflow
+02-10-2023  playstation-easy-platinums  Manual price update for Sakura MMO Extra (NA • PS4) to .99 via workflow
+02-10-2023  playstation-easy-platinums  Manual price update for Sakura MMO Extra (EU • PS5) to €7.99 via workflow
+02-10-2023  playstation-easy-platinums  Added 33 new games to list: Sakura MMO Extra (NA • PS5), Sakura MMO Extra (NA • PS4), Mimi the Cat: Mimi&#039;s Scratcher (PS5), Mimi the Cat: Mimi&#039;s Scratcher (PS4), Lord of the Click: Interstellar Wars (PS4), Lord of the Click: Interstellar Wars (PS4), Mimi the Cat: Mimi&#039;s Scratcher (PS5), Mimi the Cat: Mimi&#039;s Scratcher (PS4), Seduce Me: The Complete Story (NA • PS5), Sakura MMO Extra (EU • PS4), Sakura MMO Extra (EU • PS5), Cyber Citizen Shockman 2: A New Menace (PS5), Cyber Citizen Shockman 2: A New Menace (PS4), Mimi the Cat: Mimi&#039;s Scratcher (PS5), Mimi the Cat: Mimi&#039;s Scratcher (PS4), Cyber Citizen Shockman 2: A New Menace (PS5), Eperon Defend (PS5), Eperon Defend (PS4), Rally Racing: Cars &amp; Drift Mania (AS • PS4), Rally Racing: Cars &amp; Drift Mania (NA • PS4), Rally Racing: Cars &amp; Drift Mania (JP • PS4), Adventure Pinball (PS4), Diorama Dungeoncrawl: Master of the Living Castle (PS5), Betomis (PS5), Eperon Defend (PS5), Eperon Defend (PS4), Broken Pipe (PS5), Broken Pipe (PS5), Broken Pipe (PS5), Broken Pipe (PS5), Betomis (PS5), Betomis (PS4), Betomis (PS4)
+01-10-2023  robiningelbrecht            Updated GitHub profile
+01-10-2023  robiningelbrecht.be         New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -183,19 +183,6 @@ Sunday                    750 commits      ████░░░░░░░░�
             <td align="center">140</td>
         </tr>
             <tr>
-            <td>30-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9953383960" title="Kcal: 2641 | Gear: None ">Köln walk</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">35 <sup><sub>m</sub></sup></td>
-            <td align="center">4:40:32</td>
-            <td align="center">11 <sup><sub>w</sub></sup></td>
-            <td align="center">4.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
             <td>28-09-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -233,6 +220,19 @@ Sunday                    750 commits      ████░░░░░░░░�
             <td align="center">152 <sup><sub>w</sub></sup></td>
             <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
+        </tr>
+            <tr>
+            <td>25-09-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9918753267" title="Kcal: 610 | Gear: None ">Devedeset in Makuri Islands</a>
+            </td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">239 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:14</td>
+            <td align="center">177 <sup><sub>w</sub></sup></td>
+            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
