@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1388 commits     ███████░░░░░░░░░░░░░░░░░░   26.76 %
-🌆 Daytime                 2028 commits     ██████████░░░░░░░░░░░░░░░   39.10 %
-🌃 Evening                 1441 commits     ███████░░░░░░░░░░░░░░░░░░   27.78 %
-🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.36 %
+🌞 Morning                 1388 commits     ███████░░░░░░░░░░░░░░░░░░   26.72 %
+🌆 Daytime                 2032 commits     ██████████░░░░░░░░░░░░░░░   39.12 %
+🌃 Evening                 1444 commits     ███████░░░░░░░░░░░░░░░░░░   27.80 %
+🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.35 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    898 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.31 %
-Tuesday                   731 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Wednesday                 777 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Thursday                  679 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Friday                    745 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Saturday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Sunday                    753 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Monday                    898 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+Tuesday                   731 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Wednesday                 777 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Thursday                  682 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Friday                    749 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Saturday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Sunday                    753 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    753 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+06-10-2023  strava-activities      Activity details
+06-10-2023  strava-activities      Render activity detail
+06-10-2023  wca-rest-api           New API build
+06-10-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Antlerite
+05-10-2023  robiningelbrecht       Updated GitHub profile
+05-10-2023  robiningelbrecht.be    New site build
+05-10-2023  strava-activities      Updated strava activities
 05-10-2023  wca-rest-api           New API build
 05-10-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Polarivera
 04-10-2023  robiningelbrecht       Updated GitHub profile
-04-10-2023  robiningelbrecht.be    New site build
-04-10-2023  strava-activities      Updated strava activities
-04-10-2023  wca-rest-api           New API build
-04-10-2023  gotta-generate-em-all  Generated a new fighting-type Pokémon named Bracefang
-03-10-2023  robiningelbrecht       Updated GitHub profile
-03-10-2023  robiningelbrecht.be    New site build
-03-10-2023  strava-activities      Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,45 @@ Sunday                    753 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-10-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9987356743" title="Kcal: 137 | Gear: None ">Cooldown in Makuri Islands</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">92 <sup><sub>m</sub></sup></td>
+            <td align="center">18:34</td>
+            <td align="center">129 <sup><sub>w</sub></sup></td>
+            <td align="center">25.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
+            <td>06-10-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9987254949" title="Kcal: 599 | Gear: None ">Race: Stage 1: Race Watopi...</a>
+            </td>
+            <td align="center">26 <sup><sub>km</sub></sup></td>
+            <td align="center">99 <sup><sub>m</sub></sup></td>
+            <td align="center">39:31</td>
+            <td align="center">240 <sup><sub>w</sub></sup></td>
+            <td align="center">39.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">181</td>
+        </tr>
+            <tr>
+            <td>06-10-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/9987018238" title="Kcal: 135 | Gear: None ">WarmUp in Makuri Islands</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">87 <sup><sub>m</sub></sup></td>
+            <td align="center">16:25</td>
+            <td align="center">144 <sup><sub>w</sub></sup></td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">142</td>
+        </tr>
+            <tr>
             <td>05-10-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -194,45 +233,6 @@ Sunday                    753 commits      ████░░░░░░░░�
             <td align="center">200 <sup><sub>w</sub></sup></td>
             <td align="center">25.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">167</td>
-        </tr>
-            <tr>
-            <td>03-10-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9967770124" title="Kcal: 969 | Gear: None ">Mishmash in Makuri Islands</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">257 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:26</td>
-            <td align="center">187 <sup><sub>w</sub></sup></td>
-            <td align="center">34.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">166</td>
-        </tr>
-            <tr>
-            <td>01-10-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9957141351" title="Kcal: 520 | Gear: None ">Zone 2 in Makuri Islands</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">292 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:07</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">25.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
-        </tr>
-            <tr>
-            <td>28-09-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9937578793" title="Kcal: 981 | Gear: None ">Orange Unicorn in Yorkshire</a>
-            </td>
-            <td align="center">45 <sup><sub>km</sub></sup></td>
-            <td align="center">773 <sup><sub>m</sub></sup></td>
-            <td align="center">1:30:11</td>
-            <td align="center">190 <sup><sub>w</sub></sup></td>
-            <td align="center">29.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">162</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
