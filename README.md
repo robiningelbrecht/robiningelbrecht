@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1399 commits     ███████░░░░░░░░░░░░░░░░░░   26.66 %
-🌆 Daytime                 2056 commits     ██████████░░░░░░░░░░░░░░░   39.18 %
-🌃 Evening                 1462 commits     ███████░░░░░░░░░░░░░░░░░░   27.86 %
-🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.29 %
+🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.07 %
+🌆 Daytime                 2240 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
+🌃 Evening                 1663 commits     ███████░░░░░░░░░░░░░░░░░░   29.04 %
+🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.78 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    907 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
-Tuesday                   737 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Wednesday                 786 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Thursday                  685 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Friday                    752 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Saturday                  613 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Sunday                    767 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
+Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Friday                    823 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  662 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    767 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-12-10-2023  wca-rest-api             New API build
-12-10-2023  gotta-generate-em-all    Generated a new normal-type Pokémon named Gemfeather
-12-10-2023  strava-activities        Better weekday chart
-11-10-2023  robiningelbrecht         Updated GitHub profile
-11-10-2023  robiningelbrecht.be      New site build
-11-10-2023  strava-activities        Updated strava activities
-11-10-2023  wca-rest-api             New API build
-11-10-2023  gotta-generate-em-all    Generated a new steel-type Pokémon named Gemtorus
-11-10-2023  twisty-puzzle-scrambler  Update README.md
-11-10-2023  twisty-puzzle-scrambler  Update README.md
+13-10-2023  wca-rest-api           New API build
+13-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cosmstag
+13-10-2023  strava-activities      Deleted files
+13-10-2023  strava-activities      Deleted files
+13-10-2023  strava-activities      Deleted data
+13-10-2023  strava-activities      Deleted data
+13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
+13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
+13-10-2023  strava-activities      Fix issues for huge amount of activities
+13-10-2023  strava-activities      Fix issues for huge amount of activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    767 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-10-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10031647180" title="Kcal: 878 | Gear: None ">Zone 2 on Two Bridges Loop...</a>
+            </td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">397 <sup><sub>m</sub></sup></td>
+            <td align="center">1:40:34</td>
+            <td align="center">152 <sup><sub>w</sub></sup></td>
+            <td align="center">31.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
+        </tr>
+            <tr>
             <td>11-10-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    767 commits      ████░░░░░░░░�
             <td align="center">161 <sup><sub>w</sub></sup></td>
             <td align="center">34.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>06-10-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/9987356743" title="Kcal: 137 | Gear: None ">Cooldown in Makuri Islands</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">92 <sup><sub>m</sub></sup></td>
-            <td align="center">18:34</td>
-            <td align="center">129 <sup><sub>w</sub></sup></td>
-            <td align="center">25.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
