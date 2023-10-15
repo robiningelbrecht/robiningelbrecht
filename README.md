@@ -36,24 +36,24 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.04 %
-🌆 Daytime                 2242 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
-🌃 Evening                 1667 commits     ███████░░░░░░░░░░░░░░░░░░   29.08 %
-🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.77 %
+🌞 Morning                 1621 commits     ███████░░░░░░░░░░░░░░░░░░   27.45 %
+🌆 Daytime                 2283 commits     ██████████░░░░░░░░░░░░░░░   38.66 %
+🌃 Evening                 1671 commits     ███████░░░░░░░░░░░░░░░░░░   28.29 %
+🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.60 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Monday**
+**📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.81 %
-Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Friday                    827 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Saturday                  664 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Friday                    827 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Saturday                  668 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Sunday                    985 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.68 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    816 commits      ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-14-10-2023  wca-rest-api           New API build
-14-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Arachnite
-13-10-2023  robiningelbrecht       Updated GitHub profile
-13-10-2023  robiningelbrecht.be    New site build
-13-10-2023  strava-activities      Updated strava activities
-13-10-2023  strava-activities      Updated strava activities
-13-10-2023  wca-rest-api           New API build
-13-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cosmstag
-13-10-2023  strava-activities      Deleted files
-13-10-2023  strava-activities      Deleted files
+15-10-2023  strava-activities-template  Better readme
+15-10-2023  strava-activities-template  Do not run on cron
+15-10-2023  playstation-easy-platinums  Added 27 new games to list: Diorama Dungeoncrawl: Master of the Living Castle (AS • PS5), Russian Pinocchio (NA • PS4), Russian Pinocchio (EU • PS4), Wire Lips (AS • PS4), Love Kuesuto (EU • PS5), Two Lane (AS • PS4), Two Lane (EU • PS4), Word Space (AS • PS5), Word Space (AS • PS4), Funny Alphabet (JP • PS5), Funny Alphabet (JP • PS4), Wild Pinball (PS4), Wild Pinball (PS5), Word Space (EU • PS5), Word Space (EU • PS4), Word Space (NA • PS5), Word Space (NA • PS4), Word Space (PS4), Pirates on Target (EU • PS5), Pirates on Target (EU • PS4), Pirates on Target (NA • PS5), Pirates on Target (NA • PS4), Two Lane (NA • PS4), Two Lane (JP • PS4), D Laser (PS4), Ball Lab 2 (PS5), Kittengumi: The Sakabato&#039;s Thief (PS5)
+15-10-2023  wca-rest-api                New API build
+15-10-2023  strava-activities-template  Install html vrsion
+15-10-2023  strava-activities           Updated strava activities
+15-10-2023  strava-activities           Updated strava activities
+15-10-2023  strava-activities-template  Tutorial how to host HTML version
+15-10-2023  strava-activities-template  Readme improvement
+15-10-2023  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    816 commits      ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>15-10-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10044147437" title="Kcal: 716 | Gear: None ">Road to Ruins in Watopia</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">275 <sup><sub>m</sub></sup></td>
+            <td align="center">55:09</td>
+            <td align="center">226 <sup><sub>w</sub></sup></td>
+            <td align="center">33.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">167</td>
+        </tr>
+            <tr>
             <td>14-10-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    816 commits      ████░░░░░░░░�
             <td align="center">191 <sup><sub>w</sub></sup></td>
             <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">161</td>
-        </tr>
-            <tr>
-            <td>10-10-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10013091761" title="Kcal: 1027 | Gear: None ">Eastern Eight in Watopia</a>
-            </td>
-            <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td align="center">407 <sup><sub>m</sub></sup></td>
-            <td align="center">1:25:50</td>
-            <td align="center">209 <sup><sub>w</sub></sup></td>
-            <td align="center">36.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">166</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
