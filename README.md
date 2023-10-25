@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1701 commits     ███████░░░░░░░░░░░░░░░░░░   27.30 %
-🌆 Daytime                 2448 commits     ██████████░░░░░░░░░░░░░░░   39.29 %
-🌃 Evening                 1747 commits     ███████░░░░░░░░░░░░░░░░░░   28.04 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.38 %
+🌞 Morning                 1716 commits     ███████░░░░░░░░░░░░░░░░░░   27.44 %
+🌆 Daytime                 2450 commits     ██████████░░░░░░░░░░░░░░░   39.17 %
+🌃 Evening                 1753 commits     ███████░░░░░░░░░░░░░░░░░░   28.03 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.36 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1048 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82 %
-Tuesday                   918 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Wednesday                 877 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Thursday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Friday                    885 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Saturday                  703 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Sunday                    1013 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Monday                    1048 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76 %
+Tuesday                   924 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Wednesday                 894 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Thursday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Friday                    885 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Saturday                  703 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Sunday                    1013 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1013 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-24-10-2023  strava-activities-template  Merge pull request #29 from robiningelbrecht/build-activity-stream-chart  Better layout
-24-10-2023  strava-activities-template  Merge branch &#039;master&#039; into build-activity-stream-chart
-24-10-2023  strava-activities-template  Better layout
-24-10-2023  wca-rest-api                New API build
-24-10-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Cosmikia
-23-10-2023  robiningelbrecht            Updated GitHub profile
-23-10-2023  robiningelbrecht.be         New site build
-23-10-2023  strava-activities           Updated strava activities
-23-10-2023  strava-activities           Updated strava activities
-23-10-2023  wca-rest-api                New API build
+25-10-2023  wca-rest-api                New API build
+25-10-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Lancereptilium
+25-10-2023  strava-activities           Updated strava activities
+25-10-2023  strava-activities           Updated strava activities
+25-10-2023  strava-activities           Updated template to latest version
+25-10-2023  strava-activities           Updated template to latest version
+25-10-2023  strava-activities-template  Merge pull request #32 from robiningelbrecht/show-longest-consecutive-streak  Readme
+25-10-2023  strava-activities-template  Merge branch &#039;master&#039; into show-longest-consecutive-streak
+25-10-2023  strava-activities-template  Readme
+25-10-2023  strava-activities-template  Merge pull request #31 from robiningelbrecht/show-longest-consecutive-streak  Show longest consecutive streak
 ```
 <!--END_SECTION:most-recent-commits-->
 
