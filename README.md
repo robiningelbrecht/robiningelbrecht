@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1763 commits     ███████░░░░░░░░░░░░░░░░░░   26.89 %
-🌆 Daytime                 2573 commits     ██████████░░░░░░░░░░░░░░░   39.25 %
-🌃 Evening                 1885 commits     ███████░░░░░░░░░░░░░░░░░░   28.75 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.11 %
+🌞 Morning                 1769 commits     ███████░░░░░░░░░░░░░░░░░░   26.89 %
+🌆 Daytime                 2579 commits     ██████████░░░░░░░░░░░░░░░   39.20 %
+🌃 Evening                 1896 commits     ███████░░░░░░░░░░░░░░░░░░   28.82 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.09 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1111 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95 %
-Tuesday                   948 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Wednesday                 902 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Thursday                  836 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Friday                    914 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Saturday                  754 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Sunday                    1091 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Monday                    1111 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89 %
+Tuesday                   961 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Wednesday                 912 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Thursday                  836 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Friday                    914 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Saturday                  754 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Sunday                    1091 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1091 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-07-11-2023  wca-rest-api                New API build
-07-11-2023  playstation-easy-platinums  Added 50 new games to list: Our Guest Tonight (NA • PS5), Our Guest Tonight (NA • PS4), Road Stomp (NA • PS4), Fitting In (NA • PS4), Fitting In (NA • PS5), Archetype Arcadia (PS5), Archetype Arcadia (PS4), Our Guest Tonight (EU • PS5), Our Guest Tonight (EU • PS4), Fitting In (EU • PS5), Fitting In (EU • PS4), RedRaptor (NA • PS4), Invasion (NA • PS5), Invasion (NA • PS4), Revolve A (NA • PS4), Tommy is My Hero! (NA • PS5), Tommy is My Hero! (NA • PS4), Road Stomp (EU • PS4), Road Stomp (JP • PS4), Halloween Puzzle (NA • PS4), Halloween Puzzle (EU • PS4), Tommy is My Hero! (EU • PS4), Invasion (EU • PS5), Invasion (EU • PS4), Invasion (AS • PS5), Invasion (AS • PS4), Robo Ret (PS4), Revolve A (EU • PS4), Tommy is My Hero! (AS • PS5), Tommy is My Hero! (AS • PS4), Revolve A (JP • PS4), Tommy is My Hero! (JP • PS5), Whispered Flight (EU • PS4), Whispered Flight (AS • PS4), Breezy Paws (NA • PS4), Tommy is My Hero! (JP • PS4), Breezy Paws (AS • PS4), Breezy Paws (JP • PS4), Breezy Paws (EU • PS4), Loop (EU • PS4), Shield King (PS5), Shield King (PS4), Shield King (PS5), Shield King (PS5), Road Stomp (AS • PS4), Robo Ret (PS4), Revolve A (AS • PS4), Mirror Floor (EU • PS4), A Little Walk in the Woods (EU • PS4), Umfend (PS4)
-07-11-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Leafstallion
-07-11-2023  strava-activities           Fixed double challenges
-07-11-2023  strava-activities           Fixed double challenges
-07-11-2023  strava-activities           Fixed double challenges
-07-11-2023  strava-activities           Fixed double challenges
-07-11-2023  strava-activities           Tested challenge import
-07-11-2023  strava-activities           Tested challenge import
-07-11-2023  strava-activities           Added challenge history
+08-11-2023  wca-rest-api                New API build
+08-11-2023  strava-activities-template  Merge pull request #73 from robiningelbrecht/clone-depth-one  Clone depth one
+08-11-2023  strava-activities-template  Clone depth one
+08-11-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltexis
+08-11-2023  playstation-easy-platinums  Added 2 new games to list: Loop (NA • PS4), Excessive Trim (PS5)
+08-11-2023  strava-activities-template  Merge pull request #72 from robiningelbrecht/import-challenges  Early skip faulty challenge imports
+08-11-2023  strava-activities-template  Better testing
+08-11-2023  strava-activities-template  Better testing
+08-11-2023  strava-activities-template  Merge branch &#039;master&#039; into import-challenges
+08-11-2023  strava-activities-template  Early skip faulty challenge imports
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1091 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-11-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10183550766" title="Kcal: 830 | Gear: None ">Zwift Academy: Workout 1 |...</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">208 <sup><sub>m</sub></sup></td>
+            <td align="center">1:21:19</td>
+            <td align="center">178 <sup><sub>w</sub></sup></td>
+            <td align="center">34.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">166</td>
+        </tr>
+            <tr>
             <td>07-11-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    1091 commits     ████░░░░░░░░�
             <td align="center">67 <sup><sub>w</sub></sup></td>
             <td align="center">19.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">130</td>
-        </tr>
-            <tr>
-            <td>03-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10153806110" title="Kcal: 903 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td align="center">274 <sup><sub>m</sub></sup></td>
-            <td align="center">1:41:21</td>
-            <td align="center">155 <sup><sub>w</sub></sup></td>
-            <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
