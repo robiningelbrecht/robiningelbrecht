@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1788 commits     ███████░░░░░░░░░░░░░░░░░░   26.43 %
-🌆 Daytime                 2661 commits     ██████████░░░░░░░░░░░░░░░   39.34 %
-🌃 Evening                 1980 commits     ███████░░░░░░░░░░░░░░░░░░   29.27 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95 %
+🌞 Morning                 1788 commits     ███████░░░░░░░░░░░░░░░░░░   26.38 %
+🌆 Daytime                 2672 commits     ██████████░░░░░░░░░░░░░░░   39.42 %
+🌃 Evening                 1984 commits     ███████░░░░░░░░░░░░░░░░░░   29.27 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.94 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74 %
-Tuesday                   991 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Wednesday                 933 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Thursday                  867 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Friday                    948 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Saturday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Sunday                    1106 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Monday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.70 %
+Tuesday                   991 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Wednesday                 937 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Thursday                  878 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Friday                    948 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Saturday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Sunday                    1106 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1106 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-22-11-2023  computer-club-chome-extension  Templates and loading states
-22-11-2023  computer-club-chome-extension  Designing is my thang now
-22-11-2023  wca-rest-api                   New API build
-22-11-2023  gotta-generate-em-all          Generated a new fighting-type Pokémon named Ruinstonehorn
-22-11-2023  computer-club-chome-extension  Im a real designer now
-22-11-2023  computer-club-chome-extension  Fucking around
-22-11-2023  computer-club-chome-extension  Fucking aroundf
-21-11-2023  robiningelbrecht               Updated GitHub profile
-21-11-2023  robiningelbrecht.be            New site build
-21-11-2023  strava-activities              Updated strava activities
+23-11-2023  computer-club-chome-extension  Readme
+23-11-2023  computer-club-chome-extension  First build
+23-11-2023  playstation-easy-platinums     Added 29 new games to list: Boaty Tanks (PS4), Happi Basudei (PS5), Bem Feito (PS5), Bem Feito (PS4), Amabilly (EU • PS5), Amabilly (EU • PS4), Snake Break (NA • PS4), Flappy Eros (PS4), Flappy Eros (PS4), Submarines (PS5), Submarines (PS4), Bob The Elementalist (EU • PS5), Bob The Elementalist (EU • PS4), Bob The Elementalist (NA • PS5), Bob The Elementalist (NA • PS4), Slick Slack (EU • PS4), Slick Slack (AS • PS4), Slick Slack (JP • PS4), Slick Slack (NA • PS4), Pump Press (NA • PS4), Repentless 2 (PS5), Kitty Krawler (AS • PS4), Happi Basudei (EU • PS5), Happi Basudei (PS5), Happi Basudei (PS5), Pump Press (JP • PS4), Pump Press (AS • PS4), Pump Press (EU • PS4), The Perplexing Orb: Bounce N&#039; Roll (PS5)
+23-11-2023  computer-club-chome-extension  Removed example
+23-11-2023  wca-rest-api                   New API build
+23-11-2023  computer-club-chome-extension  Fixed libnk
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  First version
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1106 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-11-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10269273945" title="Kcal: 613 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">39 <sup><sub>km</sub></sup></td>
+            <td align="center">163 <sup><sub>m</sub></sup></td>
+            <td align="center">1:10:50</td>
+            <td align="center">151 <sup><sub>w</sub></sup></td>
+            <td align="center">33.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
             <td>22-11-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    1106 commits     ████░░░░░░░░�
             <td align="center">57 <sup><sub>w</sub></sup></td>
             <td align="center">17.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">124</td>
-        </tr>
-            <tr>
-            <td>15-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10224305733" title="Kcal: 538 | Gear: None ">Zone 2 in Scotland</a>
-            </td>
-            <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td align="center">253 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:07</td>
-            <td align="center">156 <sup><sub>w</sub></sup></td>
-            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
