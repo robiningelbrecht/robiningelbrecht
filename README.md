@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1918 commits     ███████░░░░░░░░░░░░░░░░░░   26.49 %
-🌆 Daytime                 2868 commits     ██████████░░░░░░░░░░░░░░░   39.61 %
-🌃 Evening                 2120 commits     ███████░░░░░░░░░░░░░░░░░░   29.28 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.63 %
+🌞 Morning                 1918 commits     ███████░░░░░░░░░░░░░░░░░░   26.43 %
+🌆 Daytime                 2870 commits     ██████████░░░░░░░░░░░░░░░   39.55 %
+🌃 Evening                 2133 commits     ███████░░░░░░░░░░░░░░░░░░   29.40 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.62 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1176 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Tuesday                   1010 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Wednesday                 970 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Thursday                  986 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Friday                    1024 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Saturday                  852 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Sunday                    1223 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89 %
+Monday                    1178 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+Tuesday                   1010 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Wednesday                 970 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Thursday                  986 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Friday                    1024 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Saturday                  852 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Sunday                    1236 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.03 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1223 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-10-12-2023  wca-rest-api           New API build
-10-12-2023  strava-activities      Updated strava activities
-10-12-2023  strava-activities      Updated strava activities
-10-12-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cryptail
-09-12-2023  robiningelbrecht       Updated GitHub profile
-09-12-2023  robiningelbrecht.be    New site build
-09-12-2023  strava-activities      Updated strava activities
-09-12-2023  strava-activities      Updated strava activities
-09-12-2023  wca-rest-api           New API build
-09-12-2023  gotta-generate-em-all  Generated a new fire-type Pokémon named Pyroceros
+11-12-2023  wca-rest-api                New API build
+11-12-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Verdancula
+10-12-2023  robiningelbrecht            Updated GitHub profile
+10-12-2023  robiningelbrecht.be         New site build
+10-12-2023  strava-activities-template  Merge pull request #153 from robiningelbrecht/fix-axis-labels  Fix axis labems
+10-12-2023  playstation-easy-platinums  Added 18 new games to list: Criss Cross (PS4), Meadow Gallop (NA • PS4), Evil Diary (NA • PS4), Criss Cross (PS4), Criss Cross (PS5), Lord of the Click: Interstellar Wars (AS • PS5), Lord of the Click: Interstellar Wars (NA • PS5), Lord of the Click: Interstellar Wars (EU • PS5), Lord of the Click: Interstellar Wars (JP • PS5), All Mighty Tower (JP • PS5), All Mighty Tower (JP • PS4), All Mighty Tower (AS • PS5), All Mighty Tower (AS • PS4), White Wings (PS4), The Perplexing Orb: Bounce N&#039; Roll (NA • PS4), Meadow Gallop (AS • PS4), Meadow Gallop (JP • PS4), Meadow Gallop (EU • PS4)
+10-12-2023  strava-activities-template  Fix axis labems
+10-12-2023  strava-activities           Xaxis label interval
+10-12-2023  strava-activities           Xaxis label interval
+10-12-2023  strava-activities           Xaxis label interval
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    1223 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>11-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10364124111" title="Kcal: 769 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">80 <sup><sub>m</sub></sup></td>
+            <td align="center">1:31:34</td>
+            <td align="center">147 <sup><sub>w</sub></sup></td>
+            <td align="center">34.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
+            <td>11-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10363267589" title="Kcal: 84 | Gear: None ">Lunch Ride 👨🏻‍⚕️</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">22 <sup><sub>m</sub></sup></td>
+            <td align="center">16:00</td>
+            <td align="center">79 <sup><sub>w</sub></sup></td>
+            <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">113</td>
+        </tr>
+            <tr>
             <td>10-12-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -207,32 +233,6 @@ Sunday                    1223 commits     ████░░░░░░░░�
             <td align="center">71 <sup><sub>w</sub></sup></td>
             <td align="center">19.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">118</td>
-        </tr>
-            <tr>
-            <td>08-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10348726353" title="Kcal: 408 | Gear: None ">Workout in Watopia</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">93 <sup><sub>m</sub></sup></td>
-            <td align="center">45:14</td>
-            <td align="center">158 <sup><sub>w</sub></sup></td>
-            <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>08-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10348522816" title="Kcal: 649 | Gear: None ">Purple Unicorn in Watopia</a>
-            </td>
-            <td align="center">37 <sup><sub>km</sub></sup></td>
-            <td align="center">57 <sup><sub>m</sub></sup></td>
-            <td align="center">1:00:13</td>
-            <td align="center">188 <sup><sub>w</sub></sup></td>
-            <td align="center">36.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">156</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
