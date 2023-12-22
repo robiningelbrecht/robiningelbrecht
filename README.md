@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1939 commits     ██████░░░░░░░░░░░░░░░░░░░   26.00 %
-🌆 Daytime                 2965 commits     ██████████░░░░░░░░░░░░░░░   39.75 %
-🌃 Evening                 2220 commits     ███████░░░░░░░░░░░░░░░░░░   29.76 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.49 %
+🌞 Morning                 1950 commits     ██████░░░░░░░░░░░░░░░░░░░   25.91 %
+🌆 Daytime                 3014 commits     ██████████░░░░░░░░░░░░░░░   40.04 %
+🌃 Evening                 2228 commits     ███████░░░░░░░░░░░░░░░░░░   29.60 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.45 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1241 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Tuesday                   1057 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Wednesday                 1001 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Thursday                  1008 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Friday                    1045 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.01 %
-Saturday                  865 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Sunday                    1242 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Monday                    1241 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Tuesday                   1057 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Wednesday                 1015 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Thursday                  1018 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Friday                    1089 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Saturday                  865 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Sunday                    1242 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1242 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-21-12-2023  playstation-easy-platinums  Added 71 new games to list: Gallery Gunner (PS5), R Wheel (PS4), Listeria Wars (PS4), Shot Block (EU • PS5), Santa&#039;s Chimney Quest (EU • PS4), Santa&#039;s Chimney Quest (NA • PS4), Choice Clash: What Would You Rather? (PS4), Save the World (PS5), Save the World (PS4), Listeria Wars (PS4), Galactic Lords (PS5), Ralph and the Blue Ball (EU • PS5), Ralph and the Blue Ball (EU • PS4), Everlune (EU • PS5), Everlune (NA • PS5), Galactic Lords (PS5), Save the World (PS5), Gallery Gunner (PS5), Gallery Gunner (PS4), Shot Block (NA • PS5), Shot Block (NA • PS4), Ralph and the Blue Ball (NA • PS5), Ralph and the Blue Ball (NA • PS4), Ralph and the Blue Ball (AS • PS5), Ralph and the Blue Ball (AS • PS4), R Wheel (PS4), Draco D (PS5), Draco D (PS4), Draco D (PS5), Draco D (PS4), Bigfoot&#039;s Journey (PS5), Bigfoot&#039;s Journey (PS4), DarkGems (PS5), DarkGems (PS5), DarkGems (PS5), DarkGems (PS5), Battle Rockets (AS • PS5), Bigfoot&#039;s Journey (PS5), Bigfoot&#039;s Journey (PS4), Bigfoot&#039;s Journey (PS5), Bigfoot&#039;s Journey (PS4), Bigfoot&#039;s Journey (PS5), Bigfoot&#039;s Journey (PS4), Battle Rockets (NA • PS5), Battle Rockets (PS4), Battle Rockets (EU • PS5), Battle Rockets (PS4), R Wheel (PS4), Save the World (PS4), Crazy Chicken X (PS4), Alone Musc (AS • PS4), The Wheel (NA • PS4), The Wheel (JP • PS4), The Wheel (AS • PS4), The Wheel (EU • PS4), Gallery Gunner (PS5), Gallery Gunner (PS4), Gallery Gunner (PS5), Gallery Gunner (PS4), Gallery Gunner (PS4), Everlune (JP • PS5), Everlune (AS • PS5), Galactic Lords (PS5), Galactic Lords (PS5), Word Quest (PS4), Dungeon Adventure (PS4), Cat Pipes (PS5), Cherry Tower (PS5), Listeria Wars (PS4), Synthetic Lover (PS5), Synthetic Lover (PS4)
-21-12-2023  wca-rest-api                New API build
-21-12-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Aurexcalibur
-20-12-2023  robiningelbrecht            Updated GitHub profile
-20-12-2023  robiningelbrecht.be         New site build
-20-12-2023  strava-activities           Updated strava activities
-20-12-2023  strava-activities           Updated strava activities
-20-12-2023  strava-activities           Updated template to latest version
-20-12-2023  strava-activities           Updated template to latest version
-20-12-2023  strava-activities           Updated strava activities
+22-12-2023  strava-activities           Updated strava activities
+22-12-2023  strava-activities           Updated strava activities
+22-12-2023  strava-activities           Updated template to latest version
+22-12-2023  strava-activities           Updated template to latest version
+22-12-2023  strava-activities-template  Merge pull request #192 from robiningelbrecht/delete-activities  Delete activities
+22-12-2023  strava-activities-template  Snapshot cleanup
+22-12-2023  strava-activities-template  More coverage
+22-12-2023  strava-activities-template  More test coverage
+22-12-2023  strava-activities-template  Test deletion of activity
+22-12-2023  strava-activities-template  Test deletion of activity
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1242 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10419318583" title="Kcal: 312 | Gear: None ">Recovery in Watopia</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">38 <sup><sub>m</sub></sup></td>
+            <td align="center">46:34</td>
+            <td align="center">117 <sup><sub>w</sub></sup></td>
+            <td align="center">31.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
             <td>21-12-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -220,19 +233,6 @@ Sunday                    1242 commits     ████░░░░░░░░�
             <td align="center">146 <sup><sub>w</sub></sup></td>
             <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>15-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10383365502" title="Kcal: 1571 | Gear: None ">The Pretzel in Watopia</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">1 364 <sup><sub>m</sub></sup></td>
-            <td align="center">2:38:06</td>
-            <td align="center">173 <sup><sub>w</sub></sup></td>
-            <td align="center">27.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
