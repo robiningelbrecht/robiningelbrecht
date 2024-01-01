@@ -36,24 +36,24 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1989 commits     ██████░░░░░░░░░░░░░░░░░░░   25.69 %
-🌆 Daytime                 3139 commits     ██████████░░░░░░░░░░░░░░░   40.55 %
-🌃 Evening                 2279 commits     ███████░░░░░░░░░░░░░░░░░░   29.44 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.33 %
+🌞 Morning                 1991 commits     ██████░░░░░░░░░░░░░░░░░░░   25.60 %
+🌆 Daytime                 3169 commits     ██████████░░░░░░░░░░░░░░░   40.74 %
+🌃 Evening                 2283 commits     ███████░░░░░░░░░░░░░░░░░░   29.35 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.31 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Sunday**
+**📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1258 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-Tuesday                   1088 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Wednesday                 1065 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Thursday                  1046 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Friday                    1115 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Saturday                  890 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Sunday                    1280 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Monday                    1290 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Tuesday                   1088 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Wednesday                 1065 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Thursday                  1046 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Friday                    1115 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Saturday                  890 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Sunday                    1284 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1280 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-31-12-2023  wca-rest-api           New API build
-31-12-2023  gotta-generate-em-all  Generated a new electric-type Pokémon named Thunderaxus
-30-12-2023  robiningelbrecht       Updated GitHub profile
-30-12-2023  robiningelbrecht.be    New site build
-30-12-2023  strava-activities      Updated strava activities
-30-12-2023  strava-activities      Updated strava activities
-30-12-2023  wca-rest-api           New API build
-30-12-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Sandguardis
-29-12-2023  robiningelbrecht       Updated GitHub profile
-29-12-2023  robiningelbrecht.be    New site build
+01-01-2024  playstation-easy-platinums  Added 49 new games to list: Pesterquest (NA • PS5), Synthetic Lover (PS5), Synthetic Lover (PS4), Santa&#039;s World (EU • PS4), Santa&#039;s World (NA • PS4), Cat Pipes (NA • PS5), Cat Pipes (NA • PS4), Divarr (JP • PS4), Divarr (NA • PS4), Cherry Tower (NA • PS5), Cherry Tower (NA • PS4), Divarr (AS • PS4), Cat Pipes (JP • PS5), Cherry Tower (JP • PS5), Cherry Tower (JP • PS4), Cat Pipes (JP • PS4), Cherry Tower (AS • PS5), Cherry Tower (AS • PS4), Divarr (EU • PS4), Stickman&#039;s Arena (EU • PS5), Stickman&#039;s Arena (EU • PS4), Cat Pipes (AS • PS5), Cat Pipes (AS • PS4), Cat Pipes (EU • PS4), Word Quest (NA • PS4), Grimoire Organizer (NA • PS4), Draco D (EU • PS5), Draco D (EU • PS4), Grimoire Organizer (PS4), Dodge It (JP • PS5), Dodge It (JP • PS4), Grimoire Organizer (EU • PS4), Stickman&#039;s Arena (NA • PS5), Stickman&#039;s Arena (NA • PS4), Hiveswap Friendsim (EU • PS5), Hiveswap Friendsim (EU • PS4), Hiveswap Friendsim (NA • PS5), Hiveswap Friendsim (NA • PS4), Pesterquest (NA • PS4), Insomnis (PS4), Shooting Blocks (NA • PS5), Shooting Blocks (NA • PS4), Shooting Blocks (EU • PS5), Shooting Blocks (EU • PS4), Cherry Tower (EU • PS4), Ralph and the Blue Ball (JP • PS5), Ralph and the Blue Ball (JP • PS4), Dodge It (AS • PS5), Dodge It (AS • PS4)
+01-01-2024  strava-activities-template  Merge pull request #266 from robiningelbrecht/some-date-changes  Readme
+01-01-2024  strava-activities-template  Snapshots
+01-01-2024  strava-activities-template  Use map bounds with most routes
+01-01-2024  strava-activities-template  Merge branch &#039;master&#039; into some-date-changes
+01-01-2024  strava-activities-template  Readme
+01-01-2024  strava-activities-template  Merge pull request #265 from robiningelbrecht/some-date-changes  Some date changes
+01-01-2024  strava-activities-template  Some date chages
+01-01-2024  strava-activities           Template update
+01-01-2024  strava-activities           Template update
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    1280 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride 🎊🎊" title="Night Ride 🎊🎊"/>
+<a href="https://www.strava.com/activities/10472334413" title="Kcal: 230 | Gear: None ">Night Ride 🎊🎊</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">8 <sup><sub>m</sub></sup></td>
+            <td align="center">23:04</td>
+            <td align="center">48 <sup><sub>w</sub></sup></td>
+            <td align="center">17.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
+            <td>31-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride 🎊🎊" title="Evening Ride 🎊🎊"/>
+<a href="https://www.strava.com/activities/10472334414" title="Kcal: 175 | Gear: None ">Evening Ride 🎊🎊</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">22:07</td>
+            <td align="center">51 <sup><sub>w</sub></sup></td>
+            <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
+        </tr>
+            <tr>
             <td>31-12-23</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Triple Flat Loops in Watopia" title="Triple Flat Loops in Watopia"/>
@@ -207,32 +233,6 @@ Sunday                    1280 commits     ████░░░░░░░░�
             <td align="center">53 <sup><sub>w</sub></sup></td>
             <td align="center">17.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">105</td>
-        </tr>
-            <tr>
-            <td>29-12-23</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/10455837369" title="Kcal: 1045 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">72 <sup><sub>km</sub></sup></td>
-            <td align="center">111 <sup><sub>m</sub></sup></td>
-            <td align="center">2:04:36</td>
-            <td align="center">146 <sup><sub>w</sub></sup></td>
-            <td align="center">34.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>28-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride 🦖🦕" title="Morning Ride 🦖🦕"/>
-<a href="https://www.strava.com/activities/10449765035" title="Kcal: 368 | Gear: None ">Morning Ride 🦖🦕</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">21 <sup><sub>m</sub></sup></td>
-            <td align="center">44:37</td>
-            <td align="center">61 <sup><sub>w</sub></sup></td>
-            <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">121</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
