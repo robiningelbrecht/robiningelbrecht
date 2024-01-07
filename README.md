@@ -36,24 +36,24 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1991 commits     ██████░░░░░░░░░░░░░░░░░░░   25.41 %
-🌆 Daytime                 3200 commits     ██████████░░░░░░░░░░░░░░░   40.84 %
-🌃 Evening                 2309 commits     ███████░░░░░░░░░░░░░░░░░░   29.47 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.28 %
+🌞 Morning                 1993 commits     ██████░░░░░░░░░░░░░░░░░░░   25.30 %
+🌆 Daytime                 3204 commits     ██████████░░░░░░░░░░░░░░░   40.68 %
+🌃 Evening                 2344 commits     ███████░░░░░░░░░░░░░░░░░░   29.76 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.25 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Monday**
+**📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1296 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Tuesday                   1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Wednesday                 1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Thursday                  1052 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  906 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Sunday                    1284 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Monday                    1296 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Tuesday                   1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Wednesday                 1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Thursday                  1052 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  930 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Sunday                    1301 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1284 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-06-01-2024  strava-activities-template  Merge pull request #278 from robiningelbrecht/heatmap-initial-bounds  Heatmap initial bounds
-06-01-2024  strava-activities-template  Heatmap initial bounds
-06-01-2024  strava-activities-template  Merge pull request #277 from robiningelbrecht/set-colum-widths  Css file
-06-01-2024  strava-activities-template  Merge branch &#039;master&#039; into set-colum-widths
-06-01-2024  strava-activities-template  Css file
-06-01-2024  strava-activities-template  Merge pull request #276 from robiningelbrecht/set-colum-widths  Set column widths
-06-01-2024  strava-activities-template  Set column widths
-06-01-2024  strava-activities-template  Merge pull request #275 from robiningelbrecht/count-segment-efforts  Count segment efforts
-06-01-2024  strava-activities-template  Count segment efforts
-06-01-2024  strava-activities           Updated strava activities
+07-01-2024  strava-activities-template  Merge pull request #290 from robiningelbrecht/renamed-address-to-location  Renamed address to location
+07-01-2024  strava-activities-template  Merge branch &#039;master&#039; into renamed-address-to-location
+07-01-2024  strava-activities-template  Added migration
+07-01-2024  strava-activities-template  Renamed address to location
+07-01-2024  strava-activities-template  Merge pull request #289 from robiningelbrecht/readme-woopsie  Readme woopsie
+07-01-2024  strava-activities-template  Readme woopsie
+07-01-2024  strava-activities-template  Merge pull request #288 from robiningelbrecht/better-memory-usage-formatter  Better memory usage formatter
+07-01-2024  strava-activities-template  Better memory usage formatter
+07-01-2024  strava-activities-template  Merge pull request #287 from robiningelbrecht/minor-fix  Added memory usage
+07-01-2024  strava-activities-template  Merge branch &#039;master&#039; into minor-fix
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1284 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/10511621664" title="Kcal: 546 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">38 <sup><sub>km</sub></sup></td>
+            <td align="center">59 <sup><sub>m</sub></sup></td>
+            <td align="center">1:05:20</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">34.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
+            <tr>
             <td>06-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 1 | Ride | Tour de Zwift 2024 (A) on Triple Loops in London" title="Group Ride: Stage 1 | Ride | Tour de Zwift 2024 (A) on Triple Loops in London"/>
@@ -220,19 +233,6 @@ Sunday                    1284 commits     ████░░░░░░░░�
             <td align="center">190 <sup><sub>w</sub></sup></td>
             <td align="center">35.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">168</td>
-        </tr>
-            <tr>
-            <td>03-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💼 🎸" title="💼 🎸"/>
-<a href="https://www.strava.com/activities/10490711299" title="Kcal: 260 | Gear: None ">💼 🎸</a>
-            </td>
-            <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td align="center">25 <sup><sub>m</sub></sup></td>
-            <td align="center">36:55</td>
-            <td align="center">55 <sup><sub>w</sub></sup></td>
-            <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">119</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
