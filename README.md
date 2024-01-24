@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.80 %
-🌆 Daytime                 3298 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
-🌃 Evening                 2470 commits     ████████░░░░░░░░░░░░░░░░░   30.43 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.13 %
+🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78 %
+🌆 Daytime                 3300 commits     ██████████░░░░░░░░░░░░░░░   40.62 %
+🌃 Evening                 2476 commits     ████████░░░░░░░░░░░░░░░░░   30.48 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.12 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Tuesday                   1119 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Wednesday                 1098 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Thursday                  1088 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Friday                    1152 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Saturday                  949 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Sunday                    1378 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98 %
+Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Tuesday                   1125 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Wednesday                 1100 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Thursday                  1088 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Friday                    1152 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Saturday                  949 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Sunday                    1378 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1378 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-23-01-2024  wca-rest-api                New API build
-23-01-2024  gotta-generate-em-all       Generated a new electric-type Pokémon named Electuskra
-23-01-2024  strava-activities-template  Merge pull request #327 from robiningelbrecht/fix-strava-server-errors  Catch Strava server errors
-23-01-2024  strava-activities-template  Stan
-23-01-2024  strava-activities-template  Catch Strava server errors
-22-01-2024  robiningelbrecht            Updated GitHub profile
-22-01-2024  robiningelbrecht.be         New site build
-22-01-2024  strava-activities           Updated strava activities
-22-01-2024  strava-activities           Updated strava activities
-22-01-2024  strava-activities           Updated template to latest version
+24-01-2024  wca-rest-api           New API build
+24-01-2024  gotta-generate-em-all  Generated a new grass-type Pokémon named Crystacule
+23-01-2024  robiningelbrecht       Updated GitHub profile
+23-01-2024  robiningelbrecht.be    New site build
+23-01-2024  strava-activities      Updated strava activities
+23-01-2024  strava-activities      Updated strava activities
+23-01-2024  strava-activities      Updated template to latest version
+23-01-2024  strava-activities      Updated template to latest version
+23-01-2024  wca-rest-api           New API build
+23-01-2024  gotta-generate-em-all  Generated a new electric-type Pokémon named Electuskra
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,58 @@ Sunday                    1378 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>24-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
+<a href="https://www.strava.com/activities/10621176711" title="Kcal: 295 | Gear: None ">Cooldown in Watopia</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">78 <sup><sub>m</sub></sup></td>
+            <td align="center">36:17</td>
+            <td align="center">142 <sup><sub>w</sub></sup></td>
+            <td align="center">31.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">148</td>
+        </tr>
+            <tr>
+            <td>24-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: EVO CC Sprint Race Series  (B) on Glasgow Crit Circuit in Scotland" title="Race: EVO CC Sprint Race Series  (B) on Glasgow Crit Circuit in Scotland"/>
+<a href="https://www.strava.com/activities/10620954105" title="Kcal: 385 | Gear: None ">Race: EVO CC Sprint Race S...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">166 <sup><sub>m</sub></sup></td>
+            <td align="center">21:48</td>
+            <td align="center">260 <sup><sub>w</sub></sup></td>
+            <td align="center">43 <sup><sub>km/h</sub></sup></td>
+            <td align="center">185</td>
+        </tr>
+            <tr>
+            <td>24-01-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in Watopia" title="WarmUp in Watopia"/>
+<a href="https://www.strava.com/activities/10620790559" title="Kcal: 129 | Gear: None ">WarmUp in Watopia</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">21 <sup><sub>m</sub></sup></td>
+            <td align="center">14:13</td>
+            <td align="center">159 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>23-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
+<a href="https://www.strava.com/activities/10620654658" title="Kcal: 303 | Gear: None ">Evening Ride</a>
+            </td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">33 <sup><sub>m</sub></sup></td>
+            <td align="center">33:18</td>
+            <td align="center">84 <sup><sub>w</sub></sup></td>
+            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
+        </tr>
+            <tr>
             <td>22-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Stage 4: Flat is Fast - Douce France (B) on Douce France in France" title="Race: Stage 4: Flat is Fast - Douce France (B) on Douce France in France"/>
@@ -181,58 +233,6 @@ Sunday                    1378 commits     ████░░░░░░░░�
             <td align="center">248 <sup><sub>w</sub></sup></td>
             <td align="center">43.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">185</td>
-        </tr>
-            <tr>
-            <td>22-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="WarmUp in France" title="WarmUp in France"/>
-<a href="https://www.strava.com/activities/10608135224" title="Kcal: 245 | Gear: None ">WarmUp in France</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">116 <sup><sub>m</sub></sup></td>
-            <td align="center">30:19</td>
-            <td align="center">141 <sup><sub>w</sub></sup></td>
-            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">141</td>
-        </tr>
-            <tr>
-            <td>21-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/10601085928" title="Kcal: 767 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">82 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:00</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">142</td>
-        </tr>
-            <tr>
-            <td>20-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Stonebridge boys" title="Stonebridge boys"/>
-<a href="https://www.strava.com/activities/10597573380" title="Kcal: 243 | Gear: None ">Stonebridge boys</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">44 <sup><sub>m</sub></sup></td>
-            <td align="center">27:20</td>
-            <td align="center">52 <sup><sub>w</sub></sup></td>
-            <td align="center">15.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">121</td>
-        </tr>
-            <tr>
-            <td>20-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 4 | Ride | Tour de Zwift 2024  (A) on Petit Boucle in France" title="Group Ride: Stage 4 | Ride | Tour de Zwift 2024  (A) on Petit Boucle in France"/>
-<a href="https://www.strava.com/activities/10594877957" title="Kcal: 1211 | Gear: None ">Group Ride: Stage 4 | Ride...</a>
-            </td>
-            <td align="center">62 <sup><sub>km</sub></sup></td>
-            <td align="center">483 <sup><sub>m</sub></sup></td>
-            <td align="center">1:39:43</td>
-            <td align="center">205 <sup><sub>w</sub></sup></td>
-            <td align="center">37.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">172</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
