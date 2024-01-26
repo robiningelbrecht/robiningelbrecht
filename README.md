@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.75 %
-🌆 Daytime                 3302 commits     ██████████░░░░░░░░░░░░░░░   40.61 %
-🌃 Evening                 2482 commits     ████████░░░░░░░░░░░░░░░░░   30.52 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.12 %
+🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.68 %
+🌆 Daytime                 3322 commits     ██████████░░░░░░░░░░░░░░░   40.73 %
+🌃 Evening                 2486 commits     ████████░░░░░░░░░░░░░░░░░   30.48 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.11 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Tuesday                   1125 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Wednesday                 1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Thursday                  1090 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Friday                    1152 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Saturday                  949 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    1378 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95 %
+Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Tuesday                   1125 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Wednesday                 1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Thursday                  1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Friday                    1172 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  949 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Sunday                    1378 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.90 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1378 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-25-01-2024  wca-rest-api           New API build
-25-01-2024  gotta-generate-em-all  Generated a new steel-type Pokémon named Ironcrownus
-24-01-2024  robiningelbrecht       Updated GitHub profile
-24-01-2024  robiningelbrecht.be    New site build
-24-01-2024  robiningelbrecht.be    Add files via upload
-24-01-2024  robiningelbrecht.be    Add files via upload
-24-01-2024  strava-activities      Updated strava activities
-24-01-2024  strava-activities      Updated strava activities
-24-01-2024  wca-rest-api           New API build
-24-01-2024  gotta-generate-em-all  Generated a new grass-type Pokémon named Crystacule
+26-01-2024  robiningelbrecht.be         Add files via upload
+26-01-2024  wca-rest-api                New API build
+26-01-2024  gotta-generate-em-all       Generated a new psychic-type Pokémon named Goldnictus
+26-01-2024  strava-activities-template  Merge pull request #331 from robiningelbrecht/bump-node-version  Bump node version
+26-01-2024  strava-activities-template  Bump node version
+26-01-2024  strava-activities           Updated strava activities
+26-01-2024  strava-activities           Updated strava activities
+26-01-2024  strava-activities           Bump robiningelbrecht/ntfy-action
+26-01-2024  strava-activities           Bump robiningelbrecht/ntfy-action
+26-01-2024  ntfy-action                 Bump node version
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1378 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/10631851542" title="Kcal: 286 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">50 <sup><sub>m</sub></sup></td>
+            <td align="center">29:45</td>
+            <td align="center">85 <sup><sub>w</sub></sup></td>
+            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">126</td>
+        </tr>
+            <tr>
             <td>25-01-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -220,19 +233,6 @@ Sunday                    1378 commits     ████░░░░░░░░�
             <td align="center">159 <sup><sub>w</sub></sup></td>
             <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">149</td>
-        </tr>
-            <tr>
-            <td>23-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
-<a href="https://www.strava.com/activities/10620654658" title="Kcal: 303 | Gear: None ">Evening Ride</a>
-            </td>
-            <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">33:18</td>
-            <td align="center">84 <sup><sub>w</sub></sup></td>
-            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">123</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
