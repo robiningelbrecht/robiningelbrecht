@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-🌆 Daytime                 3324 commits     ██████████░░░░░░░░░░░░░░░   40.73 %
-🌃 Evening                 2490 commits     ████████░░░░░░░░░░░░░░░░░   30.51 %
+🌞 Morning                 2013 commits     ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+🌆 Daytime                 3326 commits     ██████████░░░░░░░░░░░░░░░   40.71 %
+🌃 Evening                 2496 commits     ████████░░░░░░░░░░░░░░░░░   30.55 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.10 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Tuesday                   1125 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Wednesday                 1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Thursday                  1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Friday                    1176 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Saturday                  951 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Sunday                    1378 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88 %
+Monday                    1332 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Tuesday                   1125 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Wednesday                 1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Thursday                  1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Friday                    1176 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Saturday                  955 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Sunday                    1382 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1378 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-27-01-2024  wca-rest-api                New API build
-27-01-2024  gotta-generate-em-all       Generated a new water-type Pokémon named Armorca
-26-01-2024  robiningelbrecht            Updated GitHub profile
-26-01-2024  robiningelbrecht.be         New site build
-26-01-2024  strava-activities           Updated strava activities
-26-01-2024  strava-activities           Updated strava activities
-26-01-2024  robiningelbrecht.be         Add files via upload
-26-01-2024  wca-rest-api                New API build
-26-01-2024  gotta-generate-em-all       Generated a new psychic-type Pokémon named Goldnictus
-26-01-2024  strava-activities-template  Merge pull request #331 from robiningelbrecht/bump-node-version  Bump node version
+28-01-2024  strava-activities      Updated strava activities
+28-01-2024  strava-activities      Updated strava activities
+28-01-2024  wca-rest-api           New API build
+28-01-2024  gotta-generate-em-all  Generated a new electric-type Pokémon named Voltkidd
+27-01-2024  robiningelbrecht       Updated GitHub profile
+27-01-2024  robiningelbrecht.be    New site build
+27-01-2024  strava-activities      Updated strava activities
+27-01-2024  strava-activities      Updated strava activities
+27-01-2024  wca-rest-api           New API build
+27-01-2024  gotta-generate-em-all  Generated a new water-type Pokémon named Armorca
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -172,6 +172,19 @@ Sunday                    1378 commits     ████░░░░░░░░�
             <tr>
             <td>27-01-24</td>
             <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🍋 🍹 🍋" title="🍋 🍹 🍋"/>
+<a href="https://www.strava.com/activities/10646676019" title="Kcal: 452 | Gear: None ">🍋 🍹 🍋</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">46 <sup><sub>m</sub></sup></td>
+            <td align="center">51:53</td>
+            <td align="center">60 <sup><sub>w</sub></sup></td>
+            <td align="center">18 <sup><sub>km/h</sub></sup></td>
+            <td align="center">122</td>
+        </tr>
+            <tr>
+            <td>27-01-24</td>
+            <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 5 | Ride | Tour de Zwift 2024  (A) on Achterbahn in Innsbruck" title="Group Ride: Stage 5 | Ride | Tour de Zwift 2024  (A) on Achterbahn in Innsbruck"/>
 <a href="https://www.strava.com/activities/10639591081" title="Kcal: 1278 | Gear: None ">Group Ride: Stage 5 | Ride...</a>
             </td>
@@ -220,19 +233,6 @@ Sunday                    1378 commits     ████░░░░░░░░�
             <td align="center">85 <sup><sub>w</sub></sup></td>
             <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">126</td>
-        </tr>
-            <tr>
-            <td>25-01-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/10627586547" title="Kcal: 632 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">42 <sup><sub>km</sub></sup></td>
-            <td align="center">162 <sup><sub>m</sub></sup></td>
-            <td align="center">1:15:22</td>
-            <td align="center">146 <sup><sub>w</sub></sup></td>
-            <td align="center">33.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
