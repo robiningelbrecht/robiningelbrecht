@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2015 commits     ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-🌆 Daytime                 3332 commits     ██████████░░░░░░░░░░░░░░░   40.70 %
-🌃 Evening                 2504 commits     ████████░░░░░░░░░░░░░░░░░   30.59 %
+🌞 Morning                 2015 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+🌆 Daytime                 3335 commits     ██████████░░░░░░░░░░░░░░░   40.71 %
+🌃 Evening                 2508 commits     ████████░░░░░░░░░░░░░░░░░   30.61 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.09 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1345 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-Tuesday                   1127 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Wednesday                 1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Thursday                  1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Friday                    1176 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Saturday                  955 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    1383 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89 %
+Monday                    1345 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Tuesday                   1131 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Wednesday                 1109 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Thursday                  1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Friday                    1176 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Saturday                  955 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Sunday                    1383 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1383 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+31-01-2024  robiningelbrecht.be    Add files via upload
+31-01-2024  wca-rest-api           New API build
+31-01-2024  gotta-generate-em-all  Generated a new fighting-type Pokémon named Terragona
+30-01-2024  robiningelbrecht       Updated GitHub profile
+30-01-2024  robiningelbrecht.be    New site build
+30-01-2024  strava-activities      Updated strava activities
+30-01-2024  strava-activities      Updated strava activities
 30-01-2024  wca-rest-api           New API build
 30-01-2024  gotta-generate-em-all  Generated a new dark-type Pokémon named Gemdrakoon
 29-01-2024  robiningelbrecht       Updated GitHub profile
-29-01-2024  robiningelbrecht.be    New site build
-29-01-2024  robiningelbrecht.be    Add files via upload
-29-01-2024  strava-activities      Updated strava activities
-29-01-2024  strava-activities      Updated strava activities
-29-01-2024  strava-activities      Updated template to latest version
-29-01-2024  strava-activities      Updated template to latest version
-29-01-2024  wca-rest-api           New API build
 ```
 <!--END_SECTION:most-recent-commits-->
 
