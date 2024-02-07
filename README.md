@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2017 commits     ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-🌆 Daytime                 3346 commits     ██████████░░░░░░░░░░░░░░░   40.65 %
-🌃 Evening                 2534 commits     ████████░░░░░░░░░░░░░░░░░   30.78 %
+🌞 Morning                 2017 commits     ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+🌆 Daytime                 3348 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
+🌃 Evening                 2538 commits     ████████░░░░░░░░░░░░░░░░░   30.81 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.07 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1352 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Tuesday                   1133 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Wednesday                 1113 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Thursday                  1100 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Friday                    1185 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Monday                    1352 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Tuesday                   1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Wednesday                 1115 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Thursday                  1100 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Friday                    1185 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.38 %
 Saturday                  961 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    1388 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+Sunday                    1388 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1388 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+07-02-2024  wca-rest-api           New API build
+07-02-2024  gotta-generate-em-all  Generated a new dark-type Pokémon named Stagnox
+06-02-2024  robiningelbrecht       Updated GitHub profile
+06-02-2024  robiningelbrecht.be    New site build
+06-02-2024  strava-activities      Updated strava activities
+06-02-2024  strava-activities      Updated strava activities
 06-02-2024  wca-rest-api           New API build
 06-02-2024  gotta-generate-em-all  Generated a new normal-type Pokémon named Auracigna
 05-02-2024  robiningelbrecht       Updated GitHub profile
 05-02-2024  robiningelbrecht.be    New site build
-05-02-2024  strava-activities      Updated strava activities
-05-02-2024  strava-activities      Updated strava activities
-05-02-2024  gotta-generate-em-all  Generated a new electric-type Pokémon named Thunderaptor
-05-02-2024  robiningelbrecht.be    Delete build/prices.html
-05-02-2024  robiningelbrecht.be    Delete build/game-collection.html
-04-02-2024  robiningelbrecht       Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
