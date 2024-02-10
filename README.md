@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2021 commits     ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-🌆 Daytime                 3360 commits     ██████████░░░░░░░░░░░░░░░   40.66 %
-🌃 Evening                 2548 commits     ████████░░░░░░░░░░░░░░░░░   30.83 %
+🌞 Morning                 2021 commits     ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+🌆 Daytime                 3361 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
+🌃 Evening                 2553 commits     ████████░░░░░░░░░░░░░░░░░   30.87 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.05 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1352 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Tuesday                   1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Wednesday                 1119 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Thursday                  1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Friday                    1201 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Saturday                  961 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Sunday                    1388 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.80 %
+Monday                    1352 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Tuesday                   1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Wednesday                 1119 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Thursday                  1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Friday                    1206 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Saturday                  962 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Sunday                    1388 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1388 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+10-02-2024  gotta-generate-em-all            Generated a new normal-type Pokémon named Armogrin
+09-02-2024  robiningelbrecht                 Updated GitHub profile
+09-02-2024  robiningelbrecht.be              New site build
+09-02-2024  tcg-collector-japanese-variants  Remix bout
+09-02-2024  tcg-collector-japanese-variants  Remix bout
+09-02-2024  tcg-collector-japanese-variants  Simplified console commands
 09-02-2024  strava-activities                Updated strava activities
 09-02-2024  strava-activities                Updated strava activities
 09-02-2024  tcg-collector-japanese-variants  Tried different expansion
 09-02-2024  tcg-collector-japanese-variants  Allow to output json
-09-02-2024  tcg-collector-japanese-variants  Fancy output
-09-02-2024  tcg-collector-japanese-variants  Map cards to PSA variants
-09-02-2024  tcg-collector-japanese-variants  Import and link with ods
-09-02-2024  tcg-collector-japanese-variants  Store PSA cards
-09-02-2024  tcg-collector-japanese-variants  Store PSA cards
-09-02-2024  gotta-generate-em-all            Generated a new fighting-type Pokémon named Hammarbun
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    1388 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>10-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Climb Portal: Puy de Dome at 100% Elevation in Watopia" title="Climb Portal: Puy de Dome at 100% Elevation in Watopia"/>
+<a href="https://www.strava.com/activities/10734459544" title="Kcal: 946 | Gear: None ">Climb Portal: Puy de Dome ...</a>
+            </td>
+            <td align="center">34 <sup><sub>km</sub></sup></td>
+            <td align="center">961 <sup><sub>m</sub></sup></td>
+            <td align="center">1:18:10</td>
+            <td align="center">211 <sup><sub>w</sub></sup></td>
+            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">168</td>
+        </tr>
+            <tr>
+            <td>10-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/10733759104" title="Kcal: 176 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">10 <sup><sub>m</sub></sup></td>
+            <td align="center">20:24</td>
+            <td align="center">74 <sup><sub>w</sub></sup></td>
+            <td align="center">20.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
             <td>08-02-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia" title="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia"/>
@@ -207,32 +233,6 @@ Sunday                    1388 commits     ████░░░░░░░░�
             <td align="center">83 <sup><sub>w</sub></sup></td>
             <td align="center">19.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>04-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Cooldown in Watopia" title="Cooldown in Watopia"/>
-<a href="https://www.strava.com/activities/10695859668" title="Kcal: 104 | Gear: None ">Cooldown in Watopia</a>
-            </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">12 <sup><sub>m</sub></sup></td>
-            <td align="center">15:48</td>
-            <td align="center">116 <sup><sub>w</sub></sup></td>
-            <td align="center">32.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">137</td>
-        </tr>
-            <tr>
-            <td>04-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Race: Stage 5: Flat is Fast - Greater London Flat (B) on Greater London Flat in London" title="Race: Stage 5: Flat is Fast - Greater London Flat (B) on Greater London Flat in London"/>
-<a href="https://www.strava.com/activities/10695722381" title="Kcal: 456 | Gear: None ">Race: Stage 5: Flat is Fas...</a>
-            </td>
-            <td align="center">18 <sup><sub>km</sub></sup></td>
-            <td align="center">100 <sup><sub>m</sub></sup></td>
-            <td align="center">25:03</td>
-            <td align="center">262 <sup><sub>w</sub></sup></td>
-            <td align="center">42.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">180</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
