@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2021 commits     ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-🌆 Daytime                 3368 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
-🌃 Evening                 2563 commits     ████████░░░░░░░░░░░░░░░░░   30.93 %
+🌞 Morning                 2022 commits     ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+🌆 Daytime                 3370 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
+🌃 Evening                 2565 commits     ████████░░░░░░░░░░░░░░░░░   30.93 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1356 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Tuesday                   1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Wednesday                 1119 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Thursday                  1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Friday                    1206 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Saturday                  966 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Sunday                    1397 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+Monday                    1358 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Tuesday                   1140 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Wednesday                 1119 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Thursday                  1106 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Friday                    1206 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Saturday                  966 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Sunday                    1397 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1397 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+13-02-2024  wca-rest-api                New API build
+13-02-2024  gotta-generate-em-all       Generated a new fire-type Pokémon named Hornblaze
+13-02-2024  wca-rest-api                Update build-api.yml
+12-02-2024  robiningelbrecht            Updated GitHub profile
+12-02-2024  robiningelbrecht.be         New site build
 12-02-2024  strava-activities           Updated strava activities
 12-02-2024  strava-activities           Updated strava activities
 12-02-2024  playstation-easy-platinums  Added 28 new games to list: Doctor Cat (EU • PS4), Dungeons and Goblins (PS5), Dungeons and Goblins (EU • PS4), Horror &amp; Sports Pinball (PS4), Horror &amp; Sports Pinball (PS5), Borzoi Adventure (PS4), Dr. Frank&#039;s Build a Boyfriend (PS5), Dr. Frank&#039;s Build a Boyfriend (PS4), Dr. Frank&#039;s Build a Boyfriend (PS5), Dr. Frank&#039;s Build a Boyfriend (PS4), The Exit 9 (PS5), Prisonela DX (PS5), Prisonela DX (PS4), Prisonela DX (PS5), Prisonela DX (PS4), Bpop (NA • PS4), Bpop (PS5), Bpop (EU • PS4), Bpop (PS5), Bpop (AS • PS4), Deathly Dangerous (NA • PS5), Deathly Dangerous (NA • PS4), Deathly Dangerous (AS • PS5), Deathly Dangerous (AS • PS4), Deathly Dangerous (JP • PS5), Deathly Dangerous (JP • PS4), Deathly Dangerous (EU • PS5), Deathly Dangerous (EU • PS4)
 12-02-2024  gotta-generate-em-all       Generated a new water-type Pokémon named Sapphydrodra
 11-02-2024  robiningelbrecht            Updated GitHub profile
-11-02-2024  robiningelbrecht.be         New site build
-11-02-2024  strava-activities           Updated strava activities
-11-02-2024  strava-activities           Updated strava activities
-11-02-2024  notion-media-cdn            Add files via upload
-11-02-2024  notion-media-cdn            Delete pokemon/test
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1397 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-02-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Garmin UNBOUND Gravel Training Plan | Dirty Teeth Drills in Watopia" title="Garmin UNBOUND Gravel Training Plan | Dirty Teeth Drills in Watopia"/>
+<a href="https://www.strava.com/activities/10754812734" title="Kcal: 621 | Gear: None ">Garmin UNBOUND Gravel Trai...</a>
+            </td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">200 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:14</td>
+            <td align="center">180 <sup><sub>w</sub></sup></td>
+            <td align="center">36.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
             <td>12-02-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lunch Ride" title="Lunch Ride"/>
@@ -220,19 +233,6 @@ Sunday                    1397 commits     ████░░░░░░░░�
             <td align="center">74 <sup><sub>w</sub></sup></td>
             <td align="center">20.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>08-02-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia" title="Group Ride: Stage 8 | Ride | Tour de Zwift 2024  (A) on Spiral into the Volcano in Watopia"/>
-<a href="https://www.strava.com/activities/10722304662" title="Kcal: 1068 | Gear: None ">Group Ride: Stage 8 | Ride...</a>
-            </td>
-            <td align="center">52 <sup><sub>km</sub></sup></td>
-            <td align="center">335 <sup><sub>m</sub></sup></td>
-            <td align="center">1:21:29</td>
-            <td align="center">214 <sup><sub>w</sub></sup></td>
-            <td align="center">38.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">180</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
