@@ -37,8 +37,8 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ```text
 🌞 Morning                 2033 commits     ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-🌆 Daytime                 3435 commits     ██████████░░░░░░░░░░░░░░░   40.39 %
-🌃 Evening                 2702 commits     ████████░░░░░░░░░░░░░░░░░   31.77 %
+🌆 Daytime                 3436 commits     ██████████░░░░░░░░░░░░░░░   40.39 %
+🌃 Evening                 2704 commits     ████████░░░░░░░░░░░░░░░░░   31.78 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1387 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Monday                    1388 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
 Tuesday                   1172 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
 Wednesday                 1150 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Thursday                  1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Friday                    1233 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Thursday                  1137 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Friday                    1233 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
 Saturday                  997 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Sunday                    1429 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.80 %
+Sunday                    1431 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    1429 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+18-03-2024  wca-rest-api         New API build
+17-03-2024  robiningelbrecht     Updated GitHub profile
+17-03-2024  robiningelbrecht.be  New site build
 17-03-2024  strava-activities    Updated strava activities
 17-03-2024  strava-activities    Updated strava activities
 17-03-2024  wca-rest-api         New API build
@@ -68,9 +71,6 @@ Sunday                    1429 commits     ████░░░░░░░░�
 16-03-2024  robiningelbrecht.be  New site build
 16-03-2024  strava-activities    Updated strava activities
 16-03-2024  strava-activities    Updated strava activities
-16-03-2024  wca-rest-api         New API build
-15-03-2024  robiningelbrecht     Updated GitHub profile
-15-03-2024  robiningelbrecht.be  New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1429 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Losrijden" title="Losrijden"/>
+<a href="https://www.strava.com/activities/10987322693" title="Kcal: 1210 | Gear: None ">Losrijden</a>
+            </td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">43 <sup><sub>m</sub></sup></td>
+            <td align="center">1:40:10</td>
+            <td align="center">130 <sup><sub>w</sub></sup></td>
+            <td align="center">27.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">150</td>
+        </tr>
+            <tr>
             <td>17-03-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="2x over den Poggio di Koekelaro 🗻" title="2x over den Poggio di Koekelaro 🗻"/>
@@ -220,19 +233,6 @@ Sunday                    1429 commits     ████░░░░░░░░�
             <td align="center">146 <sup><sub>w</sub></sup></td>
             <td align="center">33.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">139</td>
-        </tr>
-            <tr>
-            <td>15-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
-<a href="https://www.strava.com/activities/10964084271" title="Kcal: 186 | Gear: None ">Morning Ride</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">26 <sup><sub>m</sub></sup></td>
-            <td align="center">29:56</td>
-            <td align="center">76 <sup><sub>w</sub></sup></td>
-            <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">104</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
