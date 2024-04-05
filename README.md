@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2044 commits     ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-🌆 Daytime                 3462 commits     ██████████░░░░░░░░░░░░░░░   40.18 %
-🌃 Evening                 2776 commits     ████████░░░░░░░░░░░░░░░░░   32.22 %
+🌞 Morning                 2044 commits     ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+🌆 Daytime                 3463 commits     ██████████░░░░░░░░░░░░░░░   40.16 %
+🌃 Evening                 2780 commits     ████████░░░░░░░░░░░░░░░░░   32.24 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.89 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1402 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Tuesday                   1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Wednesday                 1170 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Thursday                  1160 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Friday                    1245 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  1007 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Sunday                    1443 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75 %
+Monday                    1402 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Tuesday                   1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Wednesday                 1170 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Thursday                  1164 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Friday                    1246 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  1007 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Sunday                    1443 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1443 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-04-04-2024  wca-rest-api                     New API build
-03-04-2024  robiningelbrecht                 Updated GitHub profile
-03-04-2024  robiningelbrecht.be              New site build
-03-04-2024  strava-activities                Updated strava activities
-03-04-2024  strava-activities                Updated strava activities
-03-04-2024  wca-rest-api                     New API build
-03-04-2024  tcg-collector-japanese-variants  Better mapping
-02-04-2024  robiningelbrecht.be              New site build
-02-04-2024  robiningelbrecht                 Updated GitHub profile
-02-04-2024  strava-activities                Updated strava activities
+05-04-2024  wca-rest-api         New API build
+04-04-2024  robiningelbrecht     Updated GitHub profile
+04-04-2024  robiningelbrecht.be  New site build
+04-04-2024  strava-activities    Updated strava activities
+04-04-2024  strava-activities    Updated strava activities
+04-04-2024  wca-rest-api         New API build
+03-04-2024  robiningelbrecht     Updated GitHub profile
+03-04-2024  robiningelbrecht.be  New site build
+03-04-2024  strava-activities    Updated strava activities
+03-04-2024  strava-activities    Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,32 @@ Sunday                    1443 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Lekker op m&#039;n bek 🚴" title="Lekker op m&#039;n bek 🚴"/>
+<a href="https://www.strava.com/activities/11113320340" title="Kcal: 1905 | Gear: None ">Lekker op m&#039;n bek 🚴</a>
+            </td>
+            <td align="center">63 <sup><sub>km</sub></sup></td>
+            <td align="center">86 <sup><sub>m</sub></sup></td>
+            <td align="center">2:07:41</td>
+            <td align="center">156 <sup><sub>w</sub></sup></td>
+            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">171</td>
+        </tr>
+            <tr>
+            <td>05-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/11113325294" title="Kcal: 258 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">24 <sup><sub>m</sub></sup></td>
+            <td align="center">35:27</td>
+            <td align="center">80 <sup><sub>w</sub></sup></td>
+            <td align="center">18.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">114</td>
+        </tr>
+            <tr>
             <td>04-04-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -207,32 +233,6 @@ Sunday                    1443 commits     ████░░░░░░░░�
             <td align="center">222 <sup><sub>w</sub></sup></td>
             <td align="center">38.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">173</td>
-        </tr>
-            <tr>
-            <td>03-04-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/11098289789" title="Kcal: 70 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">8 <sup><sub>m</sub></sup></td>
-            <td align="center">9:32</td>
-            <td align="center">128 <sup><sub>w</sub></sup></td>
-            <td align="center">33.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">125</td>
-        </tr>
-            <tr>
-            <td>31-03-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/11075421164" title="Kcal: 564 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">36 <sup><sub>km</sub></sup></td>
-            <td align="center">147 <sup><sub>m</sub></sup></td>
-            <td align="center">1:05:20</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">33 <sup><sub>km/h</sub></sup></td>
-            <td align="center">134</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
