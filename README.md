@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2047 commits     ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-🌆 Daytime                 3476 commits     ██████████░░░░░░░░░░░░░░░   40.05 %
-🌃 Evening                 2821 commits     ████████░░░░░░░░░░░░░░░░░   32.50 %
+🌞 Morning                 2048 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+🌆 Daytime                 3477 commits     ██████████░░░░░░░░░░░░░░░   40.03 %
+🌃 Evening                 2825 commits     ████████░░░░░░░░░░░░░░░░░   32.53 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.86 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1409 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Tuesday                   1201 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Wednesday                 1175 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Thursday                  1170 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Friday                    1255 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Saturday                  1017 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Sunday                    1452 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73 %
+Monday                    1413 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Tuesday                   1203 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Wednesday                 1175 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Thursday                  1170 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Friday                    1255 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  1017 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Sunday                    1452 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.72 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1452 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+16-04-2024  wca-rest-api                    New API build
+16-04-2024  tcg-collector-chrome-extension  Added extra menu item
+15-04-2024  robiningelbrecht                Updated GitHub profile
+15-04-2024  robiningelbrecht.be             New site build
+15-04-2024  strava-activities               Updated strava activities
+15-04-2024  strava-activities               Updated strava activities
 15-04-2024  tcg-collector-chrome-extension  Added overview of slabs to dashboard
 15-04-2024  wca-rest-api                    New API build
 14-04-2024  robiningelbrecht                Updated GitHub profile
 14-04-2024  strava-activities               Updated strava activities
-14-04-2024  strava-activities               Updated strava activities
-14-04-2024  wca-rest-api                    New API build
-13-04-2024  robiningelbrecht                Updated GitHub profile
-13-04-2024  robiningelbrecht.be             New site build
-13-04-2024  strava-activities               Updated strava activities
-13-04-2024  strava-activities               Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
