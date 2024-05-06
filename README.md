@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2053 commits     ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-🌆 Daytime                 3501 commits     ██████████░░░░░░░░░░░░░░░   39.82 %
-🌃 Evening                 2903 commits     ████████░░░░░░░░░░░░░░░░░   33.02 %
+🌞 Morning                 2053 commits     ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+🌆 Daytime                 3502 commits     ██████████░░░░░░░░░░░░░░░   39.82 %
+🌃 Evening                 2905 commits     ████████░░░░░░░░░░░░░░░░░   33.03 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.81 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1423 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Monday                    1424 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
 Tuesday                   1218 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Wednesday                 1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Thursday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Friday                    1273 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Wednesday                 1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Thursday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Friday                    1273 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
 Saturday                  1033 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Sunday                    1465 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Sunday                    1467 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.68 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,6 +61,9 @@ Sunday                    1465 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+06-05-2024  wca-rest-api         New API build
+05-05-2024  robiningelbrecht     Updated GitHub profile
+05-05-2024  robiningelbrecht.be  New site build
 05-05-2024  strava-activities    Updated strava activities
 05-05-2024  strava-activities    Updated strava activities
 05-05-2024  wca-rest-api         New API build
@@ -68,9 +71,6 @@ Sunday                    1465 commits     ████░░░░░░░░�
 04-05-2024  robiningelbrecht.be  New site build
 04-05-2024  strava-activities    Updated strava activities
 04-05-2024  strava-activities    Updated strava activities
-04-05-2024  wca-rest-api         New API build
-03-05-2024  robiningelbrecht     Updated GitHub profile
-03-05-2024  robiningelbrecht.be  New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
