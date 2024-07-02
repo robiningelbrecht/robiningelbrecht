@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2064 commits     ██████░░░░░░░░░░░░░░░░░░░   22.67 %
-🌆 Daytime                 3576 commits     ██████████░░░░░░░░░░░░░░░   39.28 %
-🌃 Evening                 3129 commits     █████████░░░░░░░░░░░░░░░░   34.37 %
+🌞 Morning                 2070 commits     ██████░░░░░░░░░░░░░░░░░░░   22.71 %
+🌆 Daytime                 3579 commits     ██████████░░░░░░░░░░░░░░░   39.27 %
+🌃 Evening                 3130 commits     █████████░░░░░░░░░░░░░░░░   34.34 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1477 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Tuesday                   1263 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87 %
-Wednesday                 1236 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+Monday                    1478 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Tuesday                   1272 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Wednesday                 1236 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1507 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-01-07-2024  wca-rest-api                    New API build
-01-07-2024  tcg-collector-chrome-extension  Build script
-01-07-2024  tcg-collector-chrome-extension  Minify css
-01-07-2024  tcg-collector-chrome-extension  Read me
-01-07-2024  tcg-collector-chrome-extension  Read me
-01-07-2024  tcg-collector-chrome-extension  Removed obsolete css
-30-06-2024  robiningelbrecht                Updated GitHub profile
-30-06-2024  robiningelbrecht.be             New site build
-30-06-2024  tcg-collector-chrome-extension  Print variant placeholders
-30-06-2024  tcg-collector-chrome-extension  Print placeholders for expansions
+02-07-2024  tcg-collector-chrome-extension  Debug menu item
+02-07-2024  wca-rest-api                    New API build
+02-07-2024  tcg-collector-chrome-extension  Refactored everything
+02-07-2024  strava-activities               Updated strava activities
+02-07-2024  strava-activities               Updated strava activities
+02-07-2024  strava-activities               Updated template to latest version
+02-07-2024  strava-activities               Updated template to latest version
+02-07-2024  strava-activities-template      Merge pull request #339 from robiningelbrecht/disable-reverse-geocoding  Disable reverse geocoding
+02-07-2024  strava-activities-template      Disable reverse geocoding
+01-07-2024  robiningelbrecht                Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,69 +170,69 @@ Sunday                    1507 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
-            <td>28-06-24</td>
+            <td>02-07-24</td>
             <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Mayan Mash in Watopia" title="Mayan Mash in Watopia"/>
-<a href="https://www.strava.com/activities/11760413916" title="Kcal: 812 | Gear: None ">Mayan Mash in Watopia</a>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/11791137824" title="Kcal: 786 | Gear: None ">Zone 2 in Watopia</a>
             </td>
-            <td align="center">35 <sup><sub>km</sub></sup></td>
-            <td align="center">755 <sup><sub>m</sub></sup></td>
-            <td align="center">1:12:54</td>
-            <td align="center">194 <sup><sub>w</sub></sup></td>
-            <td align="center">28.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">52 <sup><sub>km</sub></sup></td>
+            <td align="center">79 <sup><sub>m</sub></sup></td>
+            <td align="center">1:30:14</td>
+            <td align="center">152 <sup><sub>w</sub></sup></td>
+            <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>01-07-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/11783675073" title="Kcal: 476 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">48 <sup><sub>m</sub></sup></td>
+            <td align="center">55:17</td>
+            <td align="center">150 <sup><sub>w</sub></sup></td>
+            <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
+            <td>01-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/11785125815" title="Kcal: 238 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">87 <sup><sub>m</sub></sup></td>
+            <td align="center">28:23</td>
+            <td align="center">77 <sup><sub>w</sub></sup></td>
+            <td align="center">14 <sup><sub>km/h</sub></sup></td>
+            <td align="center">111</td>
+        </tr>
+            <tr>
+            <td>30-06-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Tides and Temples in Watopia" title="Tides and Temples in Watopia"/>
+<a href="https://www.strava.com/activities/11775017111" title="Kcal: 764 | Gear: None ">Tides and Temples in Watopia</a>
+            </td>
+            <td align="center">37 <sup><sub>km</sub></sup></td>
+            <td align="center">460 <sup><sub>m</sub></sup></td>
+            <td align="center">1:05:53</td>
+            <td align="center">202 <sup><sub>w</sub></sup></td>
+            <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">157</td>
         </tr>
             <tr>
-            <td>26-06-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Glyph Heights in Watopia" title="Glyph Heights in Watopia"/>
-<a href="https://www.strava.com/activities/11745445295" title="Kcal: 760 | Gear: None ">Glyph Heights in Watopia</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">620 <sup><sub>m</sub></sup></td>
-            <td align="center">1:06:41</td>
-            <td align="center">199 <sup><sub>w</sub></sup></td>
-            <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">172</td>
-        </tr>
-            <tr>
-            <td>25-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
-<a href="https://www.strava.com/activities/11738342881" title="Kcal: 1222 | Gear: None ">Evening Ride</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">351 <sup><sub>m</sub></sup></td>
-            <td align="center">1:47:59</td>
-            <td align="center">169 <sup><sub>w</sub></sup></td>
-            <td align="center">29.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">172</td>
-        </tr>
-            <tr>
-            <td>24-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
-<a href="https://www.strava.com/activities/11734090410" title="Kcal: 357 | Gear: None ">Morning Ride</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">262 <sup><sub>m</sub></sup></td>
-            <td align="center">42:43</td>
-            <td align="center">125 <sup><sub>w</sub></sup></td>
-            <td align="center">21.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">121</td>
-        </tr>
-            <tr>
-            <td>23-06-24</td>
+            <td>29-06-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/11719436929" title="Kcal: 298 | Gear: None ">Zone 2 in Watopia</a>
+<a href="https://www.strava.com/activities/11767523164" title="Kcal: 565 | Gear: None ">Zone 2 in Watopia</a>
             </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">32 <sup><sub>m</sub></sup></td>
-            <td align="center">35:09</td>
-            <td align="center">148 <sup><sub>w</sub></sup></td>
-            <td align="center">33.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">146</td>
+            <td align="center">37 <sup><sub>km</sub></sup></td>
+            <td align="center">58 <sup><sub>m</sub></sup></td>
+            <td align="center">1:05:12</td>
+            <td align="center">151 <sup><sub>w</sub></sup></td>
+            <td align="center">34.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">135</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
