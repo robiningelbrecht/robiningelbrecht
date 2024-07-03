@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2070 commits     ██████░░░░░░░░░░░░░░░░░░░   22.71 %
-🌆 Daytime                 3579 commits     ██████████░░░░░░░░░░░░░░░   39.27 %
-🌃 Evening                 3130 commits     █████████░░░░░░░░░░░░░░░░   34.34 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68 %
+🌞 Morning                 2074 commits     ██████░░░░░░░░░░░░░░░░░░░   22.72 %
+🌆 Daytime                 3583 commits     ██████████░░░░░░░░░░░░░░░   39.25 %
+🌃 Evening                 3136 commits     █████████░░░░░░░░░░░░░░░░   34.36 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.67 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1478 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Tuesday                   1272 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Wednesday                 1236 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Monday                    1478 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Tuesday                   1276 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Wednesday                 1246 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1507 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-02-07-2024  tcg-collector-chrome-extension  Debug menu item
-02-07-2024  wca-rest-api                    New API build
-02-07-2024  tcg-collector-chrome-extension  Refactored everything
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities-template      Merge pull request #339 from robiningelbrecht/disable-reverse-geocoding  Disable reverse geocoding
-02-07-2024  strava-activities-template      Disable reverse geocoding
-01-07-2024  robiningelbrecht                Updated GitHub profile
+03-07-2024  tcg-collector-chrome-extension  better popup design
+03-07-2024  tcg-collector-chrome-extension  Removed debug mode
+03-07-2024  tcg-collector-chrome-extension  Refactored the whole thing
+03-07-2024  tcg-collector-chrome-extension  Remaed some stuff
+03-07-2024  tcg-collector-chrome-extension  Feature list
+03-07-2024  wca-rest-api                    New API build
+03-07-2024  tcg-collector-chrome-extension  Added complete feature list
+03-07-2024  tcg-collector-chrome-extension  Added features
+03-07-2024  tcg-collector-chrome-extension  More compact popup form
+03-07-2024  tcg-collector-chrome-extension  Debug feature list
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -172,6 +172,19 @@ Sunday                    1507 commits     ████░░░░░░░░�
             <tr>
             <td>02-07-24</td>
             <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride" title="Evening Ride"/>
+<a href="https://www.strava.com/activities/11796073851" title="Kcal: 90 | Gear: None ">Evening Ride</a>
+            </td>
+            <td align="center">6 <sup><sub>km</sub></sup></td>
+            <td align="center">76 <sup><sub>m</sub></sup></td>
+            <td align="center">18:02</td>
+            <td align="center">91 <sup><sub>w</sub></sup></td>
+            <td align="center">19.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">104</td>
+        </tr>
+            <tr>
+            <td>02-07-24</td>
+            <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
 <a href="https://www.strava.com/activities/11791137824" title="Kcal: 786 | Gear: None ">Zone 2 in Watopia</a>
             </td>
@@ -220,19 +233,6 @@ Sunday                    1507 commits     ████░░░░░░░░�
             <td align="center">202 <sup><sub>w</sub></sup></td>
             <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">157</td>
-        </tr>
-            <tr>
-            <td>29-06-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/11767523164" title="Kcal: 565 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">37 <sup><sub>km</sub></sup></td>
-            <td align="center">58 <sup><sub>m</sub></sup></td>
-            <td align="center">1:05:12</td>
-            <td align="center">151 <sup><sub>w</sub></sup></td>
-            <td align="center">34.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
