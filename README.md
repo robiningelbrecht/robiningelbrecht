@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2165 commits     ██████░░░░░░░░░░░░░░░░░░░   22.73 %
-🌆 Daytime                 3727 commits     ██████████░░░░░░░░░░░░░░░   39.13 %
-🌃 Evening                 3297 commits     █████████░░░░░░░░░░░░░░░░   34.62 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.52 %
+🌞 Morning                 2167 commits     ██████░░░░░░░░░░░░░░░░░░░   22.70 %
+🌆 Daytime                 3740 commits     ██████████░░░░░░░░░░░░░░░   39.18 %
+🌃 Evening                 3304 commits     █████████░░░░░░░░░░░░░░░░   34.61 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.51 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1522 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-Tuesday                   1325 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Wednesday                 1306 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Thursday                  1282 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Friday                    1407 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Saturday                  1130 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Sunday                    1552 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Monday                    1541 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Tuesday                   1325 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Wednesday                 1306 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Thursday                  1282 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Friday                    1407 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Saturday                  1130 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Sunday                    1555 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1552 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-04-08-2024  sauce-for-tcg-collector  Better naming
-04-08-2024  sauce-for-tcg-collector  Better naming
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Little improvements
-04-08-2024  sauce-for-tcg-collector  Fix issues after new TCGC update
-04-08-2024  sauce-for-tcg-collector  Fix issues after new TCGC update
+05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
+05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
+05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
+05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
+05-08-2024  sauce-for-tcg-collector  Use appState
+05-08-2024  sauce-for-tcg-collector  Use appState
+05-08-2024  sauce-for-tcg-collector  Removed obsolete message
+05-08-2024  sauce-for-tcg-collector  Removed obsolete message
+05-08-2024  sauce-for-tcg-collector  Removed obsolete files
+05-08-2024  sauce-for-tcg-collector  Removed obsolete files
 ```
 <!--END_SECTION:most-recent-commits-->
 
