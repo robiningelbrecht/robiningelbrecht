@@ -36,24 +36,24 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2175 commits     ██████░░░░░░░░░░░░░░░░░░░   22.64 %
-🌆 Daytime                 3759 commits     ██████████░░░░░░░░░░░░░░░   39.14 %
-🌃 Evening                 3336 commits     █████████░░░░░░░░░░░░░░░░   34.73 %
+🌞 Morning                 2175 commits     ██████░░░░░░░░░░░░░░░░░░░   22.63 %
+🌆 Daytime                 3760 commits     ██████████░░░░░░░░░░░░░░░   39.13 %
+🌃 Evening                 3340 commits     █████████░░░░░░░░░░░░░░░░   34.76 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.49 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Sunday**
+**📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1557 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Tuesday                   1338 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Wednesday                 1315 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Thursday                  1288 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Friday                    1412 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Saturday                  1135 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Sunday                    1560 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Monday                    1561 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Tuesday                   1339 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Wednesday                 1315 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Thursday                  1288 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Friday                    1412 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Saturday                  1135 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Sunday                    1560 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1560 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-12-08-2024  wca-rest-api                     New API build
-12-08-2024  strava-activities                Updated strava activities
-12-08-2024  strava-activities                Updated strava activities
-12-08-2024  strava-activities                Updated template to latest version
-12-08-2024  strava-activities                Updated template to latest version
-12-08-2024  strava-activities-template       Merge pull request #340 from robiningelbrecht/disable-reverse-geocoding  Enable reverse geocoding again
-12-08-2024  strava-activities-template       Enable reverse geocoding again
-12-08-2024  strava-activities                Reverse geocode again
-12-08-2024  strava-activities                Reverse geocode again
-12-08-2024  tcg-collector-japanese-variants  Export SV era
+13-08-2024  wca-rest-api         New API build
+12-08-2024  robiningelbrecht     Updated GitHub profile
+12-08-2024  robiningelbrecht.be  New site build
+12-08-2024  strava-activities    Updated strava activities
+12-08-2024  strava-activities    Updated strava activities
+12-08-2024  wca-rest-api         New API build
+12-08-2024  strava-activities    Updated strava activities
+12-08-2024  strava-activities    Updated strava activities
+12-08-2024  strava-activities    Updated template to latest version
+12-08-2024  strava-activities    Updated template to latest version
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1560 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="#2 🇫🇷" title="#2 🇫🇷"/>
+<a href="https://www.strava.com/activities/12134210979" title="Kcal: 1157 | Gear: None ">#2 🇫🇷</a>
+            </td>
+            <td align="center">47 <sup><sub>km</sub></sup></td>
+            <td align="center">406 <sup><sub>m</sub></sup></td>
+            <td align="center">1:33:55</td>
+            <td align="center">187 <sup><sub>w</sub></sup></td>
+            <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">156</td>
+        </tr>
+            <tr>
             <td>12-08-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="#1 🇫🇷" title="#1 🇫🇷"/>
@@ -220,19 +233,6 @@ Sunday                    1560 commits     ████░░░░░░░░�
             <td align="center">196 <sup><sub>w</sub></sup></td>
             <td align="center">37.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">164</td>
-        </tr>
-            <tr>
-            <td>06-08-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Academy: Workout 1 | Pro Potential Prologue in Watopia" title="Zwift Academy: Workout 1 | Pro Potential Prologue in Watopia"/>
-<a href="https://www.strava.com/activities/12078640459" title="Kcal: 680 | Gear: None ">Zwift Academy: Workout 1 |...</a>
-            </td>
-            <td align="center">37 <sup><sub>km</sub></sup></td>
-            <td align="center">57 <sup><sub>m</sub></sup></td>
-            <td align="center">58:50</td>
-            <td align="center">202 <sup><sub>w</sub></sup></td>
-            <td align="center">37.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">162</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
