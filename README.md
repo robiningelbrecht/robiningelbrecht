@@ -36,9 +36,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2191 commits     ██████░░░░░░░░░░░░░░░░░░░   22.44 %
-🌆 Daytime                 3804 commits     ██████████░░░░░░░░░░░░░░░   38.96 %
-🌃 Evening                 3434 commits     █████████░░░░░░░░░░░░░░░░   35.17 %
+🌞 Morning                 2191 commits     ██████░░░░░░░░░░░░░░░░░░░   22.43 %
+🌆 Daytime                 3805 commits     ██████████░░░░░░░░░░░░░░░   38.95 %
+🌃 Evening                 3437 commits     █████████░░░░░░░░░░░░░░░░   35.19 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.43 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -47,11 +47,11 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1578 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Monday                    1578 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
 Tuesday                   1370 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.03 %
 Wednesday                 1337 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Thursday                  1311 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Friday                    1427 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Thursday                  1314 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Friday                    1428 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
 Saturday                  1158 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
 Sunday                    1583 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
 ```
@@ -61,16 +61,16 @@ Sunday                    1583 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+06-09-2024  wca-rest-api             New API build
+05-09-2024  robiningelbrecht         Updated GitHub profile
+05-09-2024  strava-activities        Updated strava activities
+05-09-2024  strava-activities        Updated strava activities
 05-09-2024  wca-rest-api             New API build
 04-09-2024  robiningelbrecht         Updated GitHub profile
 04-09-2024  robiningelbrecht.be      New site build
 04-09-2024  strava-activities        Updated strava activities
 04-09-2024  strava-activities        Updated strava activities
 04-09-2024  sauce-for-tcg-collector  Exclude singles without price from quick access link
-04-09-2024  sauce-for-tcg-collector  Exclude singles without price from quick access link
-04-09-2024  wca-rest-api             New API build
-03-09-2024  robiningelbrecht         Updated GitHub profile
-03-09-2024  robiningelbrecht.be      New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1583 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/12341844217" title="Kcal: 786 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">41 <sup><sub>km</sub></sup></td>
+            <td align="center">473 <sup><sub>m</sub></sup></td>
+            <td align="center">1:30:18</td>
+            <td align="center">152 <sup><sub>w</sub></sup></td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">134</td>
+        </tr>
+            <tr>
             <td>04-09-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Aerobic Builds in Makuri Islands" title="Aerobic Builds in Makuri Islands"/>
@@ -220,19 +233,6 @@ Sunday                    1583 commits     ████░░░░░░░░�
             <td align="center">188 <sup><sub>w</sub></sup></td>
             <td align="center">29.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>30-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
-<a href="https://www.strava.com/activities/12283198118" title="Kcal: 473 | Gear: None ">Morning Ride</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">138 <sup><sub>m</sub></sup></td>
-            <td align="center">1:19:24</td>
-            <td align="center">66 <sup><sub>w</sub></sup></td>
-            <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">110</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
