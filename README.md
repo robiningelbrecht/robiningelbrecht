@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2191 commits     ██████░░░░░░░░░░░░░░░░░░░   22.36 %
-🌆 Daytime                 3811 commits     ██████████░░░░░░░░░░░░░░░   38.90 %
-🌃 Evening                 3461 commits     █████████░░░░░░░░░░░░░░░░   35.32 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.42 %
+🌞 Morning                 2191 commits     ██████░░░░░░░░░░░░░░░░░░░   22.31 %
+🌆 Daytime                 3828 commits     ██████████░░░░░░░░░░░░░░░   38.99 %
+🌃 Evening                 3465 commits     █████████░░░░░░░░░░░░░░░░   35.29 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.41 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1583 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Tuesday                   1375 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Wednesday                 1342 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Thursday                  1315 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Friday                    1432 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Saturday                  1163 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Sunday                    1588 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Monday                    1583 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Tuesday                   1375 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Wednesday                 1342 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Thursday                  1319 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Friday                    1449 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Saturday                  1163 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Sunday                    1588 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1588 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-12-09-2024  wca-rest-api         New API build
-11-09-2024  robiningelbrecht     Updated GitHub profile
-11-09-2024  robiningelbrecht.be  New site build
-11-09-2024  strava-activities    Updated strava activities
-11-09-2024  strava-activities    Updated strava activities
-11-09-2024  wca-rest-api         New API build
-10-09-2024  robiningelbrecht     Updated GitHub profile
-10-09-2024  robiningelbrecht.be  New site build
-10-09-2024  strava-activities    Updated strava activities
-10-09-2024  strava-activities    Updated strava activities
+13-09-2024  strava-activities           Updated strava activities
+13-09-2024  strava-activities           Updated strava activities
+13-09-2024  strava-activities           Updated template to latest version
+13-09-2024  strava-activities           Updated template to latest version
+13-09-2024  strava-activities-template  Merge pull request #342 from robiningelbrecht/update-gear-retirement  Update gear retirement
+13-09-2024  strava-activities-template  Update gear retirement
+13-09-2024  strava-activities           Updated strava activities
+13-09-2024  strava-activities           Updated strava activities
+13-09-2024  strava-activities           Updated strava activities
+13-09-2024  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,6 +170,19 @@ Sunday                    1588 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>13-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Radio Rendezvous in Watopia" title="Radio Rendezvous in Watopia"/>
+<a href="https://www.strava.com/activities/12400585708" title="Kcal: 790 | Gear: None ">Radio Rendezvous in Watopia</a>
+            </td>
+            <td align="center">30 <sup><sub>km</sub></sup></td>
+            <td align="center">792 <sup><sub>m</sub></sup></td>
+            <td align="center">1:01:40</td>
+            <td align="center">224 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">166</td>
+        </tr>
+            <tr>
             <td>12-09-24</td>
             <td>
                                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
@@ -220,19 +233,6 @@ Sunday                    1588 commits     ████░░░░░░░░�
             <td align="center">197 <sup><sub>w</sub></sup></td>
             <td align="center">36.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">156</td>
-        </tr>
-            <tr>
-            <td>08-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Poelberg met Rubbie" title="Poelberg met Rubbie"/>
-<a href="https://www.strava.com/activities/12356702909" title="Kcal: 2654 | Gear: None ">Poelberg met Rubbie</a>
-            </td>
-            <td align="center">101 <sup><sub>km</sub></sup></td>
-            <td align="center">192 <sup><sub>m</sub></sup></td>
-            <td align="center">3:19:26</td>
-            <td align="center">155 <sup><sub>w</sub></sup></td>
-            <td align="center">30.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">160</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
