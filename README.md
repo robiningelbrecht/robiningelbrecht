@@ -36,10 +36,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2193 commits     ██████░░░░░░░░░░░░░░░░░░░   22.23 %
-🌆 Daytime                 3836 commits     ██████████░░░░░░░░░░░░░░░   38.88 %
-🌃 Evening                 3501 commits     █████████░░░░░░░░░░░░░░░░   35.49 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.40 %
+🌞 Morning                 2193 commits     ██████░░░░░░░░░░░░░░░░░░░   22.22 %
+🌆 Daytime                 3837 commits     ██████████░░░░░░░░░░░░░░░   38.88 %
+🌃 Evening                 3505 commits     █████████░░░░░░░░░░░░░░░░   35.51 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.39 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -47,13 +47,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1590 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Tuesday                   1380 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Monday                    1591 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Tuesday                   1380 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
 Wednesday                 1347 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Thursday                  1324 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Friday                    1458 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Saturday                  1172 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Sunday                    1594 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+Thursday                  1324 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Friday                    1458 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Saturday                  1172 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Sunday                    1598 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -61,16 +61,16 @@ Sunday                    1594 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+23-09-2024  wca-rest-api         New API build
+22-09-2024  robiningelbrecht     Updated GitHub profile
+22-09-2024  robiningelbrecht.be  New site build
+22-09-2024  strava-activities    Updated strava activities
+22-09-2024  strava-activities    Updated strava activities
 22-09-2024  wca-rest-api         New API build
 21-09-2024  robiningelbrecht     Updated GitHub profile
 21-09-2024  robiningelbrecht.be  New site build
 21-09-2024  strava-activities    Updated strava activities
 21-09-2024  strava-activities    Updated strava activities
-21-09-2024  wca-rest-api         New API build
-20-09-2024  robiningelbrecht     Updated GitHub profile
-20-09-2024  robiningelbrecht.be  New site build
-20-09-2024  strava-activities    Updated strava activities
-20-09-2024  strava-activities    Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -170,13 +170,39 @@ Sunday                    1594 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-09-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/12484505809" title="Kcal: 565 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">38 <sup><sub>km</sub></sup></td>
+            <td align="center">59 <sup><sub>m</sub></sup></td>
+            <td align="center">1:05:44</td>
+            <td align="center">150 <sup><sub>w</sub></sup></td>
+            <td align="center">35.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
+            <td>23-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Morning Ride" title="Morning Ride"/>
+<a href="https://www.strava.com/activities/12481701291" title="Kcal: 254 | Gear: None ">Morning Ride</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">23 <sup><sub>m</sub></sup></td>
+            <td align="center">36:11</td>
+            <td align="center">56 <sup><sub>w</sub></sup></td>
+            <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">111</td>
+        </tr>
+            <tr>
             <td>22-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afternoon Ride" title="Afternoon Ride"/>
 <a href="https://www.strava.com/activities/12475860348" title="Kcal: 1437 | Gear: None ">Afternoon Ride</a>
             </td>
             <td align="center">58 <sup><sub>km</sub></sup></td>
-            <td align="center">157 <sup><sub>m</sub></sup></td>
+            <td align="center">20 <sup><sub>m</sub></sup></td>
             <td align="center">1:44:52</td>
             <td align="center">200 <sup><sub>w</sub></sup></td>
             <td align="center">32.9 <sup><sub>km/h</sub></sup></td>
@@ -207,32 +233,6 @@ Sunday                    1594 commits     ████░░░░░░░░�
             <td align="center">140 <sup><sub>w</sub></sup></td>
             <td align="center">21.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>18-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="#1 🇫🇷 Vogezen" title="#1 🇫🇷 Vogezen"/>
-<a href="https://www.strava.com/activities/12441365827" title="Kcal: 2905 | Gear: None ">#1 🇫🇷 Vogezen</a>
-            </td>
-            <td align="center">73 <sup><sub>km</sub></sup></td>
-            <td align="center">1 669 <sup><sub>m</sub></sup></td>
-            <td align="center">3:52:20</td>
-            <td align="center">126 <sup><sub>w</sub></sup></td>
-            <td align="center">18.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">155</td>
-        </tr>
-            <tr>
-            <td>16-09-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Navig8 in Watopia" title="Navig8 in Watopia"/>
-<a href="https://www.strava.com/activities/12425123716" title="Kcal: 1175 | Gear: None ">Navig8 in Watopia</a>
-            </td>
-            <td align="center">64 <sup><sub>km</sub></sup></td>
-            <td align="center">418 <sup><sub>m</sub></sup></td>
-            <td align="center">1:49:26</td>
-            <td align="center">187 <sup><sub>w</sub></sup></td>
-            <td align="center">35.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">156</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
