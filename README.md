@@ -37,10 +37,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2222 commits     ██████░░░░░░░░░░░░░░░░░░░   22.10 %
-🌆 Daytime                 3901 commits     ██████████░░░░░░░░░░░░░░░   38.79 %
-🌃 Evening                 3598 commits     █████████░░░░░░░░░░░░░░░░   35.78 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.33 %
+🌞 Morning                 2222 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
+🌆 Daytime                 3913 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
+🌃 Evening                 3606 commits     █████████░░░░░░░░░░░░░░░░   35.79 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.32 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Tuesday                   1447 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Wednesday                 1363 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Thursday                  1354 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Wednesday                 1375 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Thursday                  1354 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1614 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-15-10-2024  configuration  Update README.md
-15-10-2024  configuration  Delete raspberry-pi/wireguard.conf
-15-10-2024  configuration  Update hoptspot.sh
-15-10-2024  configuration  Update hoptspot.sh
-15-10-2024  wca-rest-api   New API build
-15-10-2024  configuration  Update hoptspot.sh
-15-10-2024  configuration  Update hoptspot.sh
-15-10-2024  configuration  Update hoptspot.sh
-15-10-2024  configuration  Update README.md
-15-10-2024  configuration  Create wireguard.conf
+16-10-2024  wca-rest-api   New API build
+16-10-2024  raspberry-pi   Update hotspot.sh
+16-10-2024  raspberry-pi   Make hotspot executable
+16-10-2024  raspberry-pi   Update README.md
+16-10-2024  raspberry-pi   Update README.md
+16-10-2024  raspberry-pi   Update README.md
+16-10-2024  configuration  Delete raspberry-pi directory
+16-10-2024  raspberry-pi   Update README.md
+16-10-2024  raspberry-pi   Create hotspot.sh
+16-10-2024  raspberry-pi   Create config.sh
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -93,6 +93,19 @@ Sunday                    1614 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>16-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Group Ride: Standard | Stage 1 | Tour of Watopia Ride on Figure 8 in Watopia" title="Group Ride: Standard | Stage 1 | Tour of Watopia Ride on Figure 8 in Watopia"/>
+<a href="https://www.strava.com/activities/12670458885" title="Kcal: 617 | Gear: None ">Group Ride: Standard | Sta...</a>
+            </td>
+            <td align="center">36 <sup><sub>km</sub></sup></td>
+            <td align="center">278 <sup><sub>m</sub></sup></td>
+            <td align="center">1:00:31</td>
+            <td align="center">173 <sup><sub>w</sub></sup></td>
+            <td align="center">35.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
             <tr>
             <td>15-10-24</td>
             <td>
@@ -144,19 +157,6 @@ Sunday                    1614 commits     ████░░░░░░░░�
             <td align="center">178 <sup><sub>w</sub></sup></td>
             <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">158</td>
-        </tr>
-            <tr>
-            <td>11-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Night Ride" title="Night Ride"/>
-<a href="https://www.strava.com/activities/12634110554" title="Kcal: 194 | Gear: None ">Night Ride</a>
-            </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">26 <sup><sub>m</sub></sup></td>
-            <td align="center">31:28</td>
-            <td align="center">52 <sup><sub>w</sub></sup></td>
-            <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">90</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
