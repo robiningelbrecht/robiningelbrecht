@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2222 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
-🌆 Daytime                 3913 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
-🌃 Evening                 3606 commits     █████████░░░░░░░░░░░░░░░░   35.79 %
+🌞 Morning                 2224 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
+🌆 Daytime                 3917 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
+🌃 Evening                 3612 commits     █████████░░░░░░░░░░░░░░░░   35.80 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.32 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Wednesday                 1375 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Thursday                  1354 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Wednesday                 1381 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Thursday                  1360 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1614 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-16-10-2024  wca-rest-api   New API build
-16-10-2024  raspberry-pi   Update hotspot.sh
-16-10-2024  raspberry-pi   Make hotspot executable
-16-10-2024  raspberry-pi   Update README.md
-16-10-2024  raspberry-pi   Update README.md
-16-10-2024  raspberry-pi   Update README.md
-16-10-2024  configuration  Delete raspberry-pi directory
-16-10-2024  raspberry-pi   Update README.md
-16-10-2024  raspberry-pi   Create hotspot.sh
-16-10-2024  raspberry-pi   Create config.sh
+17-10-2024  tcg-collector-japanese-prices  Added more data to json file
+17-10-2024  tcg-collector-japanese-prices  Output results to file
+17-10-2024  tcg-collector-japanese-prices  Calculate approx value of collection
+17-10-2024  wca-rest-api                   New API build
+17-10-2024  tcg-collector-japanese-prices  Api for JpnCards
+17-10-2024  tcg-collector-japanese-prices  Client for TcgCollector
+16-10-2024  robiningelbrecht.be            New site build
+16-10-2024  robiningelbrecht               Updated GitHub profile
+16-10-2024  tcg-collector-japanese-prices  Initial commit
+16-10-2024  tcg-collector-japanese-prices  Initial commit
 ```
 <!--END_SECTION:most-recent-commits-->
 
