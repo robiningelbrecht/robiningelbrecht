@@ -37,10 +37,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2224 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
-🌆 Daytime                 3917 commits     ██████████░░░░░░░░░░░░░░░   38.83 %
-🌃 Evening                 3612 commits     █████████░░░░░░░░░░░░░░░░   35.80 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.32 %
+🌞 Morning                 2232 commits     ██████░░░░░░░░░░░░░░░░░░░   22.08 %
+🌆 Daytime                 3921 commits     ██████████░░░░░░░░░░░░░░░   38.78 %
+🌃 Evening                 3616 commits     █████████░░░░░░░░░░░░░░░░   35.77 %
+🌙 Night                   341 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.37 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Wednesday                 1381 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Thursday                  1360 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Wednesday                 1381 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Thursday                  1364 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Friday                    1491 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1614 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-17-10-2024  tcg-collector-japanese-prices  Added more data to json file
-17-10-2024  tcg-collector-japanese-prices  Output results to file
-17-10-2024  tcg-collector-japanese-prices  Calculate approx value of collection
-17-10-2024  wca-rest-api                   New API build
-17-10-2024  tcg-collector-japanese-prices  Api for JpnCards
-17-10-2024  tcg-collector-japanese-prices  Client for TcgCollector
-16-10-2024  robiningelbrecht.be            New site build
-16-10-2024  robiningelbrecht               Updated GitHub profile
-16-10-2024  tcg-collector-japanese-prices  Initial commit
-16-10-2024  tcg-collector-japanese-prices  Initial commit
+18-10-2024  raspberry-pi                   Update hotspot.sh
+18-10-2024  raspberry-pi                   Update README.md
+18-10-2024  raspberry-pi                   Update hotspot.sh
+18-10-2024  wca-rest-api                   New API build
+18-10-2024  raspberry-pi                   Delete config.sh
+18-10-2024  raspberry-pi                   Update README.md
+18-10-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+18-10-2024  tcg-collector-japanese-prices  Fix composer.json
+18-10-2024  tcg-collector-japanese-prices  Fix composer.json
+18-10-2024  tcg-collector-japanese-prices  Update automatically via workflow
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -93,6 +93,19 @@ Sunday                    1614 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>18-10-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
+<a href="https://www.strava.com/activities/12685900942" title="Kcal: 759 | Gear: None ">Zone 2 in Watopia</a>
+            </td>
+            <td align="center">49 <sup><sub>km</sub></sup></td>
+            <td align="center">79 <sup><sub>m</sub></sup></td>
+            <td align="center">1:24:04</td>
+            <td align="center">158 <sup><sub>w</sub></sup></td>
+            <td align="center">35.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
             <tr>
             <td>16-10-24</td>
             <td>
@@ -144,19 +157,6 @@ Sunday                    1614 commits     ████░░░░░░░░�
             <td align="center">51 <sup><sub>w</sub></sup></td>
             <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">111</td>
-        </tr>
-            <tr>
-            <td>13-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Op z&#039;n zondags" title="Op z&#039;n zondags"/>
-<a href="https://www.strava.com/activities/12644533397" title="Kcal: 2840 | Gear: None ">Op z&#039;n zondags</a>
-            </td>
-            <td align="center">110 <sup><sub>km</sub></sup></td>
-            <td align="center">140 <sup><sub>m</sub></sup></td>
-            <td align="center">3:56:26</td>
-            <td align="center">178 <sup><sub>w</sub></sup></td>
-            <td align="center">27.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">158</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
