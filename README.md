@@ -37,10 +37,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2288 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
-🌆 Daytime                 3993 commits     ██████████░░░░░░░░░░░░░░░   38.49 %
-🌃 Evening                 3750 commits     █████████░░░░░░░░░░░░░░░░   36.14 %
-🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.32 %
+🌞 Morning                 2296 commits     ██████░░░░░░░░░░░░░░░░░░░   22.07 %
+🌆 Daytime                 4004 commits     ██████████░░░░░░░░░░░░░░░   38.49 %
+🌃 Evening                 3759 commits     █████████░░░░░░░░░░░░░░░░   36.13 %
+🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.31 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1662 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-Tuesday                   1502 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Wednesday                 1420 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Thursday                  1385 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Friday                    1521 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Saturday                  1224 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Sunday                    1661 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Monday                    1685 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Tuesday                   1502 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Wednesday                 1420 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Thursday                  1385 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Friday                    1521 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Saturday                  1224 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Sunday                    1666 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1661 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Update README.md
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added CartStatus enum
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added CartStatus enum
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Cart Entity
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Customer entoty
-10-11-2024  symfony-skeleton                                         Fix PHPstan error
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Product entity
-10-11-2024  symfony-skeleton                                         Improved make file
-10-11-2024  symfony-skeleton                                         Added identifier
-10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Installed and configured Doctrine
+11-11-2024  symfony-skeleton                                         Added mysql container
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Updated readme
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Some little fixes + better initial data
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Some little fixes + better initial data
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Fixed docker compose
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Link to workflow in readme
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  GitHub workflow attempt 5
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  GitHub workflow attempt 4
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  GitHub workflow attempt 3
+11-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  GitHub workflow attempt 2
 ```
 <!--END_SECTION:most-recent-commits-->
 
