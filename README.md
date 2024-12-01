@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2366 commits     ██████░░░░░░░░░░░░░░░░░░░   22.25 %
-🌆 Daytime                 4035 commits     █████████░░░░░░░░░░░░░░░░   37.95 %
-🌃 Evening                 3884 commits     █████████░░░░░░░░░░░░░░░░   36.53 %
+🌞 Morning                 2366 commits     ██████░░░░░░░░░░░░░░░░░░░   22.24 %
+🌆 Daytime                 4036 commits     █████████░░░░░░░░░░░░░░░░   37.94 %
+🌃 Evening                 3889 commits     █████████░░░░░░░░░░░░░░░░   36.55 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.27 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1743 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Monday                    1743 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
 Tuesday                   1572 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Wednesday                 1465 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Thursday                  1408 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Friday                    1541 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Saturday                  1237 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Sunday                    1667 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Wednesday                 1465 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Thursday                  1408 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Friday                    1541 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Saturday                  1242 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Sunday                    1668 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1667 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+01-12-2024  wca-rest-api                   New API build
+30-11-2024  robiningelbrecht               Updated GitHub profile
+30-11-2024  robiningelbrecht.be            New site build
+30-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+30-11-2024  strava-activities              Updated strava activities
+30-11-2024  strava-activities              Updated strava activities
 30-11-2024  wca-rest-api                   New API build
 29-11-2024  robiningelbrecht               Updated GitHub profile
 29-11-2024  robiningelbrecht.be            New site build
 29-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-29-11-2024  media-assets                   Add files via upload
-29-11-2024  strava-activities              Updated strava activities
-29-11-2024  strava-activities              Updated strava activities
-29-11-2024  media-assets                   Add files via upload
-29-11-2024  wca-rest-api                   New API build
-28-11-2024  robiningelbrecht.be            New site build
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -93,6 +93,19 @@ Sunday                    1667 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>01-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zwift Camp: Baseline | Attack the Bunch in Watopia" title="Zwift Camp: Baseline | Attack the Bunch in Watopia"/>
+<a href="https://www.strava.com/activities/13022198497" title="Kcal: 553 | Gear: None ">Zwift Camp: Baseline | Att...</a>
+            </td>
+            <td align="center">33 <sup><sub>km</sub></sup></td>
+            <td align="center">53 <sup><sub>m</sub></sup></td>
+            <td align="center">53:23</td>
+            <td align="center">181 <sup><sub>w</sub></sup></td>
+            <td align="center">37.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">155</td>
+        </tr>
             <tr>
             <td>29-11-24</td>
             <td>
@@ -144,19 +157,6 @@ Sunday                    1667 commits     ████░░░░░░░░�
             <td align="center">186 <sup><sub>w</sub></sup></td>
             <td align="center">36.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>25-11-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/12981255655" title="Kcal: 330 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">22 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">35:11</td>
-            <td align="center">164 <sup><sub>w</sub></sup></td>
-            <td align="center">36.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
