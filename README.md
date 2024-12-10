@@ -37,10 +37,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2366 commits     ██████░░░░░░░░░░░░░░░░░░░   22.14 %
-🌆 Daytime                 4044 commits     █████████░░░░░░░░░░░░░░░░   37.85 %
-🌃 Evening                 3927 commits     █████████░░░░░░░░░░░░░░░░   36.75 %
-🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.26 %
+🌞 Morning                 2370 commits     ██████░░░░░░░░░░░░░░░░░░░   22.13 %
+🌆 Daytime                 4060 commits     █████████░░░░░░░░░░░░░░░░   37.91 %
+🌃 Evening                 3932 commits     █████████░░░░░░░░░░░░░░░░   36.71 %
+🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.25 %
 ```
 <!--END_SECTION:commits-per-day-time-->
 
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1750 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Tuesday                   1578 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Wednesday                 1471 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Thursday                  1414 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Saturday                  1248 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Tuesday                   1598 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Wednesday                 1471 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Thursday                  1414 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Saturday                  1248 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1678 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-09-12-2024  wca-rest-api                   New API build
-08-12-2024  robiningelbrecht               Updated GitHub profile
-08-12-2024  robiningelbrecht.be            New site build
-08-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-08-12-2024  strava-activities              Updated strava activities
-08-12-2024  strava-activities              Updated strava activities
-08-12-2024  wca-rest-api                   New API build
-07-12-2024  robiningelbrecht               Updated GitHub profile
-07-12-2024  robiningelbrecht.be            New site build
-07-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+10-12-2024  strava-statistics  Fix tests
+10-12-2024  strava-statistics  Tank you Stan
+10-12-2024  wca-rest-api       New API build
+10-12-2024  strava-statistics  Stan still helping me
+10-12-2024  strava-statistics  More PHPstan fixes
+10-12-2024  strava-statistics  Removed all read models
+10-12-2024  strava-statistics  Be moving code around
+10-12-2024  strava-statistics  Removed obsolete code
+10-12-2024  strava-statistics  Removing read models
+10-12-2024  strava-statistics  Be fixing repositories
 ```
 <!--END_SECTION:most-recent-commits-->
 
