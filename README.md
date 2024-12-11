@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2370 commits     ██████░░░░░░░░░░░░░░░░░░░   22.13 %
-🌆 Daytime                 4060 commits     █████████░░░░░░░░░░░░░░░░   37.91 %
-🌃 Evening                 3932 commits     █████████░░░░░░░░░░░░░░░░   36.71 %
+🌞 Morning                 2370 commits     ██████░░░░░░░░░░░░░░░░░░░   22.12 %
+🌆 Daytime                 4061 commits     █████████░░░░░░░░░░░░░░░░   37.90 %
+🌃 Evening                 3937 commits     █████████░░░░░░░░░░░░░░░░   36.74 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.25 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Tuesday                   1598 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.92 %
-Wednesday                 1471 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Tuesday                   1603 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Wednesday                 1472 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74 %
 Thursday                  1414 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
 Saturday                  1248 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1678 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-10-12-2024  strava-statistics  Fix tests
-10-12-2024  strava-statistics  Tank you Stan
-10-12-2024  wca-rest-api       New API build
-10-12-2024  strava-statistics  Stan still helping me
-10-12-2024  strava-statistics  More PHPstan fixes
-10-12-2024  strava-statistics  Removed all read models
-10-12-2024  strava-statistics  Be moving code around
-10-12-2024  strava-statistics  Removed obsolete code
-10-12-2024  strava-statistics  Removing read models
-10-12-2024  strava-statistics  Be fixing repositories
+11-12-2024  wca-rest-api                   New API build
+10-12-2024  robiningelbrecht               Updated GitHub profile
+10-12-2024  robiningelbrecht.be            New site build
+10-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+10-12-2024  strava-activities              Updated strava activities
+10-12-2024  strava-activities              Updated strava activities
+10-12-2024  strava-statistics              Fix tests
+10-12-2024  strava-statistics              Tank you Stan
+10-12-2024  wca-rest-api                   New API build
+10-12-2024  strava-statistics              Stan still helping me
 ```
 <!--END_SECTION:most-recent-commits-->
 
@@ -93,6 +93,19 @@ Sunday                    1678 commits     ████░░░░░░░░�
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>11-12-24</td>
+            <td>
+                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="The Uber Pretzel in Watopia" title="The Uber Pretzel in Watopia"/>
+<a href="https://www.strava.com/activities/13092783734" title="Kcal: 3008 | Gear: None ">The Uber Pretzel in Watopia</a>
+            </td>
+            <td align="center">151 <sup><sub>km</sub></sup></td>
+            <td align="center">2 480 <sup><sub>m</sub></sup></td>
+            <td align="center">6:00:41</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
             <tr>
             <td>08-12-24</td>
             <td>
@@ -144,19 +157,6 @@ Sunday                    1678 commits     ████░░░░░░░░�
             <td align="center">171 <sup><sub>w</sub></sup></td>
             <td align="center">34.5 <sup><sub>km/h</sub></sup></td>
             <td align="center">147</td>
-        </tr>
-            <tr>
-            <td>04-12-24</td>
-            <td>
-                                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-virtual-ride-zwift.svg" width="12" alt="Zone 2 in Watopia" title="Zone 2 in Watopia"/>
-<a href="https://www.strava.com/activities/13046464945" title="Kcal: 1011 | Gear: None ">Zone 2 in Watopia</a>
-            </td>
-            <td align="center">61 <sup><sub>km</sub></sup></td>
-            <td align="center">94 <sup><sub>m</sub></sup></td>
-            <td align="center">1:34:23</td>
-            <td align="center">187 <sup><sub>w</sub></sup></td>
-            <td align="center">38.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">156</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
