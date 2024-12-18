@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2382 commits     ██████░░░░░░░░░░░░░░░░░░░   22.05 %
-🌆 Daytime                 4094 commits     █████████░░░░░░░░░░░░░░░░   37.89 %
-🌃 Evening                 3980 commits     █████████░░░░░░░░░░░░░░░░   36.84 %
+🌞 Morning                 2382 commits     ██████░░░░░░░░░░░░░░░░░░░   22.04 %
+🌆 Daytime                 4095 commits     █████████░░░░░░░░░░░░░░░░   37.89 %
+🌃 Evening                 3983 commits     █████████░░░░░░░░░░░░░░░░   36.85 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.22 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,12 +48,12 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1767 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Tuesday                   1613 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Wednesday                 1477 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Monday                    1767 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Tuesday                   1616 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Wednesday                 1478 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
 Thursday                  1435 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
 Friday                    1556 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Saturday                  1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Saturday                  1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
 Sunday                    1700 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
 ```
 <!--END_SECTION:commits-per-weekday-->
@@ -62,16 +62,16 @@ Sunday                    1700 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-17-12-2024  strava-statistics  ISSUE-9: Imoroved error handling
-17-12-2024  strava-statistics  ISSUE-2: Ahtlete weight division by zero
-17-12-2024  strava-statistics  CD/Cd
-17-12-2024  strava-statistics  Snappies
-17-12-2024  wca-rest-api       New API build
-17-12-2024  strava-statistics  Better readme
-17-12-2024  strava-statistics  Better readme
-17-12-2024  strava-statistics  Better readme
-17-12-2024  strava-statistics  Better readme
-17-12-2024  strava-statistics  Better readme
+18-12-2024  wca-rest-api                   New API build
+17-12-2024  robiningelbrecht               Updated GitHub profile
+17-12-2024  robiningelbrecht.be            New site build
+17-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+17-12-2024  strava-statistics              ISSUE-9: Imoroved error handling
+17-12-2024  strava-statistics              ISSUE-2: Ahtlete weight division by zero
+17-12-2024  strava-statistics              CD/Cd
+17-12-2024  strava-statistics              Snappies
+17-12-2024  wca-rest-api                   New API build
+17-12-2024  strava-statistics              Better readme
 ```
 <!--END_SECTION:most-recent-commits-->
 
