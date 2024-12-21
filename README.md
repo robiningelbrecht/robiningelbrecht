@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2382 commits     █████░░░░░░░░░░░░░░░░░░░░   22.00 %
-🌆 Daytime                 4107 commits     █████████░░░░░░░░░░░░░░░░   37.93 %
-🌃 Evening                 3992 commits     █████████░░░░░░░░░░░░░░░░   36.86 %
+🌞 Morning                 2382 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99 %
+🌆 Daytime                 4108 commits     █████████░░░░░░░░░░░░░░░░   37.92 %
+🌃 Evening                 3995 commits     █████████░░░░░░░░░░░░░░░░   36.88 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.21 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,13 +48,13 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1767 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Monday                    1767 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
 Tuesday                   1616 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.92 %
-Wednesday                 1481 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Thursday                  1439 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Friday                    1570 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Saturday                  1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Sunday                    1700 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Wednesday                 1481 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Thursday                  1439 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Friday                    1573 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Saturday                  1257 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Sunday                    1700 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
 ```
 <!--END_SECTION:commits-per-weekday-->
 
@@ -62,16 +62,16 @@ Sunday                    1700 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
-20-12-2024  strava-statistics  Fix readme
-20-12-2024  strava-statistics  Fix readme
-20-12-2024  strava-statistics  Fix docker image builds
-20-12-2024  strava-statistics  ISSUE-16: PHP 8.4 upgrade
-20-12-2024  strava-statistics  ISSUE-16: PHP 8.4 upgrade
-20-12-2024  wca-rest-api       New API build
-20-12-2024  strava-statistics  ISSUE-12: Add ARM64 support
-20-12-2024  strava-statistics  Thans Stan
-20-12-2024  strava-statistics  Import athlete weights
-20-12-2024  strava-statistics  ISSUE-5: Input athlete weight
+21-12-2024  wca-rest-api                   New API build
+20-12-2024  robiningelbrecht               Updated GitHub profile
+20-12-2024  robiningelbrecht.be            New site build
+20-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+20-12-2024  strava-statistics              Fix readme
+20-12-2024  strava-statistics              Fix readme
+20-12-2024  strava-statistics              Fix docker image builds
+20-12-2024  strava-statistics              ISSUE-16: PHP 8.4 upgrade
+20-12-2024  strava-statistics              ISSUE-16: PHP 8.4 upgrade
+20-12-2024  wca-rest-api                   New API build
 ```
 <!--END_SECTION:most-recent-commits-->
 
