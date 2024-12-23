@@ -79,12 +79,6 @@ Sunday                    1727 commits     ████░░░░░░░░�
 
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
 
-## :bike: Latest Strava activities
-
-<!--START_SECTION:strava-activities-->
-
-<!--END_SECTION:strava-activities-->
-
  ## :sparkles: GitHub Trophies
 
 <img src="assets/github-streak-stats.svg"  alt="Robin Ingelbrecht's streak stats"/>
