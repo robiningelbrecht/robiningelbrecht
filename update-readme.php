@@ -4,12 +4,10 @@ $readme = file_get_contents('README.md');
 $dayTimeSummary = file_get_contents('https://raw.githubusercontent.com/robiningelbrecht/github-commit-history/master/build/markdown/commit-history-day-time-summary.md');
 $weekDaySummary = file_get_contents('https://raw.githubusercontent.com/robiningelbrecht/github-commit-history/master/build/markdown/commit-history-week-day-summary.md');
 $mostRecentCommitsSummary = file_get_contents('https://raw.githubusercontent.com/robiningelbrecht/github-commit-history/master/build/markdown/most-recent-commits.md');
-$stravaActivities = file_get_contents('https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/build/strava-activities-latest.md');
 
 $readme = replaceReadMeSection('commits-per-day-time', $dayTimeSummary, $readme);
 $readme = replaceReadMeSection('commits-per-weekday', $weekDaySummary, $readme);
 $readme = replaceReadMeSection('most-recent-commits', $mostRecentCommitsSummary, $readme);
-$readme = replaceReadMeSection('strava-activities', $stravaActivities, $readme);
 file_put_contents('README.md', $readme);
 
 file_put_contents(
