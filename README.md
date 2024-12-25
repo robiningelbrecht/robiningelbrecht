@@ -37,9 +37,9 @@ If you like what I'm doing, please consider supporting me 🙏
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2409 commits     ██████░░░░░░░░░░░░░░░░░░░   22.15 %
-🌆 Daytime                 4114 commits     █████████░░░░░░░░░░░░░░░░   37.82 %
-🌃 Evening                 4007 commits     █████████░░░░░░░░░░░░░░░░   36.84 %
+🌞 Morning                 2409 commits     ██████░░░░░░░░░░░░░░░░░░░   22.14 %
+🌆 Daytime                 4115 commits     █████████░░░░░░░░░░░░░░░░   37.81 %
+🌃 Evening                 4010 commits     █████████░░░░░░░░░░░░░░░░   36.85 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.20 %
 ```
 <!--END_SECTION:commits-per-day-time-->
@@ -48,10 +48,10 @@ If you like what I'm doing, please consider supporting me 🙏
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1774 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Tuesday                   1619 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
-Wednesday                 1481 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Thursday                  1439 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Monday                    1774 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Tuesday                   1622 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Wednesday                 1482 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Thursday                  1439 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
 Friday                    1573 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
 Saturday                  1260 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
 Sunday                    1732 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
@@ -62,16 +62,16 @@ Sunday                    1732 commits     ████░░░░░░░░�
 **⏳ Most recent commits**
                                         
 ```text
+25-12-2024  wca-rest-api                   New API build
+24-12-2024  robiningelbrecht               Updated GitHub profile
+24-12-2024  robiningelbrecht.be            New site build
+24-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
 24-12-2024  wca-rest-api                   New API build
 24-12-2024  strava-statistics              ISSUE-33: Bump app version
 24-12-2024  strava-statistics              ISSUE-33: Mark KOM segments, make them searchable
 23-12-2024  robiningelbrecht               Updated GitHub profile
 23-12-2024  robiningelbrecht.be            New site build
 23-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-23-12-2024  strava-statistics              ISSUE-15: Gor rid of alpe du zwift
-23-12-2024  robiningelbrecht               Update update-readme.php
-23-12-2024  robiningelbrecht               Update README.md
-23-12-2024  wca-rest-api                   New API build
 ```
 <!--END_SECTION:most-recent-commits-->
 
