@@ -33,48 +33,6 @@ If you like what I'm doing, please consider supporting me 🙏
 ![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
 
-<!--START_SECTION:commits-per-day-time-->
-**I&#039;m an Early 🐤**
-
-```text
-🌞 Morning                 2409 commits     ██████░░░░░░░░░░░░░░░░░░░   22.07 %
-🌆 Daytime                 4131 commits     █████████░░░░░░░░░░░░░░░░   37.85 %
-🌃 Evening                 4025 commits     █████████░░░░░░░░░░░░░░░░   36.88 %
-🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.19 %
-```
-<!--END_SECTION:commits-per-day-time-->
-
-<!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Monday**
-
-```text
-Monday                    1774 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Tuesday                   1622 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Wednesday                 1485 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Thursday                  1449 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Friday                    1585 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Saturday                  1264 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Sunday                    1734 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-```
-<!--END_SECTION:commits-per-weekday-->
-
-<!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-29-12-2024  robiningelbrecht.be            Added location to header
-29-12-2024  wca-rest-api                   New API build
-28-12-2024  robiningelbrecht               Updated GitHub profile
-28-12-2024  robiningelbrecht.be            New site build
-28-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-28-12-2024  wca-rest-api                   New API build
-27-12-2024  robiningelbrecht               Updated GitHub profile
-27-12-2024  robiningelbrecht.be            New site build
-27-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-27-12-2024  robiningelbrecht.be            New site build
-```
-<!--END_SECTION:most-recent-commits-->
-
 ## :pencil: Latest blog posts
 
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
