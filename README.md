@@ -39,4 +39,6 @@ If you like what I'm doing, please consider supporting me 🙏
 
  ## :sparkles: GitHub Trophies
 
+ <img src="assets/github-streak-stats.svg"  alt="Robin Ingelbrecht's streak stats"/>
+
 ![](https://github-profile-trophy.vercel.app/?username=robiningelbrecht&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
