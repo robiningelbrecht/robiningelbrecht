@@ -7,5 +7,5 @@ file_put_contents(
 
 file_put_contents(
     __DIR__.'/assets/github-streak-stats.svg',
-    file_get_contents('https://github-readme-streak-stats.herokuapp.com/?user=robiningelbrecht'),
+    file_get_contents('https://github-readme-stats.vercel.app/api?username=robiningelbrecht&show_icons=true'),
 );
