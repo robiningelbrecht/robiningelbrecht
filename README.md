@@ -37,6 +37,10 @@ If you like what I'm doing, please consider supporting me 🙏
 
 <a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
 
+## :bike: Sporty Spice
+
+<a target="_blank" href="https://strava-statistics.robiningelbrecht.be"><img src="https://strava-statistics.robiningelbrecht.be/files/badge.svg" /></a>
+
  ## :sparkles: GitHub Trophies
 
  <img src="assets/github-streak-stats.svg"  alt="Robin Ingelbrecht's streak stats"/>
