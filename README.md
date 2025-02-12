@@ -35,7 +35,7 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ## :pencil: Latest blog posts
 
-<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a>
+<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a> 
 
 ## :bike: Sporty Spice
 
