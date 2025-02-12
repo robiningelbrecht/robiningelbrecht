@@ -39,7 +39,7 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ## :bike: Sporty Spice
 
-<a target="_blank" href="https://strava-statistics.robiningelbrecht.be"><img src="https://strava-statistics.robiningelbrecht.be/files/badge.svg" /></a>
+<a target="_blank" href="https://strava-statistics.robiningelbrecht.be"><img src="https://strava-statistics.robiningelbrecht.be/files/badge.svg?" /></a>
 
  ## :sparkles: GitHub Trophies
 
