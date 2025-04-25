@@ -39,8 +39,8 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ## :bike: Sporty Spice
 
-<a target="_blank" href="https://strava-statistics.robiningelbrecht.be"><img src="https://strava-statistics.robiningelbrecht.be/files/strava-badge.svg" /></a>
-<a target="_blank" href="https://strava-statistics.robiningelbrecht.be"><img src="https://strava-statistics.robiningelbrecht.be/files/zwift-badge.svg" /></a>
+<a target="_blank" href="https://statistics-for-strava.robiningelbrecht.be"><img src="https://statistics-for-strava.robiningelbrecht.be/files/strava-badge.svg" /></a>
+<a target="_blank" href="https://statistics-for-strava.robiningelbrecht.be"><img src="https://statistics-for-strava.robiningelbrecht.be/files/zwift-badge.svg" /></a>
 
  ## :sparkles: GitHub Trophies
 
