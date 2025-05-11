@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Robin Ingelbrecht's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 874, Total Commits in 2025 : 2121, Total PRs: 564, Total Issues: 233, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 874, Total Commits in 2025 : 2101, Total PRs: 564, Total Issues: 233, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.853145400783296;
+        stroke-dashoffset: 15.859815962623257;
       }
     }
   
