@@ -18,7 +18,6 @@ If you like what I'm doing, please consider supporting me 🙏
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
