@@ -32,10 +32,6 @@ If you like what I'm doing, please consider supporting me 🙏
 ![](https://img.shields.io/badge/Devops-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GitHub-continuous%20integration-informational?style=flat&logo=github%20actions&logoColor=white&color=2bbc8a)
 
-## :pencil: Latest blog posts
-
-<a target="_blank" href="https://ingelbrechtrobin.medium.com/"><img src="assets/medium-blog-posts.svg" /></a> 
-
 ## :bike: Sporty Spice
 
 <a target="_blank" href="https://statistics-for-strava.robiningelbrecht.be"><img src="https://statistics-for-strava.robiningelbrecht.be/files/strava-badge.svg" /></a>
