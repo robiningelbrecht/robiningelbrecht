@@ -27,8 +27,7 @@ function extractFirstImage(string $html): ?string
     return null;
 }
 
-$columns = 2;
-$cells = [];
+$tableRows = [];
 
 foreach ($feed['items'] as $post) {
     $title = htmlspecialchars($post['title'], ENT_QUOTES);
@@ -36,24 +35,25 @@ foreach ($feed['items'] as $post) {
     $pubDate = date('M d, Y', strtotime($post['pubDate']));
     $image = $post['thumbnail'] ?: extractFirstImage($post['description'] ?? '');
 
-    $cell = '<td align="center" width="50%">' . "\n";
+    $imgCell = '<td width="150">';
     if ($image) {
-        $cell .= '  <a href="' . $link . '"><img src="' . $image . '" alt="' . $title . '" width="400"></a><br>' . "\n";
+        $imgCell .= "\n" . '  <a href="' . $link . '"><img src="' . $image . '" alt="' . $title . '" width="150"></a>';
     }
-    $cell .= '  <a href="' . $link . '"><strong>' . $title . '</strong></a><br>' . "\n";
-    $cell .= '  <sub>' . $pubDate . '</sub>' . "\n";
-    $cell .= '</td>';
+    $imgCell .= "\n</td>";
 
-    $cells[] = $cell;
-}
-
-$rows = array_chunk($cells, $columns);
-$tableRows = [];
-foreach ($rows as $row) {
-    while (count($row) < $columns) {
-        $row[] = '<td></td>';
+    $description = trim(strip_tags($post['description'] ?? ''));
+    $description = preg_replace('/\s+/', ' ', $description);
+    if (mb_strlen($description) > 120) {
+        $description = mb_substr($description, 0, 120) . '...';
     }
-    $tableRows[] = "<tr>\n" . implode("\n", $row) . "\n</tr>";
+
+    $textCell = '<td>' . "\n";
+    $textCell .= '  <a href="' . $link . '"><strong>' . $title . '</strong></a><br>' . "\n";
+    $textCell .= '  <sub>' . htmlspecialchars($description, ENT_QUOTES) . '</sub><br>' . "\n";
+    $textCell .= '  <sub>' . $pubDate . '</sub>' . "\n";
+    $textCell .= '</td>';
+
+    $tableRows[] = "<tr>\n" . $imgCell . "\n" . $textCell . "\n</tr>";
 }
 
 $blogPostsMarkdown = "<table>\n" . implode("\n", $tableRows) . "\n</table>";
