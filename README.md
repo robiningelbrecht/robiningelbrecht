@@ -17,6 +17,16 @@ If you like what I'm doing, please consider supporting me 🙏
 <table>
 <tr>
 <td width="150">
+  <a href="https://ingelbrechtrobin.medium.com/windahead-weather-and-wind-analysis-for-cycling-and-running-routes-494134899465?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/1024/0*xAWb22f5Ww35R1IB.png" alt="WindAhead, weather and wind analysis for cycling and running routes" width="150"></a>
+</td>
+<td>
+  <a href="https://ingelbrechtrobin.medium.com/windahead-weather-and-wind-analysis-for-cycling-and-running-routes-494134899465?source=rss-45b70a6f6d97------2"><strong>WindAhead, weather and wind analysis for cycling and running routes</strong></a><br>
+  <sub>Runs 100% in your browser. No uploads. No data stored. I’m an amateur cyclist, which means I plan most of my own routes....</sub><br>
+  <sub>May 13, 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="150">
   <a href="https://ingelbrechtrobin.medium.com/adding-intensity-to-zone-2-my-weekly-zwift-training-plan-bc1b9f9185d3?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/1024/1*aRmaRGyeD5L0UCGQFjy40Q.png" alt="Adding intensity to zone 2: my weekly Zwift training plan" width="150"></a>
 </td>
 <td>
@@ -103,16 +113,6 @@ If you like what I'm doing, please consider supporting me 🙏
   <a href="https://ingelbrechtrobin.medium.com/i-created-a-public-api-that-exposes-wca-competition-results-2135e091bbe8?source=rss-45b70a6f6d97------2"><strong>I created a public API that exposes WCA competition results</strong></a><br>
   <sub>The World Cube Association governs competitions for mechanical puzzles that are operated by twisting groups of pieces, c...</sub><br>
   <sub>Jul 21, 2023</sub>
-</td>
-</tr>
-<tr>
-<td width="150">
-  <a href="https://ingelbrechtrobin.medium.com/how-i-got-to-solving-the-rubiks-cube-in-under-30-seconds-5b50bcc27b3a?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/1024/0*M1Aoa2GMC0ofpOvx" alt="How I got to solving the Rubik’s cube in under 30 seconds" width="150"></a>
-</td>
-<td>
-  <a href="https://ingelbrechtrobin.medium.com/how-i-got-to-solving-the-rubiks-cube-in-under-30-seconds-5b50bcc27b3a?source=rss-45b70a6f6d97------2"><strong>How I got to solving the Rubik’s cube in under 30 seconds</strong></a><br>
-  <sub>About six months ago I wrote a blog post about how I got to solving the Rubik’s cube in under 60 seconds consistently. S...</sub><br>
-  <sub>Jul 11, 2023</sub>
 </td>
 </tr>
 </table>
