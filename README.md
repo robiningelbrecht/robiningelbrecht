@@ -17,6 +17,16 @@ If you like what I'm doing, please consider supporting me 🙏
 <table>
 <tr>
 <td width="150">
+  <a href="https://ingelbrechtrobin.medium.com/dreeve-v5-0-a-self-hosted-solution-beyond-strava-bef036cdedbf?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/1024/0*b3y90-0oFxxasBWE" alt="Dreeve v5.0: a self-hosted solution beyond Strava" width="150"></a>
+</td>
+<td>
+  <a href="https://ingelbrechtrobin.medium.com/dreeve-v5-0-a-self-hosted-solution-beyond-strava-bef036cdedbf?source=rss-45b70a6f6d97------2"><strong>Dreeve v5.0: a self-hosted solution beyond Strava</strong></a><br>
+  <sub>A few months ago, Strava announced changes to it’s API program that affected a lot of developers. This had a huge impact...</sub><br>
+  <sub>Jul 24, 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="150">
   <a href="https://ingelbrechtrobin.medium.com/windahead-weather-and-wind-analysis-for-cycling-and-running-routes-494134899465?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/1024/0*xAWb22f5Ww35R1IB.png" alt="WindAhead, weather and wind analysis for cycling and running routes" width="150"></a>
 </td>
 <td>
@@ -103,16 +113,6 @@ If you like what I'm doing, please consider supporting me 🙏
   <a href="https://ingelbrechtrobin.medium.com/transform-your-raspberry-pi-into-a-digital-photo-frame-09d053d4fb9b?source=rss-45b70a6f6d97------2"><strong>Transform Your Raspberry Pi into a Digital Photo Frame</strong></a><br>
   <sub>The Raspberry Pi is an affordable, compact device that can easily turn a monitor into a customisable digital photo frame...</sub><br>
   <sub>Oct 30, 2024</sub>
-</td>
-</tr>
-<tr>
-<td width="150">
-  <a href="https://ingelbrechtrobin.medium.com/i-created-a-public-api-that-exposes-wca-competition-results-2135e091bbe8?source=rss-45b70a6f6d97------2"><img src="https://cdn-images-1.medium.com/max/640/1*9J55osyX3YAdADxJa5rgHA.png" alt="I created a public API that exposes WCA competition results" width="150"></a>
-</td>
-<td>
-  <a href="https://ingelbrechtrobin.medium.com/i-created-a-public-api-that-exposes-wca-competition-results-2135e091bbe8?source=rss-45b70a6f6d97------2"><strong>I created a public API that exposes WCA competition results</strong></a><br>
-  <sub>The World Cube Association governs competitions for mechanical puzzles that are operated by twisting groups of pieces, c...</sub><br>
-  <sub>Jul 21, 2023</sub>
 </td>
 </tr>
 </table>
