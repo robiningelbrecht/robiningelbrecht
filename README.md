@@ -8,8 +8,8 @@ If you like what I'm doing, please consider supporting me 🙏
 
 ## :bike: Sporty Spice
 
-<a target="_blank" href="https://statistics-for-strava.robiningelbrecht.be"><img src="https://statistics-for-strava.robiningelbrecht.be/files/strava-badge.svg?token=test" /></a>
-<a target="_blank" href="https://statistics-for-strava.robiningelbrecht.be"><img src="https://statistics-for-strava.robiningelbrecht.be/files/zwift-badge.svg?token=test" /></a>
+<a target="_blank" href="https://demo.dreeve.app"><img src="https://demo.dreeve.app/files/strava-badge.svg?token=test" /></a>
+<a target="_blank" href="https://demo.dreeve.app"><img src="https://demo.dreeve.app/files/zwift-badge.svg?token=test" /></a>
 
 ## :pencil: Latest blog posts
 
