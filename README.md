@@ -31,7 +31,7 @@ If you like what I'm doing, please consider supporting me 🙏
 </td>
 <td>
   <a href="https://ingelbrechtrobin.medium.com/windahead-weather-and-wind-analysis-for-cycling-and-running-routes-494134899465?source=rss-45b70a6f6d97------2"><strong>WindAhead, weather and wind analysis for cycling and running routes</strong></a><br>
-  <sub>Runs 100% in your browser. No uploads. No data stored. I’m an amateur cyclist, which means I plan most of my own routes....</sub><br>
+  <sub>Runs 100% in your browser. No uploads. No data stored.I’m an amateur cyclist, which means I plan most of my own routes. ...</sub><br>
   <sub>May 13, 2026</sub>
 </td>
 </tr>
@@ -41,7 +41,7 @@ If you like what I'm doing, please consider supporting me 🙏
 </td>
 <td>
   <a href="https://ingelbrechtrobin.medium.com/adding-intensity-to-zone-2-my-weekly-zwift-training-plan-bc1b9f9185d3?source=rss-45b70a6f6d97------2"><strong>Adding intensity to zone 2: my weekly Zwift training plan</strong></a><br>
-  <sub>How I structured my week to improve fitness and build endurance Over the last 15 months, my Zwift training consisted mos...</sub><br>
+  <sub>How I structured my week to improve fitness and build enduranceOver the last 15 months, my Zwift training consisted most...</sub><br>
   <sub>Feb 18, 2026</sub>
 </td>
 </tr>
@@ -61,7 +61,7 @@ If you like what I'm doing, please consider supporting me 🙏
 </td>
 <td>
   <a href="https://ingelbrechtrobin.medium.com/one-year-of-statistics-for-strava-aec486385f46?source=rss-45b70a6f6d97------2"><strong>One year of Statistics for Strava</strong></a><br>
-  <sub>From a personal tool to a thriving open-source project. Exactly one year ago I released the very first version of Statis...</sub><br>
+  <sub>From a personal tool to a thriving open-source project.Exactly one year ago I released the very first version of Statist...</sub><br>
   <sub>Dec 15, 2025</sub>
 </td>
 </tr>
@@ -71,7 +71,7 @@ If you like what I'm doing, please consider supporting me 🙏
 </td>
 <td>
   <a href="https://ingelbrechtrobin.medium.com/the-power-of-symfonys-service-container-a27499762415?source=rss-45b70a6f6d97------2"><strong>The power of Symfony’s service container</strong></a><br>
-  <sub>Building a more reliable Mutex service with attributes and autoconfiguration A few weeks back I Implemented a custom Mut...</sub><br>
+  <sub>Building a more reliable Mutex service with attributes and autoconfigurationA few weeks back I Implemented a custom Mute...</sub><br>
   <sub>Dec 08, 2025</sub>
 </td>
 </tr>
@@ -81,7 +81,7 @@ If you like what I'm doing, please consider supporting me 🙏
 </td>
 <td>
   <a href="https://ingelbrechtrobin.medium.com/theres-no-place-like-127-0-0-1-7a21a500a0f8?source=rss-45b70a6f6d97------2"><strong>There’s no place like 127.0.0.1</strong></a><br>
-  <sub>A tour through my self-hosted setup Back in November 2024 I came across r/selfhosted, a subreddit to share, discuss and ...</sub><br>
+  <sub>A tour through my self-hosted setupBack in November 2024 I came across r/selfhosted, a subreddit to share, discuss and d...</sub><br>
   <sub>Nov 23, 2025</sub>
 </td>
 </tr>
